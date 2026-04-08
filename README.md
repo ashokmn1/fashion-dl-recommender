@@ -20,17 +20,67 @@ User Profile ← Interaction History              Beam Search ← Compatibility 
 - **Outfit Generation** — FAISS nearest-neighbor retrieval + beam search + MMR diversity re-ranking
 - **Serving** — FastAPI REST API with Docker deployment
 
-## Quick Start
+## Prerequisites
 
-### 1. Install dependencies
+- **Python:** 3.9 or higher
+- **OS:** macOS, Linux, or Windows
+- **Hardware:** CPU-only is supported; GPU (CUDA) optional for faster training
+
+## Environment Setup
+
+### 1. Create and activate a virtual environment
 
 ```bash
 python -m venv venv
-source venv/bin/activate
+source venv/bin/activate        # macOS/Linux
+# venv\Scripts\activate         # Windows
+```
+
+### 2. Install the package with all dependencies
+
+```bash
 pip install -e ".[dev]"
 ```
 
-### 2. Generate the synthetic dataset
+This installs the following dependencies:
+
+#### Core Dependencies
+
+| Package              | Version   | Purpose                                      |
+|----------------------|-----------|----------------------------------------------|
+| torch                | ≥2.0.0    | Deep learning framework (model training/inference) |
+| torchvision          | ≥0.15.0   | Image transforms and pretrained ResNet-50 backbone |
+| transformers         | ≥4.30.0   | Hugging Face model hub integration           |
+| sentence-transformers| ≥2.2.0    | Sentence-BERT text encoder (`all-MiniLM-L6-v2`) |
+| faiss-cpu            | ≥1.7.4    | Approximate nearest neighbor search (FAISS index) |
+| fastapi              | ≥0.100.0  | REST API framework for serving recommendations |
+| uvicorn              | ≥0.23.0   | ASGI server to run the FastAPI application   |
+| pydantic             | ≥2.0.0    | Request/response validation and serialization |
+| numpy                | ≥1.24.0   | Numerical computing for embeddings and arrays |
+| pandas               | ≥2.0.0    | Data manipulation for dataset and interactions |
+| scikit-learn         | ≥1.3.0    | TF-IDF, SVD, and preprocessing utilities     |
+| Pillow               | ≥10.0.0   | Synthetic product image generation (224x224 PNGs) |
+| mlflow               | ≥2.5.0    | Experiment tracking and metric logging       |
+| matplotlib           | ≥3.7.0    | Training visualization and metric plots      |
+| seaborn              | ≥0.12.0   | Statistical data visualization               |
+| tqdm                 | ≥4.65.0   | Progress bars for training and data generation |
+| pyyaml               | ≥6.0      | YAML configuration file parsing              |
+| redis                | ≥4.6.0    | Caching layer for production deployment      |
+| implicit             | ≥0.7.0    | Collaborative filtering utilities            |
+| python-multipart     | ≥0.0.6    | File upload support for FastAPI              |
+
+#### Dev Dependencies
+
+| Package    | Version  | Purpose                        |
+|------------|----------|--------------------------------|
+| pytest     | ≥7.4.0   | Test framework                 |
+| pytest-cov | ≥4.1.0   | Code coverage reporting        |
+| ruff       | ≥0.1.0   | Linter and formatter           |
+| pre-commit | ≥3.3.0   | Git pre-commit hook management |
+
+## Quick Start
+
+### 1. Generate the synthetic dataset
 
 ```bash
 python scripts/generate_dataset.py
@@ -38,19 +88,19 @@ python scripts/generate_dataset.py
 
 This creates 5,000 fashion items, 1,200 outfits, 500 user profiles, and 50K interaction events with synthetic product images.
 
-### 3. Train the compatibility model
+### 2. Train the compatibility model
 
 ```bash
 python scripts/train.py --epochs 30 --batch_size 64
 ```
 
-### 4. Evaluate
+### 3. Evaluate
 
 ```bash
 python scripts/evaluate.py
 ```
 
-### 5. Start the API server
+### 4. Start the API server
 
 ```bash
 uvicorn src.api.main:app --host 0.0.0.0 --port 8000
