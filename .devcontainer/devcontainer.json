@@ -1,0 +1,33 @@
+{
+  "name": "Fashion DL Recommender",
+  "image": "mcr.microsoft.com/devcontainers/python:3.11",
+  "features": {
+    "ghcr.io/devcontainers/features/docker-in-docker:2": {}
+  },
+  "postCreateCommand": "pip install --upgrade pip && pip install -e '.[dev]'",
+  "postStartCommand": "python scripts/generate_dataset.py",
+  "forwardPorts": [8000, 6379],
+  "portsAttributes": {
+    "8000": {
+      "label": "API Server",
+      "onAutoForward": "notify"
+    },
+    "6379": {
+      "label": "Redis",
+      "onAutoForward": "silent"
+    }
+  },
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "ms-python.python",
+        "ms-python.vscode-pylance"
+      ],
+      "settings": {
+        "python.defaultInterpreterPath": "/usr/local/bin/python",
+        "python.testing.pytestEnabled": true,
+        "python.testing.pytestArgs": ["tests/"]
+      }
+    }
+  }
+}

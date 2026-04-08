@@ -116,39 +116,36 @@ docker-compose up --build
 
 ## Running in GitHub Codespaces
 
+The project includes a `.devcontainer/devcontainer.json` that automatically configures the environment.
+
 ### 1. Create a Codespace
 
 - Go to your GitHub repository
 - Click the green **Code** button → **Codespaces** tab → **Create codespace on main**
-- Wait for the Codespace to build and open in the browser-based VS Code editor
+- Wait for the Codespace to build (the devcontainer will automatically install Python 3.11 and all dependencies)
 
-### 2. Install dependencies
+The devcontainer handles the following on creation:
+- Sets up **Python 3.11** base image
+- Runs `pip install -e ".[dev]"` to install all dependencies
+- Generates the synthetic dataset on first start
+- Forwards port **8000** (API) and **6379** (Redis)
+- Installs Python and Pylance VS Code extensions
 
-```bash
-python -m venv venv
-source venv/bin/activate
-pip install -e ".[dev]"
-```
+### 2. Train the model
 
-### 3. Generate the dataset
-
-```bash
-python scripts/generate_dataset.py
-```
-
-### 4. Train the model
+Once the Codespace is ready and the terminal is available:
 
 ```bash
 python scripts/train.py --epochs 30 --batch_size 64
 ```
 
-### 5. Run evaluation
+### 3. Run evaluation
 
 ```bash
 python scripts/evaluate.py
 ```
 
-### 6. Start the API server
+### 4. Start the API server
 
 ```bash
 uvicorn src.api.main:app --host 0.0.0.0 --port 8000
@@ -158,7 +155,7 @@ Codespaces will show a notification to **Open in Browser** when port 8000 become
 
 > You can also go to the **Ports** tab in the Codespaces terminal panel, find port 8000, and click the globe icon to open it.
 
-### 7. Test the API
+### 5. Test the API
 
 ```bash
 curl -X POST http://localhost:8000/recommend/complete-look \
@@ -166,7 +163,7 @@ curl -X POST http://localhost:8000/recommend/complete-look \
   -d '{"item_id": 42, "user_id": 1, "num_outfits": 3}'
 ```
 
-### 8. Run tests
+### 6. Run tests
 
 ```bash
 pytest tests/ -v
@@ -174,7 +171,7 @@ pytest tests/ -v
 
 ### Alternative: Run with Docker in Codespaces
 
-Docker is pre-installed in Codespaces, so you can also run:
+Docker is available inside the Codespace (via Docker-in-Docker), so you can also run:
 
 ```bash
 docker-compose up --build
