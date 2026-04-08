@@ -1,0 +1,7746 @@
+[
+  {
+    "user_id": 0,
+    "preferred_styles": [
+      "summer_light",
+      "winter_cozy",
+      "formal_classic"
+    ],
+    "preferred_colors": [
+      "brown",
+      "white",
+      "grey",
+      "black",
+      "blue"
+    ],
+    "gender": "women",
+    "age_group": "45+"
+  },
+  {
+    "user_id": 1,
+    "preferred_styles": [
+      "formal_classic",
+      "winter_cozy"
+    ],
+    "preferred_colors": [
+      "navy",
+      "grey",
+      "pink",
+      "white",
+      "brown"
+    ],
+    "gender": "men",
+    "age_group": "25-34"
+  },
+  {
+    "user_id": 2,
+    "preferred_styles": [
+      "sporty_active",
+      "winter_cozy"
+    ],
+    "preferred_colors": [
+      "black",
+      "blue",
+      "grey"
+    ],
+    "gender": "unisex",
+    "age_group": "18-24"
+  },
+  {
+    "user_id": 3,
+    "preferred_styles": [
+      "sporty_active"
+    ],
+    "preferred_colors": [
+      "red",
+      "pink",
+      "grey",
+      "olive"
+    ],
+    "gender": "unisex",
+    "age_group": "45+"
+  },
+  {
+    "user_id": 4,
+    "preferred_styles": [
+      "casual_everyday",
+      "sporty_active"
+    ],
+    "preferred_colors": [
+      "olive",
+      "navy",
+      "blue",
+      "burgundy",
+      "pink"
+    ],
+    "gender": "men",
+    "age_group": "25-34"
+  },
+  {
+    "user_id": 5,
+    "preferred_styles": [
+      "casual_everyday"
+    ],
+    "preferred_colors": [
+      "pink",
+      "burgundy",
+      "red",
+      "navy"
+    ],
+    "gender": "unisex",
+    "age_group": "18-24"
+  },
+  {
+    "user_id": 6,
+    "preferred_styles": [
+      "summer_light"
+    ],
+    "preferred_colors": [
+      "olive",
+      "blue",
+      "black",
+      "pink",
+      "navy",
+      "green"
+    ],
+    "gender": "men",
+    "age_group": "35-44"
+  },
+  {
+    "user_id": 7,
+    "preferred_styles": [
+      "summer_light"
+    ],
+    "preferred_colors": [
+      "pink",
+      "brown",
+      "red"
+    ],
+    "gender": "unisex",
+    "age_group": "18-24"
+  },
+  {
+    "user_id": 8,
+    "preferred_styles": [
+      "casual_everyday",
+      "formal_classic",
+      "streetwear"
+    ],
+    "preferred_colors": [
+      "black",
+      "grey",
+      "white",
+      "blue"
+    ],
+    "gender": "women",
+    "age_group": "25-34"
+  },
+  {
+    "user_id": 9,
+    "preferred_styles": [
+      "streetwear"
+    ],
+    "preferred_colors": [
+      "green",
+      "black",
+      "brown",
+      "navy",
+      "grey"
+    ],
+    "gender": "women",
+    "age_group": "35-44"
+  },
+  {
+    "user_id": 10,
+    "preferred_styles": [
+      "winter_cozy",
+      "sporty_active",
+      "summer_light"
+    ],
+    "preferred_colors": [
+      "brown",
+      "white",
+      "pink",
+      "grey",
+      "blue"
+    ],
+    "gender": "women",
+    "age_group": "35-44"
+  },
+  {
+    "user_id": 11,
+    "preferred_styles": [
+      "sporty_active",
+      "summer_light"
+    ],
+    "preferred_colors": [
+      "brown",
+      "navy",
+      "olive",
+      "red",
+      "pink"
+    ],
+    "gender": "women",
+    "age_group": "45+"
+  },
+  {
+    "user_id": 12,
+    "preferred_styles": [
+      "formal_classic",
+      "streetwear"
+    ],
+    "preferred_colors": [
+      "blue",
+      "beige",
+      "burgundy"
+    ],
+    "gender": "men",
+    "age_group": "18-24"
+  },
+  {
+    "user_id": 13,
+    "preferred_styles": [
+      "sporty_active",
+      "summer_light",
+      "streetwear"
+    ],
+    "preferred_colors": [
+      "beige",
+      "green",
+      "brown",
+      "pink"
+    ],
+    "gender": "men",
+    "age_group": "18-24"
+  },
+  {
+    "user_id": 14,
+    "preferred_styles": [
+      "summer_light",
+      "casual_everyday"
+    ],
+    "preferred_colors": [
+      "blue",
+      "green",
+      "black",
+      "white"
+    ],
+    "gender": "unisex",
+    "age_group": "45+"
+  },
+  {
+    "user_id": 15,
+    "preferred_styles": [
+      "casual_everyday",
+      "sporty_active",
+      "formal_classic"
+    ],
+    "preferred_colors": [
+      "burgundy",
+      "white",
+      "brown",
+      "olive",
+      "pink"
+    ],
+    "gender": "women",
+    "age_group": "45+"
+  },
+  {
+    "user_id": 16,
+    "preferred_styles": [
+      "summer_light"
+    ],
+    "preferred_colors": [
+      "navy",
+      "white",
+      "black",
+      "beige",
+      "burgundy",
+      "red"
+    ],
+    "gender": "women",
+    "age_group": "25-34"
+  },
+  {
+    "user_id": 17,
+    "preferred_styles": [
+      "summer_light"
+    ],
+    "preferred_colors": [
+      "grey",
+      "navy",
+      "black",
+      "olive",
+      "pink"
+    ],
+    "gender": "men",
+    "age_group": "25-34"
+  },
+  {
+    "user_id": 18,
+    "preferred_styles": [
+      "streetwear"
+    ],
+    "preferred_colors": [
+      "black",
+      "pink",
+      "navy"
+    ],
+    "gender": "men",
+    "age_group": "35-44"
+  },
+  {
+    "user_id": 19,
+    "preferred_styles": [
+      "formal_classic"
+    ],
+    "preferred_colors": [
+      "burgundy",
+      "blue",
+      "black",
+      "green",
+      "beige"
+    ],
+    "gender": "women",
+    "age_group": "45+"
+  },
+  {
+    "user_id": 20,
+    "preferred_styles": [
+      "formal_classic",
+      "winter_cozy"
+    ],
+    "preferred_colors": [
+      "burgundy",
+      "white",
+      "grey",
+      "navy",
+      "blue",
+      "beige"
+    ],
+    "gender": "men",
+    "age_group": "25-34"
+  },
+  {
+    "user_id": 21,
+    "preferred_styles": [
+      "sporty_active",
+      "formal_classic"
+    ],
+    "preferred_colors": [
+      "brown",
+      "burgundy",
+      "pink"
+    ],
+    "gender": "men",
+    "age_group": "18-24"
+  },
+  {
+    "user_id": 22,
+    "preferred_styles": [
+      "casual_everyday",
+      "streetwear"
+    ],
+    "preferred_colors": [
+      "beige",
+      "navy",
+      "black",
+      "red",
+      "grey"
+    ],
+    "gender": "men",
+    "age_group": "35-44"
+  },
+  {
+    "user_id": 23,
+    "preferred_styles": [
+      "streetwear",
+      "summer_light",
+      "casual_everyday"
+    ],
+    "preferred_colors": [
+      "olive",
+      "beige",
+      "grey"
+    ],
+    "gender": "unisex",
+    "age_group": "35-44"
+  },
+  {
+    "user_id": 24,
+    "preferred_styles": [
+      "formal_classic",
+      "casual_everyday",
+      "streetwear"
+    ],
+    "preferred_colors": [
+      "white",
+      "burgundy",
+      "blue",
+      "black"
+    ],
+    "gender": "men",
+    "age_group": "18-24"
+  },
+  {
+    "user_id": 25,
+    "preferred_styles": [
+      "summer_light"
+    ],
+    "preferred_colors": [
+      "blue",
+      "pink",
+      "navy",
+      "black",
+      "grey",
+      "brown"
+    ],
+    "gender": "unisex",
+    "age_group": "25-34"
+  },
+  {
+    "user_id": 26,
+    "preferred_styles": [
+      "streetwear",
+      "formal_classic",
+      "summer_light"
+    ],
+    "preferred_colors": [
+      "burgundy",
+      "red",
+      "blue"
+    ],
+    "gender": "unisex",
+    "age_group": "35-44"
+  },
+  {
+    "user_id": 27,
+    "preferred_styles": [
+      "casual_everyday",
+      "summer_light"
+    ],
+    "preferred_colors": [
+      "olive",
+      "burgundy",
+      "pink",
+      "navy",
+      "brown"
+    ],
+    "gender": "unisex",
+    "age_group": "35-44"
+  },
+  {
+    "user_id": 28,
+    "preferred_styles": [
+      "summer_light",
+      "casual_everyday",
+      "sporty_active"
+    ],
+    "preferred_colors": [
+      "black",
+      "burgundy",
+      "blue",
+      "brown",
+      "green"
+    ],
+    "gender": "unisex",
+    "age_group": "35-44"
+  },
+  {
+    "user_id": 29,
+    "preferred_styles": [
+      "streetwear"
+    ],
+    "preferred_colors": [
+      "olive",
+      "blue",
+      "green",
+      "beige"
+    ],
+    "gender": "men",
+    "age_group": "45+"
+  },
+  {
+    "user_id": 30,
+    "preferred_styles": [
+      "formal_classic",
+      "winter_cozy"
+    ],
+    "preferred_colors": [
+      "white",
+      "brown",
+      "black",
+      "burgundy",
+      "navy",
+      "green"
+    ],
+    "gender": "unisex",
+    "age_group": "45+"
+  },
+  {
+    "user_id": 31,
+    "preferred_styles": [
+      "formal_classic"
+    ],
+    "preferred_colors": [
+      "grey",
+      "green",
+      "pink",
+      "burgundy",
+      "blue"
+    ],
+    "gender": "women",
+    "age_group": "45+"
+  },
+  {
+    "user_id": 32,
+    "preferred_styles": [
+      "summer_light",
+      "sporty_active"
+    ],
+    "preferred_colors": [
+      "beige",
+      "blue",
+      "burgundy",
+      "pink",
+      "grey"
+    ],
+    "gender": "men",
+    "age_group": "45+"
+  },
+  {
+    "user_id": 33,
+    "preferred_styles": [
+      "streetwear",
+      "winter_cozy"
+    ],
+    "preferred_colors": [
+      "red",
+      "blue",
+      "brown"
+    ],
+    "gender": "unisex",
+    "age_group": "45+"
+  },
+  {
+    "user_id": 34,
+    "preferred_styles": [
+      "sporty_active",
+      "streetwear",
+      "casual_everyday"
+    ],
+    "preferred_colors": [
+      "navy",
+      "blue",
+      "burgundy",
+      "pink"
+    ],
+    "gender": "unisex",
+    "age_group": "45+"
+  },
+  {
+    "user_id": 35,
+    "preferred_styles": [
+      "streetwear",
+      "sporty_active",
+      "formal_classic"
+    ],
+    "preferred_colors": [
+      "olive",
+      "blue",
+      "burgundy",
+      "navy"
+    ],
+    "gender": "unisex",
+    "age_group": "35-44"
+  },
+  {
+    "user_id": 36,
+    "preferred_styles": [
+      "casual_everyday",
+      "sporty_active"
+    ],
+    "preferred_colors": [
+      "blue",
+      "pink",
+      "brown"
+    ],
+    "gender": "unisex",
+    "age_group": "35-44"
+  },
+  {
+    "user_id": 37,
+    "preferred_styles": [
+      "casual_everyday",
+      "sporty_active",
+      "streetwear"
+    ],
+    "preferred_colors": [
+      "pink",
+      "brown",
+      "red"
+    ],
+    "gender": "men",
+    "age_group": "35-44"
+  },
+  {
+    "user_id": 38,
+    "preferred_styles": [
+      "streetwear"
+    ],
+    "preferred_colors": [
+      "pink",
+      "black",
+      "green",
+      "white",
+      "red",
+      "grey"
+    ],
+    "gender": "men",
+    "age_group": "35-44"
+  },
+  {
+    "user_id": 39,
+    "preferred_styles": [
+      "winter_cozy"
+    ],
+    "preferred_colors": [
+      "pink",
+      "black",
+      "olive",
+      "green",
+      "grey",
+      "blue"
+    ],
+    "gender": "unisex",
+    "age_group": "35-44"
+  },
+  {
+    "user_id": 40,
+    "preferred_styles": [
+      "casual_everyday"
+    ],
+    "preferred_colors": [
+      "grey",
+      "green",
+      "black"
+    ],
+    "gender": "women",
+    "age_group": "35-44"
+  },
+  {
+    "user_id": 41,
+    "preferred_styles": [
+      "sporty_active"
+    ],
+    "preferred_colors": [
+      "green",
+      "blue",
+      "burgundy",
+      "white"
+    ],
+    "gender": "unisex",
+    "age_group": "45+"
+  },
+  {
+    "user_id": 42,
+    "preferred_styles": [
+      "casual_everyday",
+      "formal_classic"
+    ],
+    "preferred_colors": [
+      "navy",
+      "burgundy",
+      "black",
+      "brown",
+      "green"
+    ],
+    "gender": "women",
+    "age_group": "35-44"
+  },
+  {
+    "user_id": 43,
+    "preferred_styles": [
+      "formal_classic"
+    ],
+    "preferred_colors": [
+      "navy",
+      "white",
+      "green"
+    ],
+    "gender": "men",
+    "age_group": "35-44"
+  },
+  {
+    "user_id": 44,
+    "preferred_styles": [
+      "winter_cozy",
+      "streetwear",
+      "formal_classic"
+    ],
+    "preferred_colors": [
+      "white",
+      "pink",
+      "grey",
+      "burgundy",
+      "beige"
+    ],
+    "gender": "men",
+    "age_group": "35-44"
+  },
+  {
+    "user_id": 45,
+    "preferred_styles": [
+      "formal_classic",
+      "summer_light"
+    ],
+    "preferred_colors": [
+      "white",
+      "brown",
+      "burgundy"
+    ],
+    "gender": "unisex",
+    "age_group": "45+"
+  },
+  {
+    "user_id": 46,
+    "preferred_styles": [
+      "formal_classic"
+    ],
+    "preferred_colors": [
+      "brown",
+      "black",
+      "red",
+      "navy"
+    ],
+    "gender": "women",
+    "age_group": "35-44"
+  },
+  {
+    "user_id": 47,
+    "preferred_styles": [
+      "winter_cozy"
+    ],
+    "preferred_colors": [
+      "beige",
+      "white",
+      "blue",
+      "pink"
+    ],
+    "gender": "women",
+    "age_group": "18-24"
+  },
+  {
+    "user_id": 48,
+    "preferred_styles": [
+      "winter_cozy",
+      "formal_classic"
+    ],
+    "preferred_colors": [
+      "olive",
+      "beige",
+      "green"
+    ],
+    "gender": "unisex",
+    "age_group": "35-44"
+  },
+  {
+    "user_id": 49,
+    "preferred_styles": [
+      "casual_everyday",
+      "sporty_active",
+      "winter_cozy"
+    ],
+    "preferred_colors": [
+      "beige",
+      "brown",
+      "grey",
+      "navy",
+      "burgundy"
+    ],
+    "gender": "unisex",
+    "age_group": "18-24"
+  },
+  {
+    "user_id": 50,
+    "preferred_styles": [
+      "formal_classic",
+      "summer_light"
+    ],
+    "preferred_colors": [
+      "navy",
+      "white",
+      "green"
+    ],
+    "gender": "unisex",
+    "age_group": "35-44"
+  },
+  {
+    "user_id": 51,
+    "preferred_styles": [
+      "casual_everyday",
+      "formal_classic"
+    ],
+    "preferred_colors": [
+      "green",
+      "olive",
+      "pink",
+      "beige",
+      "grey"
+    ],
+    "gender": "unisex",
+    "age_group": "18-24"
+  },
+  {
+    "user_id": 52,
+    "preferred_styles": [
+      "sporty_active"
+    ],
+    "preferred_colors": [
+      "navy",
+      "white",
+      "red"
+    ],
+    "gender": "unisex",
+    "age_group": "25-34"
+  },
+  {
+    "user_id": 53,
+    "preferred_styles": [
+      "formal_classic",
+      "streetwear"
+    ],
+    "preferred_colors": [
+      "beige",
+      "burgundy",
+      "navy",
+      "white",
+      "red",
+      "green"
+    ],
+    "gender": "men",
+    "age_group": "25-34"
+  },
+  {
+    "user_id": 54,
+    "preferred_styles": [
+      "streetwear"
+    ],
+    "preferred_colors": [
+      "pink",
+      "blue",
+      "olive",
+      "black"
+    ],
+    "gender": "men",
+    "age_group": "18-24"
+  },
+  {
+    "user_id": 55,
+    "preferred_styles": [
+      "streetwear"
+    ],
+    "preferred_colors": [
+      "burgundy",
+      "white",
+      "navy",
+      "black",
+      "green",
+      "grey"
+    ],
+    "gender": "women",
+    "age_group": "35-44"
+  },
+  {
+    "user_id": 56,
+    "preferred_styles": [
+      "winter_cozy",
+      "streetwear",
+      "sporty_active"
+    ],
+    "preferred_colors": [
+      "green",
+      "red",
+      "pink",
+      "olive",
+      "beige",
+      "black"
+    ],
+    "gender": "unisex",
+    "age_group": "45+"
+  },
+  {
+    "user_id": 57,
+    "preferred_styles": [
+      "winter_cozy",
+      "casual_everyday"
+    ],
+    "preferred_colors": [
+      "olive",
+      "red",
+      "green",
+      "burgundy"
+    ],
+    "gender": "unisex",
+    "age_group": "25-34"
+  },
+  {
+    "user_id": 58,
+    "preferred_styles": [
+      "winter_cozy",
+      "streetwear"
+    ],
+    "preferred_colors": [
+      "grey",
+      "green",
+      "white"
+    ],
+    "gender": "women",
+    "age_group": "18-24"
+  },
+  {
+    "user_id": 59,
+    "preferred_styles": [
+      "casual_everyday",
+      "summer_light",
+      "streetwear"
+    ],
+    "preferred_colors": [
+      "green",
+      "brown",
+      "navy",
+      "burgundy",
+      "olive",
+      "pink"
+    ],
+    "gender": "women",
+    "age_group": "25-34"
+  },
+  {
+    "user_id": 60,
+    "preferred_styles": [
+      "summer_light",
+      "winter_cozy",
+      "sporty_active"
+    ],
+    "preferred_colors": [
+      "navy",
+      "red",
+      "green"
+    ],
+    "gender": "women",
+    "age_group": "45+"
+  },
+  {
+    "user_id": 61,
+    "preferred_styles": [
+      "casual_everyday",
+      "streetwear",
+      "sporty_active"
+    ],
+    "preferred_colors": [
+      "red",
+      "black",
+      "pink",
+      "olive",
+      "grey",
+      "beige"
+    ],
+    "gender": "unisex",
+    "age_group": "35-44"
+  },
+  {
+    "user_id": 62,
+    "preferred_styles": [
+      "sporty_active",
+      "winter_cozy",
+      "streetwear"
+    ],
+    "preferred_colors": [
+      "red",
+      "beige",
+      "olive",
+      "pink",
+      "grey",
+      "white"
+    ],
+    "gender": "unisex",
+    "age_group": "25-34"
+  },
+  {
+    "user_id": 63,
+    "preferred_styles": [
+      "sporty_active",
+      "summer_light",
+      "formal_classic"
+    ],
+    "preferred_colors": [
+      "red",
+      "burgundy",
+      "brown",
+      "grey",
+      "green",
+      "navy"
+    ],
+    "gender": "men",
+    "age_group": "18-24"
+  },
+  {
+    "user_id": 64,
+    "preferred_styles": [
+      "sporty_active"
+    ],
+    "preferred_colors": [
+      "navy",
+      "white",
+      "blue"
+    ],
+    "gender": "unisex",
+    "age_group": "35-44"
+  },
+  {
+    "user_id": 65,
+    "preferred_styles": [
+      "sporty_active",
+      "formal_classic",
+      "winter_cozy"
+    ],
+    "preferred_colors": [
+      "navy",
+      "grey",
+      "burgundy",
+      "brown",
+      "pink"
+    ],
+    "gender": "women",
+    "age_group": "18-24"
+  },
+  {
+    "user_id": 66,
+    "preferred_styles": [
+      "summer_light",
+      "streetwear"
+    ],
+    "preferred_colors": [
+      "black",
+      "blue",
+      "burgundy",
+      "navy",
+      "grey",
+      "brown"
+    ],
+    "gender": "men",
+    "age_group": "45+"
+  },
+  {
+    "user_id": 67,
+    "preferred_styles": [
+      "casual_everyday",
+      "summer_light"
+    ],
+    "preferred_colors": [
+      "brown",
+      "white",
+      "red",
+      "pink",
+      "green"
+    ],
+    "gender": "men",
+    "age_group": "25-34"
+  },
+  {
+    "user_id": 68,
+    "preferred_styles": [
+      "winter_cozy",
+      "formal_classic",
+      "streetwear"
+    ],
+    "preferred_colors": [
+      "navy",
+      "red",
+      "green",
+      "black",
+      "beige"
+    ],
+    "gender": "women",
+    "age_group": "35-44"
+  },
+  {
+    "user_id": 69,
+    "preferred_styles": [
+      "winter_cozy"
+    ],
+    "preferred_colors": [
+      "pink",
+      "red",
+      "burgundy",
+      "beige"
+    ],
+    "gender": "unisex",
+    "age_group": "45+"
+  },
+  {
+    "user_id": 70,
+    "preferred_styles": [
+      "formal_classic",
+      "summer_light",
+      "sporty_active"
+    ],
+    "preferred_colors": [
+      "red",
+      "pink",
+      "white",
+      "navy"
+    ],
+    "gender": "women",
+    "age_group": "35-44"
+  },
+  {
+    "user_id": 71,
+    "preferred_styles": [
+      "sporty_active",
+      "winter_cozy"
+    ],
+    "preferred_colors": [
+      "blue",
+      "green",
+      "burgundy",
+      "olive",
+      "beige",
+      "brown"
+    ],
+    "gender": "women",
+    "age_group": "18-24"
+  },
+  {
+    "user_id": 72,
+    "preferred_styles": [
+      "sporty_active"
+    ],
+    "preferred_colors": [
+      "olive",
+      "burgundy",
+      "brown"
+    ],
+    "gender": "men",
+    "age_group": "45+"
+  },
+  {
+    "user_id": 73,
+    "preferred_styles": [
+      "winter_cozy",
+      "formal_classic"
+    ],
+    "preferred_colors": [
+      "pink",
+      "burgundy",
+      "blue",
+      "brown",
+      "white",
+      "beige"
+    ],
+    "gender": "women",
+    "age_group": "25-34"
+  },
+  {
+    "user_id": 74,
+    "preferred_styles": [
+      "sporty_active",
+      "summer_light",
+      "streetwear"
+    ],
+    "preferred_colors": [
+      "blue",
+      "brown",
+      "navy",
+      "grey",
+      "olive"
+    ],
+    "gender": "unisex",
+    "age_group": "35-44"
+  },
+  {
+    "user_id": 75,
+    "preferred_styles": [
+      "casual_everyday",
+      "sporty_active",
+      "streetwear"
+    ],
+    "preferred_colors": [
+      "burgundy",
+      "red",
+      "beige"
+    ],
+    "gender": "men",
+    "age_group": "35-44"
+  },
+  {
+    "user_id": 76,
+    "preferred_styles": [
+      "summer_light",
+      "sporty_active",
+      "formal_classic"
+    ],
+    "preferred_colors": [
+      "white",
+      "brown",
+      "olive"
+    ],
+    "gender": "men",
+    "age_group": "35-44"
+  },
+  {
+    "user_id": 77,
+    "preferred_styles": [
+      "sporty_active"
+    ],
+    "preferred_colors": [
+      "blue",
+      "grey",
+      "black"
+    ],
+    "gender": "women",
+    "age_group": "25-34"
+  },
+  {
+    "user_id": 78,
+    "preferred_styles": [
+      "casual_everyday"
+    ],
+    "preferred_colors": [
+      "white",
+      "grey",
+      "navy",
+      "green",
+      "pink",
+      "brown"
+    ],
+    "gender": "women",
+    "age_group": "35-44"
+  },
+  {
+    "user_id": 79,
+    "preferred_styles": [
+      "streetwear",
+      "formal_classic",
+      "summer_light"
+    ],
+    "preferred_colors": [
+      "olive",
+      "brown",
+      "black"
+    ],
+    "gender": "men",
+    "age_group": "35-44"
+  },
+  {
+    "user_id": 80,
+    "preferred_styles": [
+      "winter_cozy",
+      "casual_everyday"
+    ],
+    "preferred_colors": [
+      "brown",
+      "pink",
+      "olive",
+      "green"
+    ],
+    "gender": "unisex",
+    "age_group": "25-34"
+  },
+  {
+    "user_id": 81,
+    "preferred_styles": [
+      "sporty_active"
+    ],
+    "preferred_colors": [
+      "blue",
+      "olive",
+      "burgundy",
+      "grey",
+      "green",
+      "red"
+    ],
+    "gender": "women",
+    "age_group": "25-34"
+  },
+  {
+    "user_id": 82,
+    "preferred_styles": [
+      "streetwear",
+      "casual_everyday"
+    ],
+    "preferred_colors": [
+      "grey",
+      "black",
+      "blue",
+      "burgundy"
+    ],
+    "gender": "unisex",
+    "age_group": "25-34"
+  },
+  {
+    "user_id": 83,
+    "preferred_styles": [
+      "summer_light"
+    ],
+    "preferred_colors": [
+      "olive",
+      "navy",
+      "green"
+    ],
+    "gender": "unisex",
+    "age_group": "45+"
+  },
+  {
+    "user_id": 84,
+    "preferred_styles": [
+      "formal_classic",
+      "casual_everyday",
+      "sporty_active"
+    ],
+    "preferred_colors": [
+      "red",
+      "green",
+      "brown"
+    ],
+    "gender": "unisex",
+    "age_group": "25-34"
+  },
+  {
+    "user_id": 85,
+    "preferred_styles": [
+      "sporty_active",
+      "summer_light",
+      "streetwear"
+    ],
+    "preferred_colors": [
+      "pink",
+      "olive",
+      "beige"
+    ],
+    "gender": "women",
+    "age_group": "25-34"
+  },
+  {
+    "user_id": 86,
+    "preferred_styles": [
+      "streetwear",
+      "sporty_active",
+      "formal_classic"
+    ],
+    "preferred_colors": [
+      "black",
+      "green",
+      "olive",
+      "brown",
+      "grey"
+    ],
+    "gender": "unisex",
+    "age_group": "25-34"
+  },
+  {
+    "user_id": 87,
+    "preferred_styles": [
+      "winter_cozy",
+      "casual_everyday"
+    ],
+    "preferred_colors": [
+      "green",
+      "navy",
+      "olive",
+      "pink",
+      "grey"
+    ],
+    "gender": "men",
+    "age_group": "18-24"
+  },
+  {
+    "user_id": 88,
+    "preferred_styles": [
+      "streetwear"
+    ],
+    "preferred_colors": [
+      "green",
+      "brown",
+      "burgundy",
+      "pink",
+      "blue"
+    ],
+    "gender": "unisex",
+    "age_group": "25-34"
+  },
+  {
+    "user_id": 89,
+    "preferred_styles": [
+      "streetwear"
+    ],
+    "preferred_colors": [
+      "burgundy",
+      "brown",
+      "grey",
+      "navy",
+      "white"
+    ],
+    "gender": "unisex",
+    "age_group": "45+"
+  },
+  {
+    "user_id": 90,
+    "preferred_styles": [
+      "formal_classic",
+      "sporty_active"
+    ],
+    "preferred_colors": [
+      "olive",
+      "burgundy",
+      "red",
+      "grey",
+      "black"
+    ],
+    "gender": "women",
+    "age_group": "45+"
+  },
+  {
+    "user_id": 91,
+    "preferred_styles": [
+      "formal_classic",
+      "sporty_active",
+      "winter_cozy"
+    ],
+    "preferred_colors": [
+      "black",
+      "olive",
+      "white"
+    ],
+    "gender": "men",
+    "age_group": "18-24"
+  },
+  {
+    "user_id": 92,
+    "preferred_styles": [
+      "sporty_active",
+      "streetwear",
+      "winter_cozy"
+    ],
+    "preferred_colors": [
+      "beige",
+      "red",
+      "navy",
+      "green",
+      "white",
+      "olive"
+    ],
+    "gender": "men",
+    "age_group": "25-34"
+  },
+  {
+    "user_id": 93,
+    "preferred_styles": [
+      "streetwear"
+    ],
+    "preferred_colors": [
+      "olive",
+      "grey",
+      "blue",
+      "brown",
+      "beige",
+      "white"
+    ],
+    "gender": "men",
+    "age_group": "35-44"
+  },
+  {
+    "user_id": 94,
+    "preferred_styles": [
+      "casual_everyday",
+      "formal_classic"
+    ],
+    "preferred_colors": [
+      "red",
+      "beige",
+      "olive"
+    ],
+    "gender": "unisex",
+    "age_group": "45+"
+  },
+  {
+    "user_id": 95,
+    "preferred_styles": [
+      "sporty_active",
+      "casual_everyday",
+      "formal_classic"
+    ],
+    "preferred_colors": [
+      "olive",
+      "brown",
+      "grey",
+      "white",
+      "pink",
+      "navy"
+    ],
+    "gender": "women",
+    "age_group": "35-44"
+  },
+  {
+    "user_id": 96,
+    "preferred_styles": [
+      "streetwear"
+    ],
+    "preferred_colors": [
+      "white",
+      "brown",
+      "olive",
+      "beige"
+    ],
+    "gender": "men",
+    "age_group": "35-44"
+  },
+  {
+    "user_id": 97,
+    "preferred_styles": [
+      "formal_classic"
+    ],
+    "preferred_colors": [
+      "beige",
+      "white",
+      "grey",
+      "navy",
+      "pink",
+      "brown"
+    ],
+    "gender": "men",
+    "age_group": "18-24"
+  },
+  {
+    "user_id": 98,
+    "preferred_styles": [
+      "formal_classic"
+    ],
+    "preferred_colors": [
+      "white",
+      "black",
+      "green",
+      "brown",
+      "navy"
+    ],
+    "gender": "women",
+    "age_group": "45+"
+  },
+  {
+    "user_id": 99,
+    "preferred_styles": [
+      "formal_classic"
+    ],
+    "preferred_colors": [
+      "white",
+      "grey",
+      "burgundy",
+      "blue",
+      "olive"
+    ],
+    "gender": "men",
+    "age_group": "35-44"
+  },
+  {
+    "user_id": 100,
+    "preferred_styles": [
+      "casual_everyday"
+    ],
+    "preferred_colors": [
+      "black",
+      "beige",
+      "blue",
+      "pink",
+      "burgundy",
+      "olive"
+    ],
+    "gender": "women",
+    "age_group": "45+"
+  },
+  {
+    "user_id": 101,
+    "preferred_styles": [
+      "casual_everyday",
+      "formal_classic",
+      "streetwear"
+    ],
+    "preferred_colors": [
+      "blue",
+      "beige",
+      "white",
+      "pink"
+    ],
+    "gender": "men",
+    "age_group": "35-44"
+  },
+  {
+    "user_id": 102,
+    "preferred_styles": [
+      "streetwear",
+      "formal_classic",
+      "sporty_active"
+    ],
+    "preferred_colors": [
+      "navy",
+      "grey",
+      "brown"
+    ],
+    "gender": "women",
+    "age_group": "25-34"
+  },
+  {
+    "user_id": 103,
+    "preferred_styles": [
+      "casual_everyday"
+    ],
+    "preferred_colors": [
+      "brown",
+      "white",
+      "olive",
+      "red",
+      "black"
+    ],
+    "gender": "women",
+    "age_group": "25-34"
+  },
+  {
+    "user_id": 104,
+    "preferred_styles": [
+      "streetwear",
+      "formal_classic",
+      "casual_everyday"
+    ],
+    "preferred_colors": [
+      "beige",
+      "olive",
+      "pink"
+    ],
+    "gender": "men",
+    "age_group": "18-24"
+  },
+  {
+    "user_id": 105,
+    "preferred_styles": [
+      "formal_classic",
+      "sporty_active"
+    ],
+    "preferred_colors": [
+      "blue",
+      "green",
+      "black",
+      "brown"
+    ],
+    "gender": "women",
+    "age_group": "45+"
+  },
+  {
+    "user_id": 106,
+    "preferred_styles": [
+      "sporty_active"
+    ],
+    "preferred_colors": [
+      "white",
+      "red",
+      "grey",
+      "beige",
+      "brown",
+      "pink"
+    ],
+    "gender": "men",
+    "age_group": "18-24"
+  },
+  {
+    "user_id": 107,
+    "preferred_styles": [
+      "winter_cozy",
+      "casual_everyday",
+      "summer_light"
+    ],
+    "preferred_colors": [
+      "beige",
+      "black",
+      "green"
+    ],
+    "gender": "women",
+    "age_group": "18-24"
+  },
+  {
+    "user_id": 108,
+    "preferred_styles": [
+      "summer_light",
+      "streetwear",
+      "casual_everyday"
+    ],
+    "preferred_colors": [
+      "white",
+      "burgundy",
+      "brown",
+      "red",
+      "navy"
+    ],
+    "gender": "women",
+    "age_group": "35-44"
+  },
+  {
+    "user_id": 109,
+    "preferred_styles": [
+      "sporty_active"
+    ],
+    "preferred_colors": [
+      "olive",
+      "blue",
+      "burgundy"
+    ],
+    "gender": "unisex",
+    "age_group": "45+"
+  },
+  {
+    "user_id": 110,
+    "preferred_styles": [
+      "casual_everyday",
+      "streetwear",
+      "formal_classic"
+    ],
+    "preferred_colors": [
+      "green",
+      "red",
+      "white",
+      "grey"
+    ],
+    "gender": "unisex",
+    "age_group": "25-34"
+  },
+  {
+    "user_id": 111,
+    "preferred_styles": [
+      "summer_light",
+      "casual_everyday"
+    ],
+    "preferred_colors": [
+      "olive",
+      "green",
+      "navy",
+      "pink",
+      "blue"
+    ],
+    "gender": "women",
+    "age_group": "18-24"
+  },
+  {
+    "user_id": 112,
+    "preferred_styles": [
+      "formal_classic"
+    ],
+    "preferred_colors": [
+      "white",
+      "blue",
+      "brown",
+      "burgundy",
+      "navy"
+    ],
+    "gender": "men",
+    "age_group": "25-34"
+  },
+  {
+    "user_id": 113,
+    "preferred_styles": [
+      "streetwear",
+      "winter_cozy"
+    ],
+    "preferred_colors": [
+      "green",
+      "olive",
+      "navy",
+      "grey"
+    ],
+    "gender": "unisex",
+    "age_group": "25-34"
+  },
+  {
+    "user_id": 114,
+    "preferred_styles": [
+      "sporty_active",
+      "winter_cozy",
+      "summer_light"
+    ],
+    "preferred_colors": [
+      "beige",
+      "black",
+      "burgundy",
+      "blue",
+      "green"
+    ],
+    "gender": "men",
+    "age_group": "35-44"
+  },
+  {
+    "user_id": 115,
+    "preferred_styles": [
+      "casual_everyday",
+      "winter_cozy"
+    ],
+    "preferred_colors": [
+      "white",
+      "pink",
+      "green",
+      "grey"
+    ],
+    "gender": "women",
+    "age_group": "45+"
+  },
+  {
+    "user_id": 116,
+    "preferred_styles": [
+      "winter_cozy",
+      "casual_everyday"
+    ],
+    "preferred_colors": [
+      "olive",
+      "red",
+      "pink",
+      "blue"
+    ],
+    "gender": "men",
+    "age_group": "35-44"
+  },
+  {
+    "user_id": 117,
+    "preferred_styles": [
+      "formal_classic",
+      "casual_everyday",
+      "summer_light"
+    ],
+    "preferred_colors": [
+      "green",
+      "grey",
+      "brown",
+      "blue",
+      "pink"
+    ],
+    "gender": "women",
+    "age_group": "18-24"
+  },
+  {
+    "user_id": 118,
+    "preferred_styles": [
+      "formal_classic",
+      "sporty_active",
+      "casual_everyday"
+    ],
+    "preferred_colors": [
+      "grey",
+      "white",
+      "blue",
+      "beige",
+      "green",
+      "burgundy"
+    ],
+    "gender": "unisex",
+    "age_group": "25-34"
+  },
+  {
+    "user_id": 119,
+    "preferred_styles": [
+      "summer_light",
+      "casual_everyday",
+      "winter_cozy"
+    ],
+    "preferred_colors": [
+      "brown",
+      "red",
+      "grey"
+    ],
+    "gender": "men",
+    "age_group": "18-24"
+  },
+  {
+    "user_id": 120,
+    "preferred_styles": [
+      "winter_cozy"
+    ],
+    "preferred_colors": [
+      "brown",
+      "pink",
+      "burgundy"
+    ],
+    "gender": "unisex",
+    "age_group": "25-34"
+  },
+  {
+    "user_id": 121,
+    "preferred_styles": [
+      "winter_cozy",
+      "casual_everyday"
+    ],
+    "preferred_colors": [
+      "white",
+      "black",
+      "blue"
+    ],
+    "gender": "men",
+    "age_group": "18-24"
+  },
+  {
+    "user_id": 122,
+    "preferred_styles": [
+      "sporty_active",
+      "streetwear",
+      "winter_cozy"
+    ],
+    "preferred_colors": [
+      "blue",
+      "green",
+      "red",
+      "navy",
+      "olive"
+    ],
+    "gender": "men",
+    "age_group": "45+"
+  },
+  {
+    "user_id": 123,
+    "preferred_styles": [
+      "casual_everyday"
+    ],
+    "preferred_colors": [
+      "pink",
+      "olive",
+      "green"
+    ],
+    "gender": "unisex",
+    "age_group": "18-24"
+  },
+  {
+    "user_id": 124,
+    "preferred_styles": [
+      "winter_cozy"
+    ],
+    "preferred_colors": [
+      "green",
+      "olive",
+      "navy",
+      "beige",
+      "burgundy"
+    ],
+    "gender": "women",
+    "age_group": "25-34"
+  },
+  {
+    "user_id": 125,
+    "preferred_styles": [
+      "summer_light"
+    ],
+    "preferred_colors": [
+      "green",
+      "white",
+      "blue",
+      "beige",
+      "navy"
+    ],
+    "gender": "women",
+    "age_group": "18-24"
+  },
+  {
+    "user_id": 126,
+    "preferred_styles": [
+      "casual_everyday"
+    ],
+    "preferred_colors": [
+      "olive",
+      "beige",
+      "blue",
+      "white",
+      "pink",
+      "brown"
+    ],
+    "gender": "men",
+    "age_group": "45+"
+  },
+  {
+    "user_id": 127,
+    "preferred_styles": [
+      "formal_classic"
+    ],
+    "preferred_colors": [
+      "brown",
+      "green",
+      "olive",
+      "beige"
+    ],
+    "gender": "women",
+    "age_group": "25-34"
+  },
+  {
+    "user_id": 128,
+    "preferred_styles": [
+      "streetwear"
+    ],
+    "preferred_colors": [
+      "green",
+      "blue",
+      "brown",
+      "pink"
+    ],
+    "gender": "unisex",
+    "age_group": "18-24"
+  },
+  {
+    "user_id": 129,
+    "preferred_styles": [
+      "summer_light",
+      "formal_classic",
+      "winter_cozy"
+    ],
+    "preferred_colors": [
+      "beige",
+      "white",
+      "pink",
+      "black",
+      "red",
+      "grey"
+    ],
+    "gender": "men",
+    "age_group": "45+"
+  },
+  {
+    "user_id": 130,
+    "preferred_styles": [
+      "casual_everyday"
+    ],
+    "preferred_colors": [
+      "black",
+      "navy",
+      "green"
+    ],
+    "gender": "women",
+    "age_group": "25-34"
+  },
+  {
+    "user_id": 131,
+    "preferred_styles": [
+      "sporty_active",
+      "streetwear"
+    ],
+    "preferred_colors": [
+      "red",
+      "green",
+      "brown",
+      "olive"
+    ],
+    "gender": "unisex",
+    "age_group": "35-44"
+  },
+  {
+    "user_id": 132,
+    "preferred_styles": [
+      "casual_everyday",
+      "streetwear",
+      "winter_cozy"
+    ],
+    "preferred_colors": [
+      "olive",
+      "black",
+      "grey"
+    ],
+    "gender": "men",
+    "age_group": "45+"
+  },
+  {
+    "user_id": 133,
+    "preferred_styles": [
+      "formal_classic",
+      "sporty_active"
+    ],
+    "preferred_colors": [
+      "pink",
+      "brown",
+      "olive",
+      "white",
+      "burgundy",
+      "blue"
+    ],
+    "gender": "women",
+    "age_group": "25-34"
+  },
+  {
+    "user_id": 134,
+    "preferred_styles": [
+      "sporty_active"
+    ],
+    "preferred_colors": [
+      "grey",
+      "beige",
+      "black"
+    ],
+    "gender": "men",
+    "age_group": "35-44"
+  },
+  {
+    "user_id": 135,
+    "preferred_styles": [
+      "winter_cozy",
+      "summer_light"
+    ],
+    "preferred_colors": [
+      "blue",
+      "navy",
+      "green"
+    ],
+    "gender": "unisex",
+    "age_group": "45+"
+  },
+  {
+    "user_id": 136,
+    "preferred_styles": [
+      "summer_light",
+      "winter_cozy"
+    ],
+    "preferred_colors": [
+      "grey",
+      "red",
+      "navy",
+      "green",
+      "blue",
+      "burgundy"
+    ],
+    "gender": "men",
+    "age_group": "45+"
+  },
+  {
+    "user_id": 137,
+    "preferred_styles": [
+      "summer_light"
+    ],
+    "preferred_colors": [
+      "navy",
+      "brown",
+      "grey"
+    ],
+    "gender": "unisex",
+    "age_group": "45+"
+  },
+  {
+    "user_id": 138,
+    "preferred_styles": [
+      "formal_classic"
+    ],
+    "preferred_colors": [
+      "green",
+      "grey",
+      "white"
+    ],
+    "gender": "unisex",
+    "age_group": "18-24"
+  },
+  {
+    "user_id": 139,
+    "preferred_styles": [
+      "sporty_active",
+      "summer_light"
+    ],
+    "preferred_colors": [
+      "pink",
+      "beige",
+      "olive",
+      "brown"
+    ],
+    "gender": "women",
+    "age_group": "25-34"
+  },
+  {
+    "user_id": 140,
+    "preferred_styles": [
+      "formal_classic",
+      "streetwear"
+    ],
+    "preferred_colors": [
+      "brown",
+      "pink",
+      "black",
+      "blue"
+    ],
+    "gender": "unisex",
+    "age_group": "45+"
+  },
+  {
+    "user_id": 141,
+    "preferred_styles": [
+      "streetwear",
+      "sporty_active",
+      "winter_cozy"
+    ],
+    "preferred_colors": [
+      "black",
+      "olive",
+      "beige",
+      "brown",
+      "green",
+      "blue"
+    ],
+    "gender": "women",
+    "age_group": "25-34"
+  },
+  {
+    "user_id": 142,
+    "preferred_styles": [
+      "casual_everyday"
+    ],
+    "preferred_colors": [
+      "olive",
+      "red",
+      "burgundy"
+    ],
+    "gender": "women",
+    "age_group": "18-24"
+  },
+  {
+    "user_id": 143,
+    "preferred_styles": [
+      "streetwear",
+      "formal_classic"
+    ],
+    "preferred_colors": [
+      "grey",
+      "pink",
+      "green"
+    ],
+    "gender": "unisex",
+    "age_group": "35-44"
+  },
+  {
+    "user_id": 144,
+    "preferred_styles": [
+      "winter_cozy",
+      "streetwear",
+      "summer_light"
+    ],
+    "preferred_colors": [
+      "green",
+      "black",
+      "blue",
+      "pink",
+      "beige"
+    ],
+    "gender": "unisex",
+    "age_group": "35-44"
+  },
+  {
+    "user_id": 145,
+    "preferred_styles": [
+      "streetwear"
+    ],
+    "preferred_colors": [
+      "white",
+      "beige",
+      "red",
+      "burgundy",
+      "olive"
+    ],
+    "gender": "women",
+    "age_group": "45+"
+  },
+  {
+    "user_id": 146,
+    "preferred_styles": [
+      "casual_everyday",
+      "summer_light"
+    ],
+    "preferred_colors": [
+      "black",
+      "burgundy",
+      "red"
+    ],
+    "gender": "unisex",
+    "age_group": "45+"
+  },
+  {
+    "user_id": 147,
+    "preferred_styles": [
+      "casual_everyday",
+      "streetwear",
+      "summer_light"
+    ],
+    "preferred_colors": [
+      "navy",
+      "white",
+      "burgundy",
+      "black",
+      "beige"
+    ],
+    "gender": "women",
+    "age_group": "45+"
+  },
+  {
+    "user_id": 148,
+    "preferred_styles": [
+      "streetwear"
+    ],
+    "preferred_colors": [
+      "burgundy",
+      "brown",
+      "green"
+    ],
+    "gender": "men",
+    "age_group": "18-24"
+  },
+  {
+    "user_id": 149,
+    "preferred_styles": [
+      "sporty_active"
+    ],
+    "preferred_colors": [
+      "olive",
+      "grey",
+      "black"
+    ],
+    "gender": "women",
+    "age_group": "18-24"
+  },
+  {
+    "user_id": 150,
+    "preferred_styles": [
+      "formal_classic",
+      "streetwear"
+    ],
+    "preferred_colors": [
+      "black",
+      "grey",
+      "green",
+      "red"
+    ],
+    "gender": "unisex",
+    "age_group": "45+"
+  },
+  {
+    "user_id": 151,
+    "preferred_styles": [
+      "formal_classic",
+      "sporty_active"
+    ],
+    "preferred_colors": [
+      "pink",
+      "beige",
+      "olive",
+      "grey",
+      "red",
+      "navy"
+    ],
+    "gender": "women",
+    "age_group": "35-44"
+  },
+  {
+    "user_id": 152,
+    "preferred_styles": [
+      "sporty_active",
+      "summer_light",
+      "casual_everyday"
+    ],
+    "preferred_colors": [
+      "burgundy",
+      "green",
+      "black"
+    ],
+    "gender": "unisex",
+    "age_group": "35-44"
+  },
+  {
+    "user_id": 153,
+    "preferred_styles": [
+      "streetwear",
+      "sporty_active",
+      "casual_everyday"
+    ],
+    "preferred_colors": [
+      "burgundy",
+      "beige",
+      "green",
+      "white",
+      "olive"
+    ],
+    "gender": "men",
+    "age_group": "25-34"
+  },
+  {
+    "user_id": 154,
+    "preferred_styles": [
+      "formal_classic"
+    ],
+    "preferred_colors": [
+      "white",
+      "pink",
+      "green",
+      "navy",
+      "beige",
+      "black"
+    ],
+    "gender": "men",
+    "age_group": "18-24"
+  },
+  {
+    "user_id": 155,
+    "preferred_styles": [
+      "summer_light",
+      "sporty_active",
+      "casual_everyday"
+    ],
+    "preferred_colors": [
+      "brown",
+      "red",
+      "grey",
+      "navy",
+      "black",
+      "pink"
+    ],
+    "gender": "men",
+    "age_group": "35-44"
+  },
+  {
+    "user_id": 156,
+    "preferred_styles": [
+      "sporty_active",
+      "streetwear",
+      "winter_cozy"
+    ],
+    "preferred_colors": [
+      "white",
+      "red",
+      "olive",
+      "navy",
+      "green",
+      "blue"
+    ],
+    "gender": "unisex",
+    "age_group": "45+"
+  },
+  {
+    "user_id": 157,
+    "preferred_styles": [
+      "streetwear"
+    ],
+    "preferred_colors": [
+      "red",
+      "black",
+      "olive"
+    ],
+    "gender": "men",
+    "age_group": "25-34"
+  },
+  {
+    "user_id": 158,
+    "preferred_styles": [
+      "formal_classic",
+      "streetwear"
+    ],
+    "preferred_colors": [
+      "pink",
+      "white",
+      "green",
+      "red",
+      "brown",
+      "black"
+    ],
+    "gender": "men",
+    "age_group": "18-24"
+  },
+  {
+    "user_id": 159,
+    "preferred_styles": [
+      "summer_light",
+      "sporty_active",
+      "formal_classic"
+    ],
+    "preferred_colors": [
+      "black",
+      "blue",
+      "beige",
+      "pink",
+      "white"
+    ],
+    "gender": "unisex",
+    "age_group": "18-24"
+  },
+  {
+    "user_id": 160,
+    "preferred_styles": [
+      "summer_light"
+    ],
+    "preferred_colors": [
+      "pink",
+      "green",
+      "brown"
+    ],
+    "gender": "unisex",
+    "age_group": "45+"
+  },
+  {
+    "user_id": 161,
+    "preferred_styles": [
+      "winter_cozy"
+    ],
+    "preferred_colors": [
+      "burgundy",
+      "navy",
+      "pink",
+      "brown"
+    ],
+    "gender": "men",
+    "age_group": "35-44"
+  },
+  {
+    "user_id": 162,
+    "preferred_styles": [
+      "summer_light"
+    ],
+    "preferred_colors": [
+      "white",
+      "blue",
+      "green",
+      "black",
+      "burgundy",
+      "olive"
+    ],
+    "gender": "unisex",
+    "age_group": "45+"
+  },
+  {
+    "user_id": 163,
+    "preferred_styles": [
+      "streetwear",
+      "casual_everyday",
+      "formal_classic"
+    ],
+    "preferred_colors": [
+      "blue",
+      "red",
+      "beige",
+      "white",
+      "navy",
+      "grey"
+    ],
+    "gender": "unisex",
+    "age_group": "35-44"
+  },
+  {
+    "user_id": 164,
+    "preferred_styles": [
+      "sporty_active"
+    ],
+    "preferred_colors": [
+      "white",
+      "brown",
+      "pink",
+      "burgundy",
+      "navy",
+      "grey"
+    ],
+    "gender": "unisex",
+    "age_group": "35-44"
+  },
+  {
+    "user_id": 165,
+    "preferred_styles": [
+      "formal_classic",
+      "casual_everyday",
+      "sporty_active"
+    ],
+    "preferred_colors": [
+      "olive",
+      "burgundy",
+      "pink"
+    ],
+    "gender": "unisex",
+    "age_group": "25-34"
+  },
+  {
+    "user_id": 166,
+    "preferred_styles": [
+      "summer_light",
+      "formal_classic",
+      "casual_everyday"
+    ],
+    "preferred_colors": [
+      "olive",
+      "beige",
+      "black"
+    ],
+    "gender": "unisex",
+    "age_group": "25-34"
+  },
+  {
+    "user_id": 167,
+    "preferred_styles": [
+      "winter_cozy",
+      "summer_light",
+      "streetwear"
+    ],
+    "preferred_colors": [
+      "red",
+      "grey",
+      "olive",
+      "green",
+      "beige",
+      "brown"
+    ],
+    "gender": "women",
+    "age_group": "35-44"
+  },
+  {
+    "user_id": 168,
+    "preferred_styles": [
+      "casual_everyday",
+      "sporty_active",
+      "streetwear"
+    ],
+    "preferred_colors": [
+      "navy",
+      "black",
+      "grey",
+      "burgundy",
+      "green"
+    ],
+    "gender": "women",
+    "age_group": "35-44"
+  },
+  {
+    "user_id": 169,
+    "preferred_styles": [
+      "casual_everyday",
+      "formal_classic",
+      "summer_light"
+    ],
+    "preferred_colors": [
+      "blue",
+      "pink",
+      "burgundy",
+      "white",
+      "red",
+      "brown"
+    ],
+    "gender": "unisex",
+    "age_group": "35-44"
+  },
+  {
+    "user_id": 170,
+    "preferred_styles": [
+      "streetwear",
+      "sporty_active",
+      "formal_classic"
+    ],
+    "preferred_colors": [
+      "green",
+      "burgundy",
+      "blue",
+      "pink"
+    ],
+    "gender": "unisex",
+    "age_group": "25-34"
+  },
+  {
+    "user_id": 171,
+    "preferred_styles": [
+      "streetwear",
+      "casual_everyday",
+      "sporty_active"
+    ],
+    "preferred_colors": [
+      "red",
+      "beige",
+      "burgundy"
+    ],
+    "gender": "unisex",
+    "age_group": "35-44"
+  },
+  {
+    "user_id": 172,
+    "preferred_styles": [
+      "winter_cozy",
+      "summer_light"
+    ],
+    "preferred_colors": [
+      "red",
+      "burgundy",
+      "olive"
+    ],
+    "gender": "women",
+    "age_group": "25-34"
+  },
+  {
+    "user_id": 173,
+    "preferred_styles": [
+      "streetwear"
+    ],
+    "preferred_colors": [
+      "white",
+      "olive",
+      "red",
+      "burgundy",
+      "brown",
+      "black"
+    ],
+    "gender": "women",
+    "age_group": "25-34"
+  },
+  {
+    "user_id": 174,
+    "preferred_styles": [
+      "formal_classic",
+      "sporty_active"
+    ],
+    "preferred_colors": [
+      "grey",
+      "pink",
+      "black",
+      "brown",
+      "navy",
+      "green"
+    ],
+    "gender": "unisex",
+    "age_group": "25-34"
+  },
+  {
+    "user_id": 175,
+    "preferred_styles": [
+      "streetwear",
+      "formal_classic",
+      "winter_cozy"
+    ],
+    "preferred_colors": [
+      "white",
+      "burgundy",
+      "olive"
+    ],
+    "gender": "women",
+    "age_group": "18-24"
+  },
+  {
+    "user_id": 176,
+    "preferred_styles": [
+      "winter_cozy",
+      "formal_classic",
+      "casual_everyday"
+    ],
+    "preferred_colors": [
+      "pink",
+      "burgundy",
+      "red",
+      "olive",
+      "brown",
+      "black"
+    ],
+    "gender": "women",
+    "age_group": "18-24"
+  },
+  {
+    "user_id": 177,
+    "preferred_styles": [
+      "winter_cozy"
+    ],
+    "preferred_colors": [
+      "olive",
+      "burgundy",
+      "pink"
+    ],
+    "gender": "women",
+    "age_group": "45+"
+  },
+  {
+    "user_id": 178,
+    "preferred_styles": [
+      "formal_classic"
+    ],
+    "preferred_colors": [
+      "brown",
+      "navy",
+      "burgundy"
+    ],
+    "gender": "women",
+    "age_group": "45+"
+  },
+  {
+    "user_id": 179,
+    "preferred_styles": [
+      "sporty_active",
+      "winter_cozy",
+      "casual_everyday"
+    ],
+    "preferred_colors": [
+      "blue",
+      "red",
+      "olive"
+    ],
+    "gender": "men",
+    "age_group": "45+"
+  },
+  {
+    "user_id": 180,
+    "preferred_styles": [
+      "winter_cozy"
+    ],
+    "preferred_colors": [
+      "green",
+      "brown",
+      "olive",
+      "black"
+    ],
+    "gender": "men",
+    "age_group": "45+"
+  },
+  {
+    "user_id": 181,
+    "preferred_styles": [
+      "sporty_active",
+      "winter_cozy"
+    ],
+    "preferred_colors": [
+      "brown",
+      "black",
+      "grey",
+      "beige",
+      "pink",
+      "blue"
+    ],
+    "gender": "unisex",
+    "age_group": "25-34"
+  },
+  {
+    "user_id": 182,
+    "preferred_styles": [
+      "streetwear",
+      "summer_light"
+    ],
+    "preferred_colors": [
+      "blue",
+      "navy",
+      "red",
+      "green",
+      "beige"
+    ],
+    "gender": "men",
+    "age_group": "35-44"
+  },
+  {
+    "user_id": 183,
+    "preferred_styles": [
+      "sporty_active"
+    ],
+    "preferred_colors": [
+      "olive",
+      "grey",
+      "black",
+      "navy"
+    ],
+    "gender": "women",
+    "age_group": "18-24"
+  },
+  {
+    "user_id": 184,
+    "preferred_styles": [
+      "streetwear",
+      "sporty_active"
+    ],
+    "preferred_colors": [
+      "navy",
+      "olive",
+      "blue",
+      "brown"
+    ],
+    "gender": "women",
+    "age_group": "18-24"
+  },
+  {
+    "user_id": 185,
+    "preferred_styles": [
+      "streetwear"
+    ],
+    "preferred_colors": [
+      "beige",
+      "brown",
+      "pink",
+      "olive",
+      "red",
+      "burgundy"
+    ],
+    "gender": "men",
+    "age_group": "25-34"
+  },
+  {
+    "user_id": 186,
+    "preferred_styles": [
+      "sporty_active",
+      "winter_cozy",
+      "casual_everyday"
+    ],
+    "preferred_colors": [
+      "pink",
+      "beige",
+      "green",
+      "brown",
+      "olive"
+    ],
+    "gender": "men",
+    "age_group": "18-24"
+  },
+  {
+    "user_id": 187,
+    "preferred_styles": [
+      "casual_everyday",
+      "formal_classic"
+    ],
+    "preferred_colors": [
+      "brown",
+      "blue",
+      "green",
+      "olive",
+      "pink"
+    ],
+    "gender": "unisex",
+    "age_group": "45+"
+  },
+  {
+    "user_id": 188,
+    "preferred_styles": [
+      "winter_cozy",
+      "formal_classic"
+    ],
+    "preferred_colors": [
+      "beige",
+      "red",
+      "olive",
+      "blue"
+    ],
+    "gender": "men",
+    "age_group": "45+"
+  },
+  {
+    "user_id": 189,
+    "preferred_styles": [
+      "winter_cozy"
+    ],
+    "preferred_colors": [
+      "white",
+      "grey",
+      "green"
+    ],
+    "gender": "women",
+    "age_group": "45+"
+  },
+  {
+    "user_id": 190,
+    "preferred_styles": [
+      "casual_everyday",
+      "streetwear"
+    ],
+    "preferred_colors": [
+      "olive",
+      "beige",
+      "burgundy",
+      "green",
+      "blue"
+    ],
+    "gender": "women",
+    "age_group": "18-24"
+  },
+  {
+    "user_id": 191,
+    "preferred_styles": [
+      "sporty_active",
+      "winter_cozy",
+      "streetwear"
+    ],
+    "preferred_colors": [
+      "white",
+      "black",
+      "grey",
+      "olive",
+      "beige",
+      "brown"
+    ],
+    "gender": "unisex",
+    "age_group": "35-44"
+  },
+  {
+    "user_id": 192,
+    "preferred_styles": [
+      "formal_classic"
+    ],
+    "preferred_colors": [
+      "olive",
+      "red",
+      "green",
+      "beige"
+    ],
+    "gender": "unisex",
+    "age_group": "45+"
+  },
+  {
+    "user_id": 193,
+    "preferred_styles": [
+      "winter_cozy",
+      "streetwear"
+    ],
+    "preferred_colors": [
+      "navy",
+      "burgundy",
+      "pink",
+      "green",
+      "black"
+    ],
+    "gender": "women",
+    "age_group": "35-44"
+  },
+  {
+    "user_id": 194,
+    "preferred_styles": [
+      "formal_classic",
+      "summer_light"
+    ],
+    "preferred_colors": [
+      "burgundy",
+      "blue",
+      "brown"
+    ],
+    "gender": "women",
+    "age_group": "35-44"
+  },
+  {
+    "user_id": 195,
+    "preferred_styles": [
+      "sporty_active",
+      "summer_light",
+      "casual_everyday"
+    ],
+    "preferred_colors": [
+      "grey",
+      "blue",
+      "green"
+    ],
+    "gender": "men",
+    "age_group": "35-44"
+  },
+  {
+    "user_id": 196,
+    "preferred_styles": [
+      "summer_light",
+      "winter_cozy"
+    ],
+    "preferred_colors": [
+      "beige",
+      "olive",
+      "red",
+      "burgundy"
+    ],
+    "gender": "women",
+    "age_group": "18-24"
+  },
+  {
+    "user_id": 197,
+    "preferred_styles": [
+      "casual_everyday",
+      "winter_cozy",
+      "summer_light"
+    ],
+    "preferred_colors": [
+      "olive",
+      "black",
+      "red",
+      "beige"
+    ],
+    "gender": "men",
+    "age_group": "18-24"
+  },
+  {
+    "user_id": 198,
+    "preferred_styles": [
+      "summer_light",
+      "streetwear"
+    ],
+    "preferred_colors": [
+      "grey",
+      "blue",
+      "red",
+      "pink",
+      "olive",
+      "black"
+    ],
+    "gender": "women",
+    "age_group": "45+"
+  },
+  {
+    "user_id": 199,
+    "preferred_styles": [
+      "streetwear"
+    ],
+    "preferred_colors": [
+      "green",
+      "black",
+      "white",
+      "red",
+      "brown"
+    ],
+    "gender": "unisex",
+    "age_group": "35-44"
+  },
+  {
+    "user_id": 200,
+    "preferred_styles": [
+      "sporty_active"
+    ],
+    "preferred_colors": [
+      "grey",
+      "navy",
+      "burgundy"
+    ],
+    "gender": "women",
+    "age_group": "35-44"
+  },
+  {
+    "user_id": 201,
+    "preferred_styles": [
+      "summer_light",
+      "formal_classic",
+      "casual_everyday"
+    ],
+    "preferred_colors": [
+      "red",
+      "blue",
+      "black",
+      "navy",
+      "beige"
+    ],
+    "gender": "unisex",
+    "age_group": "18-24"
+  },
+  {
+    "user_id": 202,
+    "preferred_styles": [
+      "streetwear"
+    ],
+    "preferred_colors": [
+      "navy",
+      "beige",
+      "red",
+      "burgundy",
+      "pink"
+    ],
+    "gender": "unisex",
+    "age_group": "18-24"
+  },
+  {
+    "user_id": 203,
+    "preferred_styles": [
+      "sporty_active",
+      "winter_cozy"
+    ],
+    "preferred_colors": [
+      "grey",
+      "burgundy",
+      "brown",
+      "pink",
+      "blue"
+    ],
+    "gender": "men",
+    "age_group": "25-34"
+  },
+  {
+    "user_id": 204,
+    "preferred_styles": [
+      "streetwear"
+    ],
+    "preferred_colors": [
+      "navy",
+      "black",
+      "white",
+      "pink",
+      "beige"
+    ],
+    "gender": "men",
+    "age_group": "25-34"
+  },
+  {
+    "user_id": 205,
+    "preferred_styles": [
+      "formal_classic",
+      "summer_light"
+    ],
+    "preferred_colors": [
+      "burgundy",
+      "blue",
+      "black",
+      "white"
+    ],
+    "gender": "women",
+    "age_group": "18-24"
+  },
+  {
+    "user_id": 206,
+    "preferred_styles": [
+      "winter_cozy",
+      "summer_light"
+    ],
+    "preferred_colors": [
+      "burgundy",
+      "blue",
+      "white",
+      "brown",
+      "pink",
+      "beige"
+    ],
+    "gender": "women",
+    "age_group": "25-34"
+  },
+  {
+    "user_id": 207,
+    "preferred_styles": [
+      "casual_everyday",
+      "streetwear"
+    ],
+    "preferred_colors": [
+      "red",
+      "white",
+      "pink"
+    ],
+    "gender": "men",
+    "age_group": "25-34"
+  },
+  {
+    "user_id": 208,
+    "preferred_styles": [
+      "winter_cozy",
+      "sporty_active",
+      "formal_classic"
+    ],
+    "preferred_colors": [
+      "beige",
+      "red",
+      "blue",
+      "olive",
+      "pink",
+      "brown"
+    ],
+    "gender": "unisex",
+    "age_group": "35-44"
+  },
+  {
+    "user_id": 209,
+    "preferred_styles": [
+      "sporty_active",
+      "casual_everyday"
+    ],
+    "preferred_colors": [
+      "olive",
+      "brown",
+      "red",
+      "green",
+      "blue",
+      "pink"
+    ],
+    "gender": "unisex",
+    "age_group": "45+"
+  },
+  {
+    "user_id": 210,
+    "preferred_styles": [
+      "streetwear",
+      "summer_light"
+    ],
+    "preferred_colors": [
+      "blue",
+      "grey",
+      "navy"
+    ],
+    "gender": "men",
+    "age_group": "35-44"
+  },
+  {
+    "user_id": 211,
+    "preferred_styles": [
+      "sporty_active",
+      "summer_light",
+      "formal_classic"
+    ],
+    "preferred_colors": [
+      "burgundy",
+      "olive",
+      "pink"
+    ],
+    "gender": "women",
+    "age_group": "18-24"
+  },
+  {
+    "user_id": 212,
+    "preferred_styles": [
+      "casual_everyday",
+      "formal_classic"
+    ],
+    "preferred_colors": [
+      "red",
+      "beige",
+      "grey",
+      "brown"
+    ],
+    "gender": "unisex",
+    "age_group": "25-34"
+  },
+  {
+    "user_id": 213,
+    "preferred_styles": [
+      "casual_everyday",
+      "streetwear",
+      "winter_cozy"
+    ],
+    "preferred_colors": [
+      "navy",
+      "red",
+      "grey",
+      "olive",
+      "pink"
+    ],
+    "gender": "men",
+    "age_group": "18-24"
+  },
+  {
+    "user_id": 214,
+    "preferred_styles": [
+      "sporty_active",
+      "casual_everyday"
+    ],
+    "preferred_colors": [
+      "burgundy",
+      "green",
+      "brown",
+      "pink",
+      "beige"
+    ],
+    "gender": "unisex",
+    "age_group": "25-34"
+  },
+  {
+    "user_id": 215,
+    "preferred_styles": [
+      "streetwear",
+      "formal_classic"
+    ],
+    "preferred_colors": [
+      "red",
+      "green",
+      "pink",
+      "black"
+    ],
+    "gender": "men",
+    "age_group": "25-34"
+  },
+  {
+    "user_id": 216,
+    "preferred_styles": [
+      "winter_cozy"
+    ],
+    "preferred_colors": [
+      "grey",
+      "green",
+      "olive",
+      "blue",
+      "brown",
+      "black"
+    ],
+    "gender": "unisex",
+    "age_group": "35-44"
+  },
+  {
+    "user_id": 217,
+    "preferred_styles": [
+      "casual_everyday"
+    ],
+    "preferred_colors": [
+      "olive",
+      "pink",
+      "burgundy"
+    ],
+    "gender": "men",
+    "age_group": "35-44"
+  },
+  {
+    "user_id": 218,
+    "preferred_styles": [
+      "summer_light",
+      "casual_everyday"
+    ],
+    "preferred_colors": [
+      "olive",
+      "pink",
+      "beige"
+    ],
+    "gender": "women",
+    "age_group": "45+"
+  },
+  {
+    "user_id": 219,
+    "preferred_styles": [
+      "summer_light",
+      "sporty_active",
+      "formal_classic"
+    ],
+    "preferred_colors": [
+      "grey",
+      "brown",
+      "red",
+      "beige"
+    ],
+    "gender": "women",
+    "age_group": "18-24"
+  },
+  {
+    "user_id": 220,
+    "preferred_styles": [
+      "summer_light",
+      "winter_cozy",
+      "casual_everyday"
+    ],
+    "preferred_colors": [
+      "burgundy",
+      "olive",
+      "brown",
+      "navy",
+      "black",
+      "red"
+    ],
+    "gender": "women",
+    "age_group": "25-34"
+  },
+  {
+    "user_id": 221,
+    "preferred_styles": [
+      "formal_classic",
+      "winter_cozy",
+      "casual_everyday"
+    ],
+    "preferred_colors": [
+      "white",
+      "red",
+      "beige"
+    ],
+    "gender": "unisex",
+    "age_group": "35-44"
+  },
+  {
+    "user_id": 222,
+    "preferred_styles": [
+      "winter_cozy"
+    ],
+    "preferred_colors": [
+      "white",
+      "pink",
+      "green",
+      "navy"
+    ],
+    "gender": "women",
+    "age_group": "45+"
+  },
+  {
+    "user_id": 223,
+    "preferred_styles": [
+      "summer_light",
+      "sporty_active"
+    ],
+    "preferred_colors": [
+      "blue",
+      "green",
+      "beige",
+      "red",
+      "navy"
+    ],
+    "gender": "unisex",
+    "age_group": "35-44"
+  },
+  {
+    "user_id": 224,
+    "preferred_styles": [
+      "streetwear"
+    ],
+    "preferred_colors": [
+      "olive",
+      "beige",
+      "grey",
+      "brown",
+      "blue"
+    ],
+    "gender": "women",
+    "age_group": "18-24"
+  },
+  {
+    "user_id": 225,
+    "preferred_styles": [
+      "winter_cozy",
+      "streetwear"
+    ],
+    "preferred_colors": [
+      "grey",
+      "blue",
+      "navy",
+      "black",
+      "brown"
+    ],
+    "gender": "unisex",
+    "age_group": "25-34"
+  },
+  {
+    "user_id": 226,
+    "preferred_styles": [
+      "streetwear"
+    ],
+    "preferred_colors": [
+      "olive",
+      "grey",
+      "white",
+      "blue"
+    ],
+    "gender": "unisex",
+    "age_group": "35-44"
+  },
+  {
+    "user_id": 227,
+    "preferred_styles": [
+      "sporty_active"
+    ],
+    "preferred_colors": [
+      "white",
+      "red",
+      "grey"
+    ],
+    "gender": "unisex",
+    "age_group": "35-44"
+  },
+  {
+    "user_id": 228,
+    "preferred_styles": [
+      "formal_classic",
+      "winter_cozy",
+      "streetwear"
+    ],
+    "preferred_colors": [
+      "burgundy",
+      "pink",
+      "beige"
+    ],
+    "gender": "women",
+    "age_group": "45+"
+  },
+  {
+    "user_id": 229,
+    "preferred_styles": [
+      "summer_light",
+      "formal_classic"
+    ],
+    "preferred_colors": [
+      "red",
+      "olive",
+      "grey",
+      "green",
+      "white"
+    ],
+    "gender": "unisex",
+    "age_group": "25-34"
+  },
+  {
+    "user_id": 230,
+    "preferred_styles": [
+      "summer_light"
+    ],
+    "preferred_colors": [
+      "white",
+      "green",
+      "pink",
+      "brown"
+    ],
+    "gender": "women",
+    "age_group": "18-24"
+  },
+  {
+    "user_id": 231,
+    "preferred_styles": [
+      "summer_light",
+      "casual_everyday"
+    ],
+    "preferred_colors": [
+      "navy",
+      "burgundy",
+      "blue",
+      "grey"
+    ],
+    "gender": "women",
+    "age_group": "18-24"
+  },
+  {
+    "user_id": 232,
+    "preferred_styles": [
+      "formal_classic"
+    ],
+    "preferred_colors": [
+      "red",
+      "burgundy",
+      "grey"
+    ],
+    "gender": "women",
+    "age_group": "18-24"
+  },
+  {
+    "user_id": 233,
+    "preferred_styles": [
+      "summer_light"
+    ],
+    "preferred_colors": [
+      "black",
+      "pink",
+      "beige",
+      "blue",
+      "navy"
+    ],
+    "gender": "women",
+    "age_group": "25-34"
+  },
+  {
+    "user_id": 234,
+    "preferred_styles": [
+      "streetwear",
+      "sporty_active",
+      "winter_cozy"
+    ],
+    "preferred_colors": [
+      "grey",
+      "olive",
+      "pink"
+    ],
+    "gender": "unisex",
+    "age_group": "25-34"
+  },
+  {
+    "user_id": 235,
+    "preferred_styles": [
+      "casual_everyday"
+    ],
+    "preferred_colors": [
+      "olive",
+      "navy",
+      "blue",
+      "pink"
+    ],
+    "gender": "women",
+    "age_group": "18-24"
+  },
+  {
+    "user_id": 236,
+    "preferred_styles": [
+      "casual_everyday"
+    ],
+    "preferred_colors": [
+      "white",
+      "black",
+      "brown",
+      "green",
+      "pink",
+      "grey"
+    ],
+    "gender": "men",
+    "age_group": "18-24"
+  },
+  {
+    "user_id": 237,
+    "preferred_styles": [
+      "casual_everyday",
+      "winter_cozy"
+    ],
+    "preferred_colors": [
+      "beige",
+      "blue",
+      "black",
+      "burgundy"
+    ],
+    "gender": "men",
+    "age_group": "18-24"
+  },
+  {
+    "user_id": 238,
+    "preferred_styles": [
+      "casual_everyday",
+      "sporty_active"
+    ],
+    "preferred_colors": [
+      "navy",
+      "burgundy",
+      "blue",
+      "white"
+    ],
+    "gender": "unisex",
+    "age_group": "25-34"
+  },
+  {
+    "user_id": 239,
+    "preferred_styles": [
+      "sporty_active",
+      "winter_cozy",
+      "streetwear"
+    ],
+    "preferred_colors": [
+      "white",
+      "black",
+      "navy"
+    ],
+    "gender": "unisex",
+    "age_group": "25-34"
+  },
+  {
+    "user_id": 240,
+    "preferred_styles": [
+      "sporty_active"
+    ],
+    "preferred_colors": [
+      "burgundy",
+      "white",
+      "red",
+      "navy"
+    ],
+    "gender": "women",
+    "age_group": "35-44"
+  },
+  {
+    "user_id": 241,
+    "preferred_styles": [
+      "casual_everyday",
+      "streetwear",
+      "formal_classic"
+    ],
+    "preferred_colors": [
+      "red",
+      "green",
+      "black",
+      "navy",
+      "brown",
+      "pink"
+    ],
+    "gender": "women",
+    "age_group": "35-44"
+  },
+  {
+    "user_id": 242,
+    "preferred_styles": [
+      "casual_everyday",
+      "summer_light",
+      "sporty_active"
+    ],
+    "preferred_colors": [
+      "burgundy",
+      "white",
+      "pink"
+    ],
+    "gender": "women",
+    "age_group": "35-44"
+  },
+  {
+    "user_id": 243,
+    "preferred_styles": [
+      "sporty_active"
+    ],
+    "preferred_colors": [
+      "white",
+      "black",
+      "green",
+      "grey"
+    ],
+    "gender": "women",
+    "age_group": "35-44"
+  },
+  {
+    "user_id": 244,
+    "preferred_styles": [
+      "formal_classic",
+      "winter_cozy",
+      "casual_everyday"
+    ],
+    "preferred_colors": [
+      "olive",
+      "red",
+      "green",
+      "white",
+      "blue"
+    ],
+    "gender": "women",
+    "age_group": "18-24"
+  },
+  {
+    "user_id": 245,
+    "preferred_styles": [
+      "winter_cozy",
+      "summer_light",
+      "casual_everyday"
+    ],
+    "preferred_colors": [
+      "beige",
+      "red",
+      "black",
+      "white",
+      "brown",
+      "pink"
+    ],
+    "gender": "men",
+    "age_group": "35-44"
+  },
+  {
+    "user_id": 246,
+    "preferred_styles": [
+      "sporty_active"
+    ],
+    "preferred_colors": [
+      "beige",
+      "grey",
+      "black"
+    ],
+    "gender": "unisex",
+    "age_group": "35-44"
+  },
+  {
+    "user_id": 247,
+    "preferred_styles": [
+      "casual_everyday"
+    ],
+    "preferred_colors": [
+      "olive",
+      "brown",
+      "burgundy",
+      "navy",
+      "black"
+    ],
+    "gender": "men",
+    "age_group": "35-44"
+  },
+  {
+    "user_id": 248,
+    "preferred_styles": [
+      "streetwear",
+      "summer_light",
+      "formal_classic"
+    ],
+    "preferred_colors": [
+      "olive",
+      "black",
+      "pink"
+    ],
+    "gender": "women",
+    "age_group": "25-34"
+  },
+  {
+    "user_id": 249,
+    "preferred_styles": [
+      "formal_classic",
+      "summer_light",
+      "sporty_active"
+    ],
+    "preferred_colors": [
+      "green",
+      "navy",
+      "pink",
+      "red",
+      "grey",
+      "white"
+    ],
+    "gender": "men",
+    "age_group": "25-34"
+  },
+  {
+    "user_id": 250,
+    "preferred_styles": [
+      "sporty_active"
+    ],
+    "preferred_colors": [
+      "beige",
+      "green",
+      "burgundy",
+      "grey",
+      "white"
+    ],
+    "gender": "men",
+    "age_group": "45+"
+  },
+  {
+    "user_id": 251,
+    "preferred_styles": [
+      "formal_classic"
+    ],
+    "preferred_colors": [
+      "pink",
+      "blue",
+      "olive",
+      "black",
+      "white",
+      "grey"
+    ],
+    "gender": "unisex",
+    "age_group": "35-44"
+  },
+  {
+    "user_id": 252,
+    "preferred_styles": [
+      "summer_light",
+      "formal_classic",
+      "streetwear"
+    ],
+    "preferred_colors": [
+      "red",
+      "olive",
+      "navy",
+      "blue"
+    ],
+    "gender": "women",
+    "age_group": "45+"
+  },
+  {
+    "user_id": 253,
+    "preferred_styles": [
+      "summer_light"
+    ],
+    "preferred_colors": [
+      "black",
+      "beige",
+      "brown",
+      "olive"
+    ],
+    "gender": "women",
+    "age_group": "45+"
+  },
+  {
+    "user_id": 254,
+    "preferred_styles": [
+      "summer_light",
+      "casual_everyday",
+      "formal_classic"
+    ],
+    "preferred_colors": [
+      "burgundy",
+      "olive",
+      "navy"
+    ],
+    "gender": "women",
+    "age_group": "25-34"
+  },
+  {
+    "user_id": 255,
+    "preferred_styles": [
+      "sporty_active",
+      "streetwear",
+      "winter_cozy"
+    ],
+    "preferred_colors": [
+      "blue",
+      "black",
+      "navy"
+    ],
+    "gender": "men",
+    "age_group": "18-24"
+  },
+  {
+    "user_id": 256,
+    "preferred_styles": [
+      "summer_light",
+      "winter_cozy"
+    ],
+    "preferred_colors": [
+      "green",
+      "olive",
+      "black",
+      "white",
+      "burgundy"
+    ],
+    "gender": "men",
+    "age_group": "25-34"
+  },
+  {
+    "user_id": 257,
+    "preferred_styles": [
+      "streetwear"
+    ],
+    "preferred_colors": [
+      "brown",
+      "white",
+      "pink",
+      "black",
+      "beige"
+    ],
+    "gender": "unisex",
+    "age_group": "35-44"
+  },
+  {
+    "user_id": 258,
+    "preferred_styles": [
+      "sporty_active",
+      "winter_cozy"
+    ],
+    "preferred_colors": [
+      "burgundy",
+      "grey",
+      "brown",
+      "white"
+    ],
+    "gender": "men",
+    "age_group": "45+"
+  },
+  {
+    "user_id": 259,
+    "preferred_styles": [
+      "streetwear"
+    ],
+    "preferred_colors": [
+      "blue",
+      "pink",
+      "grey",
+      "white",
+      "olive",
+      "brown"
+    ],
+    "gender": "women",
+    "age_group": "18-24"
+  },
+  {
+    "user_id": 260,
+    "preferred_styles": [
+      "summer_light"
+    ],
+    "preferred_colors": [
+      "green",
+      "red",
+      "olive"
+    ],
+    "gender": "men",
+    "age_group": "35-44"
+  },
+  {
+    "user_id": 261,
+    "preferred_styles": [
+      "formal_classic"
+    ],
+    "preferred_colors": [
+      "red",
+      "black",
+      "pink",
+      "navy",
+      "beige"
+    ],
+    "gender": "women",
+    "age_group": "45+"
+  },
+  {
+    "user_id": 262,
+    "preferred_styles": [
+      "winter_cozy",
+      "formal_classic",
+      "sporty_active"
+    ],
+    "preferred_colors": [
+      "black",
+      "navy",
+      "burgundy"
+    ],
+    "gender": "women",
+    "age_group": "35-44"
+  },
+  {
+    "user_id": 263,
+    "preferred_styles": [
+      "formal_classic",
+      "casual_everyday",
+      "streetwear"
+    ],
+    "preferred_colors": [
+      "blue",
+      "green",
+      "pink",
+      "brown",
+      "black",
+      "white"
+    ],
+    "gender": "men",
+    "age_group": "35-44"
+  },
+  {
+    "user_id": 264,
+    "preferred_styles": [
+      "streetwear"
+    ],
+    "preferred_colors": [
+      "beige",
+      "green",
+      "pink",
+      "olive",
+      "white"
+    ],
+    "gender": "women",
+    "age_group": "45+"
+  },
+  {
+    "user_id": 265,
+    "preferred_styles": [
+      "streetwear",
+      "formal_classic",
+      "sporty_active"
+    ],
+    "preferred_colors": [
+      "blue",
+      "burgundy",
+      "olive"
+    ],
+    "gender": "women",
+    "age_group": "25-34"
+  },
+  {
+    "user_id": 266,
+    "preferred_styles": [
+      "casual_everyday",
+      "winter_cozy",
+      "streetwear"
+    ],
+    "preferred_colors": [
+      "green",
+      "burgundy",
+      "blue",
+      "white",
+      "navy"
+    ],
+    "gender": "women",
+    "age_group": "25-34"
+  },
+  {
+    "user_id": 267,
+    "preferred_styles": [
+      "casual_everyday"
+    ],
+    "preferred_colors": [
+      "burgundy",
+      "pink",
+      "blue",
+      "olive",
+      "brown",
+      "white"
+    ],
+    "gender": "unisex",
+    "age_group": "25-34"
+  },
+  {
+    "user_id": 268,
+    "preferred_styles": [
+      "winter_cozy"
+    ],
+    "preferred_colors": [
+      "olive",
+      "brown",
+      "grey",
+      "blue",
+      "navy"
+    ],
+    "gender": "men",
+    "age_group": "45+"
+  },
+  {
+    "user_id": 269,
+    "preferred_styles": [
+      "formal_classic",
+      "casual_everyday",
+      "streetwear"
+    ],
+    "preferred_colors": [
+      "olive",
+      "green",
+      "black",
+      "blue",
+      "grey"
+    ],
+    "gender": "women",
+    "age_group": "45+"
+  },
+  {
+    "user_id": 270,
+    "preferred_styles": [
+      "streetwear",
+      "casual_everyday",
+      "summer_light"
+    ],
+    "preferred_colors": [
+      "brown",
+      "burgundy",
+      "navy",
+      "olive"
+    ],
+    "gender": "women",
+    "age_group": "18-24"
+  },
+  {
+    "user_id": 271,
+    "preferred_styles": [
+      "sporty_active"
+    ],
+    "preferred_colors": [
+      "burgundy",
+      "pink",
+      "navy",
+      "green",
+      "white"
+    ],
+    "gender": "unisex",
+    "age_group": "18-24"
+  },
+  {
+    "user_id": 272,
+    "preferred_styles": [
+      "winter_cozy"
+    ],
+    "preferred_colors": [
+      "beige",
+      "navy",
+      "red",
+      "white",
+      "brown"
+    ],
+    "gender": "men",
+    "age_group": "45+"
+  },
+  {
+    "user_id": 273,
+    "preferred_styles": [
+      "streetwear",
+      "summer_light"
+    ],
+    "preferred_colors": [
+      "olive",
+      "beige",
+      "red",
+      "black"
+    ],
+    "gender": "unisex",
+    "age_group": "35-44"
+  },
+  {
+    "user_id": 274,
+    "preferred_styles": [
+      "formal_classic",
+      "sporty_active",
+      "streetwear"
+    ],
+    "preferred_colors": [
+      "white",
+      "green",
+      "beige"
+    ],
+    "gender": "men",
+    "age_group": "18-24"
+  },
+  {
+    "user_id": 275,
+    "preferred_styles": [
+      "sporty_active",
+      "streetwear"
+    ],
+    "preferred_colors": [
+      "burgundy",
+      "beige",
+      "pink",
+      "blue",
+      "white"
+    ],
+    "gender": "men",
+    "age_group": "45+"
+  },
+  {
+    "user_id": 276,
+    "preferred_styles": [
+      "summer_light",
+      "formal_classic",
+      "streetwear"
+    ],
+    "preferred_colors": [
+      "burgundy",
+      "brown",
+      "red",
+      "beige"
+    ],
+    "gender": "unisex",
+    "age_group": "35-44"
+  },
+  {
+    "user_id": 277,
+    "preferred_styles": [
+      "summer_light",
+      "streetwear"
+    ],
+    "preferred_colors": [
+      "olive",
+      "beige",
+      "white"
+    ],
+    "gender": "men",
+    "age_group": "35-44"
+  },
+  {
+    "user_id": 278,
+    "preferred_styles": [
+      "sporty_active",
+      "summer_light"
+    ],
+    "preferred_colors": [
+      "grey",
+      "beige",
+      "blue",
+      "black",
+      "olive"
+    ],
+    "gender": "unisex",
+    "age_group": "25-34"
+  },
+  {
+    "user_id": 279,
+    "preferred_styles": [
+      "streetwear",
+      "sporty_active"
+    ],
+    "preferred_colors": [
+      "white",
+      "grey",
+      "burgundy",
+      "pink",
+      "black",
+      "red"
+    ],
+    "gender": "women",
+    "age_group": "45+"
+  },
+  {
+    "user_id": 280,
+    "preferred_styles": [
+      "winter_cozy",
+      "summer_light"
+    ],
+    "preferred_colors": [
+      "pink",
+      "navy",
+      "blue",
+      "beige"
+    ],
+    "gender": "unisex",
+    "age_group": "25-34"
+  },
+  {
+    "user_id": 281,
+    "preferred_styles": [
+      "streetwear",
+      "formal_classic"
+    ],
+    "preferred_colors": [
+      "pink",
+      "navy",
+      "brown",
+      "green",
+      "white",
+      "olive"
+    ],
+    "gender": "men",
+    "age_group": "25-34"
+  },
+  {
+    "user_id": 282,
+    "preferred_styles": [
+      "winter_cozy",
+      "formal_classic",
+      "summer_light"
+    ],
+    "preferred_colors": [
+      "grey",
+      "burgundy",
+      "blue",
+      "white",
+      "olive"
+    ],
+    "gender": "women",
+    "age_group": "25-34"
+  },
+  {
+    "user_id": 283,
+    "preferred_styles": [
+      "sporty_active"
+    ],
+    "preferred_colors": [
+      "beige",
+      "black",
+      "white",
+      "olive"
+    ],
+    "gender": "men",
+    "age_group": "45+"
+  },
+  {
+    "user_id": 284,
+    "preferred_styles": [
+      "summer_light",
+      "casual_everyday"
+    ],
+    "preferred_colors": [
+      "red",
+      "blue",
+      "green",
+      "black",
+      "burgundy"
+    ],
+    "gender": "men",
+    "age_group": "18-24"
+  },
+  {
+    "user_id": 285,
+    "preferred_styles": [
+      "sporty_active",
+      "streetwear"
+    ],
+    "preferred_colors": [
+      "pink",
+      "brown",
+      "black",
+      "beige",
+      "white"
+    ],
+    "gender": "women",
+    "age_group": "35-44"
+  },
+  {
+    "user_id": 286,
+    "preferred_styles": [
+      "streetwear",
+      "winter_cozy"
+    ],
+    "preferred_colors": [
+      "beige",
+      "black",
+      "brown",
+      "green",
+      "grey",
+      "red"
+    ],
+    "gender": "men",
+    "age_group": "45+"
+  },
+  {
+    "user_id": 287,
+    "preferred_styles": [
+      "formal_classic"
+    ],
+    "preferred_colors": [
+      "red",
+      "olive",
+      "navy",
+      "blue",
+      "pink",
+      "brown"
+    ],
+    "gender": "men",
+    "age_group": "45+"
+  },
+  {
+    "user_id": 288,
+    "preferred_styles": [
+      "formal_classic"
+    ],
+    "preferred_colors": [
+      "white",
+      "pink",
+      "navy",
+      "burgundy",
+      "grey",
+      "brown"
+    ],
+    "gender": "men",
+    "age_group": "45+"
+  },
+  {
+    "user_id": 289,
+    "preferred_styles": [
+      "streetwear",
+      "summer_light",
+      "winter_cozy"
+    ],
+    "preferred_colors": [
+      "red",
+      "pink",
+      "black",
+      "beige",
+      "olive",
+      "burgundy"
+    ],
+    "gender": "unisex",
+    "age_group": "45+"
+  },
+  {
+    "user_id": 290,
+    "preferred_styles": [
+      "summer_light",
+      "formal_classic",
+      "winter_cozy"
+    ],
+    "preferred_colors": [
+      "green",
+      "grey",
+      "beige",
+      "white",
+      "blue",
+      "red"
+    ],
+    "gender": "women",
+    "age_group": "45+"
+  },
+  {
+    "user_id": 291,
+    "preferred_styles": [
+      "streetwear",
+      "summer_light"
+    ],
+    "preferred_colors": [
+      "beige",
+      "blue",
+      "black"
+    ],
+    "gender": "unisex",
+    "age_group": "25-34"
+  },
+  {
+    "user_id": 292,
+    "preferred_styles": [
+      "casual_everyday",
+      "formal_classic"
+    ],
+    "preferred_colors": [
+      "blue",
+      "pink",
+      "burgundy",
+      "green"
+    ],
+    "gender": "women",
+    "age_group": "45+"
+  },
+  {
+    "user_id": 293,
+    "preferred_styles": [
+      "streetwear"
+    ],
+    "preferred_colors": [
+      "pink",
+      "white",
+      "grey",
+      "beige",
+      "blue"
+    ],
+    "gender": "women",
+    "age_group": "25-34"
+  },
+  {
+    "user_id": 294,
+    "preferred_styles": [
+      "casual_everyday",
+      "streetwear"
+    ],
+    "preferred_colors": [
+      "black",
+      "pink",
+      "olive"
+    ],
+    "gender": "men",
+    "age_group": "45+"
+  },
+  {
+    "user_id": 295,
+    "preferred_styles": [
+      "casual_everyday",
+      "winter_cozy",
+      "formal_classic"
+    ],
+    "preferred_colors": [
+      "brown",
+      "olive",
+      "black",
+      "grey"
+    ],
+    "gender": "unisex",
+    "age_group": "25-34"
+  },
+  {
+    "user_id": 296,
+    "preferred_styles": [
+      "formal_classic",
+      "casual_everyday",
+      "streetwear"
+    ],
+    "preferred_colors": [
+      "beige",
+      "grey",
+      "black",
+      "green",
+      "red",
+      "burgundy"
+    ],
+    "gender": "unisex",
+    "age_group": "18-24"
+  },
+  {
+    "user_id": 297,
+    "preferred_styles": [
+      "streetwear",
+      "casual_everyday",
+      "formal_classic"
+    ],
+    "preferred_colors": [
+      "black",
+      "beige",
+      "pink",
+      "olive",
+      "navy",
+      "grey"
+    ],
+    "gender": "women",
+    "age_group": "35-44"
+  },
+  {
+    "user_id": 298,
+    "preferred_styles": [
+      "sporty_active",
+      "winter_cozy"
+    ],
+    "preferred_colors": [
+      "white",
+      "black",
+      "red"
+    ],
+    "gender": "unisex",
+    "age_group": "45+"
+  },
+  {
+    "user_id": 299,
+    "preferred_styles": [
+      "winter_cozy",
+      "summer_light"
+    ],
+    "preferred_colors": [
+      "brown",
+      "olive",
+      "black",
+      "blue"
+    ],
+    "gender": "unisex",
+    "age_group": "35-44"
+  },
+  {
+    "user_id": 300,
+    "preferred_styles": [
+      "casual_everyday",
+      "summer_light"
+    ],
+    "preferred_colors": [
+      "beige",
+      "burgundy",
+      "white"
+    ],
+    "gender": "unisex",
+    "age_group": "18-24"
+  },
+  {
+    "user_id": 301,
+    "preferred_styles": [
+      "formal_classic",
+      "streetwear"
+    ],
+    "preferred_colors": [
+      "brown",
+      "green",
+      "red",
+      "beige",
+      "white"
+    ],
+    "gender": "women",
+    "age_group": "18-24"
+  },
+  {
+    "user_id": 302,
+    "preferred_styles": [
+      "winter_cozy",
+      "casual_everyday"
+    ],
+    "preferred_colors": [
+      "green",
+      "olive",
+      "grey"
+    ],
+    "gender": "men",
+    "age_group": "45+"
+  },
+  {
+    "user_id": 303,
+    "preferred_styles": [
+      "winter_cozy",
+      "streetwear"
+    ],
+    "preferred_colors": [
+      "navy",
+      "blue",
+      "pink"
+    ],
+    "gender": "unisex",
+    "age_group": "45+"
+  },
+  {
+    "user_id": 304,
+    "preferred_styles": [
+      "formal_classic"
+    ],
+    "preferred_colors": [
+      "grey",
+      "pink",
+      "red",
+      "green"
+    ],
+    "gender": "women",
+    "age_group": "35-44"
+  },
+  {
+    "user_id": 305,
+    "preferred_styles": [
+      "sporty_active",
+      "streetwear"
+    ],
+    "preferred_colors": [
+      "brown",
+      "pink",
+      "black",
+      "green",
+      "grey"
+    ],
+    "gender": "unisex",
+    "age_group": "18-24"
+  },
+  {
+    "user_id": 306,
+    "preferred_styles": [
+      "winter_cozy"
+    ],
+    "preferred_colors": [
+      "navy",
+      "beige",
+      "white",
+      "blue",
+      "green"
+    ],
+    "gender": "women",
+    "age_group": "45+"
+  },
+  {
+    "user_id": 307,
+    "preferred_styles": [
+      "winter_cozy",
+      "formal_classic",
+      "streetwear"
+    ],
+    "preferred_colors": [
+      "burgundy",
+      "olive",
+      "beige",
+      "pink",
+      "red"
+    ],
+    "gender": "men",
+    "age_group": "25-34"
+  },
+  {
+    "user_id": 308,
+    "preferred_styles": [
+      "streetwear"
+    ],
+    "preferred_colors": [
+      "navy",
+      "brown",
+      "white"
+    ],
+    "gender": "men",
+    "age_group": "25-34"
+  },
+  {
+    "user_id": 309,
+    "preferred_styles": [
+      "winter_cozy",
+      "sporty_active"
+    ],
+    "preferred_colors": [
+      "red",
+      "white",
+      "grey",
+      "burgundy",
+      "brown",
+      "beige"
+    ],
+    "gender": "unisex",
+    "age_group": "35-44"
+  },
+  {
+    "user_id": 310,
+    "preferred_styles": [
+      "winter_cozy",
+      "formal_classic"
+    ],
+    "preferred_colors": [
+      "pink",
+      "olive",
+      "green",
+      "grey",
+      "black",
+      "burgundy"
+    ],
+    "gender": "women",
+    "age_group": "18-24"
+  },
+  {
+    "user_id": 311,
+    "preferred_styles": [
+      "streetwear"
+    ],
+    "preferred_colors": [
+      "burgundy",
+      "red",
+      "blue"
+    ],
+    "gender": "unisex",
+    "age_group": "18-24"
+  },
+  {
+    "user_id": 312,
+    "preferred_styles": [
+      "formal_classic",
+      "winter_cozy"
+    ],
+    "preferred_colors": [
+      "red",
+      "green",
+      "beige",
+      "navy"
+    ],
+    "gender": "unisex",
+    "age_group": "25-34"
+  },
+  {
+    "user_id": 313,
+    "preferred_styles": [
+      "formal_classic",
+      "sporty_active"
+    ],
+    "preferred_colors": [
+      "grey",
+      "white",
+      "navy",
+      "black",
+      "green"
+    ],
+    "gender": "men",
+    "age_group": "35-44"
+  },
+  {
+    "user_id": 314,
+    "preferred_styles": [
+      "formal_classic",
+      "casual_everyday",
+      "sporty_active"
+    ],
+    "preferred_colors": [
+      "black",
+      "beige",
+      "brown",
+      "navy",
+      "grey",
+      "olive"
+    ],
+    "gender": "unisex",
+    "age_group": "45+"
+  },
+  {
+    "user_id": 315,
+    "preferred_styles": [
+      "formal_classic"
+    ],
+    "preferred_colors": [
+      "green",
+      "beige",
+      "blue",
+      "burgundy",
+      "red"
+    ],
+    "gender": "unisex",
+    "age_group": "18-24"
+  },
+  {
+    "user_id": 316,
+    "preferred_styles": [
+      "summer_light",
+      "winter_cozy"
+    ],
+    "preferred_colors": [
+      "grey",
+      "black",
+      "olive"
+    ],
+    "gender": "women",
+    "age_group": "45+"
+  },
+  {
+    "user_id": 317,
+    "preferred_styles": [
+      "winter_cozy"
+    ],
+    "preferred_colors": [
+      "grey",
+      "blue",
+      "olive",
+      "red",
+      "green",
+      "beige"
+    ],
+    "gender": "women",
+    "age_group": "25-34"
+  },
+  {
+    "user_id": 318,
+    "preferred_styles": [
+      "streetwear",
+      "summer_light"
+    ],
+    "preferred_colors": [
+      "beige",
+      "olive",
+      "white"
+    ],
+    "gender": "men",
+    "age_group": "45+"
+  },
+  {
+    "user_id": 319,
+    "preferred_styles": [
+      "formal_classic"
+    ],
+    "preferred_colors": [
+      "black",
+      "beige",
+      "white",
+      "burgundy",
+      "pink",
+      "olive"
+    ],
+    "gender": "unisex",
+    "age_group": "25-34"
+  },
+  {
+    "user_id": 320,
+    "preferred_styles": [
+      "casual_everyday"
+    ],
+    "preferred_colors": [
+      "red",
+      "black",
+      "burgundy",
+      "beige"
+    ],
+    "gender": "men",
+    "age_group": "25-34"
+  },
+  {
+    "user_id": 321,
+    "preferred_styles": [
+      "winter_cozy",
+      "streetwear"
+    ],
+    "preferred_colors": [
+      "red",
+      "black",
+      "brown",
+      "white",
+      "beige",
+      "blue"
+    ],
+    "gender": "unisex",
+    "age_group": "25-34"
+  },
+  {
+    "user_id": 322,
+    "preferred_styles": [
+      "casual_everyday",
+      "formal_classic"
+    ],
+    "preferred_colors": [
+      "navy",
+      "black",
+      "beige",
+      "burgundy",
+      "green"
+    ],
+    "gender": "women",
+    "age_group": "18-24"
+  },
+  {
+    "user_id": 323,
+    "preferred_styles": [
+      "formal_classic",
+      "streetwear"
+    ],
+    "preferred_colors": [
+      "white",
+      "olive",
+      "burgundy",
+      "beige",
+      "red"
+    ],
+    "gender": "women",
+    "age_group": "25-34"
+  },
+  {
+    "user_id": 324,
+    "preferred_styles": [
+      "casual_everyday"
+    ],
+    "preferred_colors": [
+      "red",
+      "olive",
+      "beige",
+      "grey",
+      "green"
+    ],
+    "gender": "women",
+    "age_group": "45+"
+  },
+  {
+    "user_id": 325,
+    "preferred_styles": [
+      "formal_classic"
+    ],
+    "preferred_colors": [
+      "beige",
+      "burgundy",
+      "grey",
+      "olive",
+      "brown"
+    ],
+    "gender": "women",
+    "age_group": "25-34"
+  },
+  {
+    "user_id": 326,
+    "preferred_styles": [
+      "formal_classic",
+      "casual_everyday",
+      "winter_cozy"
+    ],
+    "preferred_colors": [
+      "red",
+      "grey",
+      "black",
+      "burgundy",
+      "olive",
+      "beige"
+    ],
+    "gender": "men",
+    "age_group": "35-44"
+  },
+  {
+    "user_id": 327,
+    "preferred_styles": [
+      "streetwear",
+      "formal_classic"
+    ],
+    "preferred_colors": [
+      "black",
+      "brown",
+      "olive",
+      "navy",
+      "green"
+    ],
+    "gender": "women",
+    "age_group": "45+"
+  },
+  {
+    "user_id": 328,
+    "preferred_styles": [
+      "streetwear"
+    ],
+    "preferred_colors": [
+      "burgundy",
+      "green",
+      "olive",
+      "blue",
+      "navy"
+    ],
+    "gender": "women",
+    "age_group": "25-34"
+  },
+  {
+    "user_id": 329,
+    "preferred_styles": [
+      "sporty_active",
+      "winter_cozy"
+    ],
+    "preferred_colors": [
+      "olive",
+      "blue",
+      "navy",
+      "white",
+      "black",
+      "burgundy"
+    ],
+    "gender": "men",
+    "age_group": "25-34"
+  },
+  {
+    "user_id": 330,
+    "preferred_styles": [
+      "casual_everyday",
+      "streetwear",
+      "winter_cozy"
+    ],
+    "preferred_colors": [
+      "pink",
+      "olive",
+      "blue",
+      "brown",
+      "red",
+      "black"
+    ],
+    "gender": "unisex",
+    "age_group": "45+"
+  },
+  {
+    "user_id": 331,
+    "preferred_styles": [
+      "winter_cozy"
+    ],
+    "preferred_colors": [
+      "burgundy",
+      "grey",
+      "green"
+    ],
+    "gender": "women",
+    "age_group": "25-34"
+  },
+  {
+    "user_id": 332,
+    "preferred_styles": [
+      "formal_classic",
+      "winter_cozy",
+      "streetwear"
+    ],
+    "preferred_colors": [
+      "grey",
+      "beige",
+      "black",
+      "pink",
+      "blue",
+      "white"
+    ],
+    "gender": "men",
+    "age_group": "18-24"
+  },
+  {
+    "user_id": 333,
+    "preferred_styles": [
+      "winter_cozy",
+      "formal_classic",
+      "summer_light"
+    ],
+    "preferred_colors": [
+      "blue",
+      "brown",
+      "pink",
+      "burgundy",
+      "red"
+    ],
+    "gender": "women",
+    "age_group": "25-34"
+  },
+  {
+    "user_id": 334,
+    "preferred_styles": [
+      "sporty_active",
+      "casual_everyday",
+      "streetwear"
+    ],
+    "preferred_colors": [
+      "beige",
+      "red",
+      "blue",
+      "grey"
+    ],
+    "gender": "women",
+    "age_group": "18-24"
+  },
+  {
+    "user_id": 335,
+    "preferred_styles": [
+      "summer_light",
+      "sporty_active",
+      "casual_everyday"
+    ],
+    "preferred_colors": [
+      "grey",
+      "olive",
+      "brown",
+      "black",
+      "green"
+    ],
+    "gender": "women",
+    "age_group": "35-44"
+  },
+  {
+    "user_id": 336,
+    "preferred_styles": [
+      "streetwear",
+      "formal_classic"
+    ],
+    "preferred_colors": [
+      "green",
+      "brown",
+      "navy",
+      "blue"
+    ],
+    "gender": "women",
+    "age_group": "18-24"
+  },
+  {
+    "user_id": 337,
+    "preferred_styles": [
+      "winter_cozy",
+      "casual_everyday"
+    ],
+    "preferred_colors": [
+      "blue",
+      "green",
+      "pink",
+      "navy",
+      "white",
+      "olive"
+    ],
+    "gender": "women",
+    "age_group": "25-34"
+  },
+  {
+    "user_id": 338,
+    "preferred_styles": [
+      "sporty_active"
+    ],
+    "preferred_colors": [
+      "green",
+      "brown",
+      "grey"
+    ],
+    "gender": "men",
+    "age_group": "45+"
+  },
+  {
+    "user_id": 339,
+    "preferred_styles": [
+      "sporty_active",
+      "streetwear",
+      "summer_light"
+    ],
+    "preferred_colors": [
+      "brown",
+      "blue",
+      "white"
+    ],
+    "gender": "men",
+    "age_group": "35-44"
+  },
+  {
+    "user_id": 340,
+    "preferred_styles": [
+      "summer_light",
+      "casual_everyday",
+      "streetwear"
+    ],
+    "preferred_colors": [
+      "olive",
+      "grey",
+      "brown"
+    ],
+    "gender": "women",
+    "age_group": "45+"
+  },
+  {
+    "user_id": 341,
+    "preferred_styles": [
+      "sporty_active",
+      "casual_everyday"
+    ],
+    "preferred_colors": [
+      "green",
+      "beige",
+      "olive"
+    ],
+    "gender": "unisex",
+    "age_group": "25-34"
+  },
+  {
+    "user_id": 342,
+    "preferred_styles": [
+      "formal_classic",
+      "streetwear"
+    ],
+    "preferred_colors": [
+      "red",
+      "black",
+      "navy",
+      "green",
+      "grey",
+      "blue"
+    ],
+    "gender": "women",
+    "age_group": "45+"
+  },
+  {
+    "user_id": 343,
+    "preferred_styles": [
+      "formal_classic",
+      "streetwear"
+    ],
+    "preferred_colors": [
+      "brown",
+      "beige",
+      "olive",
+      "pink",
+      "grey",
+      "white"
+    ],
+    "gender": "men",
+    "age_group": "18-24"
+  },
+  {
+    "user_id": 344,
+    "preferred_styles": [
+      "formal_classic"
+    ],
+    "preferred_colors": [
+      "white",
+      "olive",
+      "navy"
+    ],
+    "gender": "men",
+    "age_group": "35-44"
+  },
+  {
+    "user_id": 345,
+    "preferred_styles": [
+      "summer_light",
+      "casual_everyday",
+      "streetwear"
+    ],
+    "preferred_colors": [
+      "grey",
+      "pink",
+      "olive",
+      "brown",
+      "blue"
+    ],
+    "gender": "men",
+    "age_group": "18-24"
+  },
+  {
+    "user_id": 346,
+    "preferred_styles": [
+      "sporty_active",
+      "streetwear",
+      "casual_everyday"
+    ],
+    "preferred_colors": [
+      "brown",
+      "red",
+      "navy",
+      "grey",
+      "beige",
+      "white"
+    ],
+    "gender": "women",
+    "age_group": "18-24"
+  },
+  {
+    "user_id": 347,
+    "preferred_styles": [
+      "formal_classic",
+      "sporty_active",
+      "summer_light"
+    ],
+    "preferred_colors": [
+      "black",
+      "green",
+      "pink"
+    ],
+    "gender": "men",
+    "age_group": "18-24"
+  },
+  {
+    "user_id": 348,
+    "preferred_styles": [
+      "formal_classic"
+    ],
+    "preferred_colors": [
+      "burgundy",
+      "pink",
+      "brown",
+      "black"
+    ],
+    "gender": "men",
+    "age_group": "45+"
+  },
+  {
+    "user_id": 349,
+    "preferred_styles": [
+      "formal_classic",
+      "sporty_active",
+      "summer_light"
+    ],
+    "preferred_colors": [
+      "navy",
+      "blue",
+      "red",
+      "grey"
+    ],
+    "gender": "men",
+    "age_group": "18-24"
+  },
+  {
+    "user_id": 350,
+    "preferred_styles": [
+      "summer_light"
+    ],
+    "preferred_colors": [
+      "green",
+      "pink",
+      "beige",
+      "grey"
+    ],
+    "gender": "unisex",
+    "age_group": "35-44"
+  },
+  {
+    "user_id": 351,
+    "preferred_styles": [
+      "casual_everyday"
+    ],
+    "preferred_colors": [
+      "olive",
+      "grey",
+      "burgundy",
+      "pink",
+      "white"
+    ],
+    "gender": "men",
+    "age_group": "25-34"
+  },
+  {
+    "user_id": 352,
+    "preferred_styles": [
+      "sporty_active"
+    ],
+    "preferred_colors": [
+      "pink",
+      "red",
+      "brown",
+      "black",
+      "beige"
+    ],
+    "gender": "unisex",
+    "age_group": "45+"
+  },
+  {
+    "user_id": 353,
+    "preferred_styles": [
+      "summer_light",
+      "casual_everyday",
+      "winter_cozy"
+    ],
+    "preferred_colors": [
+      "pink",
+      "navy",
+      "brown"
+    ],
+    "gender": "unisex",
+    "age_group": "35-44"
+  },
+  {
+    "user_id": 354,
+    "preferred_styles": [
+      "sporty_active",
+      "streetwear",
+      "casual_everyday"
+    ],
+    "preferred_colors": [
+      "beige",
+      "olive",
+      "black",
+      "brown"
+    ],
+    "gender": "unisex",
+    "age_group": "35-44"
+  },
+  {
+    "user_id": 355,
+    "preferred_styles": [
+      "winter_cozy",
+      "sporty_active",
+      "summer_light"
+    ],
+    "preferred_colors": [
+      "olive",
+      "burgundy",
+      "red",
+      "green",
+      "blue"
+    ],
+    "gender": "unisex",
+    "age_group": "35-44"
+  },
+  {
+    "user_id": 356,
+    "preferred_styles": [
+      "streetwear",
+      "formal_classic",
+      "casual_everyday"
+    ],
+    "preferred_colors": [
+      "pink",
+      "green",
+      "blue",
+      "navy",
+      "grey"
+    ],
+    "gender": "men",
+    "age_group": "45+"
+  },
+  {
+    "user_id": 357,
+    "preferred_styles": [
+      "streetwear",
+      "summer_light",
+      "winter_cozy"
+    ],
+    "preferred_colors": [
+      "red",
+      "brown",
+      "beige",
+      "pink",
+      "white"
+    ],
+    "gender": "men",
+    "age_group": "35-44"
+  },
+  {
+    "user_id": 358,
+    "preferred_styles": [
+      "formal_classic",
+      "winter_cozy",
+      "sporty_active"
+    ],
+    "preferred_colors": [
+      "white",
+      "red",
+      "olive",
+      "grey",
+      "pink"
+    ],
+    "gender": "unisex",
+    "age_group": "25-34"
+  },
+  {
+    "user_id": 359,
+    "preferred_styles": [
+      "sporty_active",
+      "streetwear"
+    ],
+    "preferred_colors": [
+      "brown",
+      "white",
+      "pink"
+    ],
+    "gender": "women",
+    "age_group": "35-44"
+  },
+  {
+    "user_id": 360,
+    "preferred_styles": [
+      "streetwear",
+      "winter_cozy"
+    ],
+    "preferred_colors": [
+      "navy",
+      "black",
+      "brown"
+    ],
+    "gender": "men",
+    "age_group": "25-34"
+  },
+  {
+    "user_id": 361,
+    "preferred_styles": [
+      "formal_classic",
+      "streetwear"
+    ],
+    "preferred_colors": [
+      "pink",
+      "navy",
+      "white"
+    ],
+    "gender": "men",
+    "age_group": "45+"
+  },
+  {
+    "user_id": 362,
+    "preferred_styles": [
+      "winter_cozy",
+      "summer_light",
+      "streetwear"
+    ],
+    "preferred_colors": [
+      "burgundy",
+      "brown",
+      "navy",
+      "beige",
+      "white"
+    ],
+    "gender": "unisex",
+    "age_group": "18-24"
+  },
+  {
+    "user_id": 363,
+    "preferred_styles": [
+      "formal_classic",
+      "winter_cozy"
+    ],
+    "preferred_colors": [
+      "black",
+      "burgundy",
+      "white",
+      "olive",
+      "beige",
+      "pink"
+    ],
+    "gender": "men",
+    "age_group": "45+"
+  },
+  {
+    "user_id": 364,
+    "preferred_styles": [
+      "formal_classic",
+      "casual_everyday"
+    ],
+    "preferred_colors": [
+      "navy",
+      "green",
+      "beige",
+      "burgundy"
+    ],
+    "gender": "men",
+    "age_group": "35-44"
+  },
+  {
+    "user_id": 365,
+    "preferred_styles": [
+      "summer_light"
+    ],
+    "preferred_colors": [
+      "navy",
+      "pink",
+      "burgundy",
+      "black",
+      "beige",
+      "red"
+    ],
+    "gender": "men",
+    "age_group": "35-44"
+  },
+  {
+    "user_id": 366,
+    "preferred_styles": [
+      "summer_light",
+      "sporty_active"
+    ],
+    "preferred_colors": [
+      "black",
+      "red",
+      "grey",
+      "burgundy",
+      "pink",
+      "brown"
+    ],
+    "gender": "unisex",
+    "age_group": "18-24"
+  },
+  {
+    "user_id": 367,
+    "preferred_styles": [
+      "streetwear",
+      "sporty_active",
+      "summer_light"
+    ],
+    "preferred_colors": [
+      "red",
+      "brown",
+      "olive",
+      "navy",
+      "green"
+    ],
+    "gender": "women",
+    "age_group": "45+"
+  },
+  {
+    "user_id": 368,
+    "preferred_styles": [
+      "streetwear",
+      "formal_classic",
+      "summer_light"
+    ],
+    "preferred_colors": [
+      "white",
+      "grey",
+      "burgundy"
+    ],
+    "gender": "women",
+    "age_group": "35-44"
+  },
+  {
+    "user_id": 369,
+    "preferred_styles": [
+      "sporty_active",
+      "summer_light",
+      "casual_everyday"
+    ],
+    "preferred_colors": [
+      "burgundy",
+      "grey",
+      "brown"
+    ],
+    "gender": "unisex",
+    "age_group": "45+"
+  },
+  {
+    "user_id": 370,
+    "preferred_styles": [
+      "winter_cozy",
+      "casual_everyday"
+    ],
+    "preferred_colors": [
+      "brown",
+      "pink",
+      "white",
+      "burgundy",
+      "beige"
+    ],
+    "gender": "unisex",
+    "age_group": "25-34"
+  },
+  {
+    "user_id": 371,
+    "preferred_styles": [
+      "formal_classic",
+      "summer_light",
+      "streetwear"
+    ],
+    "preferred_colors": [
+      "brown",
+      "olive",
+      "grey"
+    ],
+    "gender": "unisex",
+    "age_group": "35-44"
+  },
+  {
+    "user_id": 372,
+    "preferred_styles": [
+      "casual_everyday",
+      "streetwear"
+    ],
+    "preferred_colors": [
+      "navy",
+      "white",
+      "black",
+      "pink",
+      "brown",
+      "burgundy"
+    ],
+    "gender": "men",
+    "age_group": "18-24"
+  },
+  {
+    "user_id": 373,
+    "preferred_styles": [
+      "streetwear",
+      "casual_everyday",
+      "summer_light"
+    ],
+    "preferred_colors": [
+      "beige",
+      "brown",
+      "green",
+      "black",
+      "olive"
+    ],
+    "gender": "unisex",
+    "age_group": "45+"
+  },
+  {
+    "user_id": 374,
+    "preferred_styles": [
+      "winter_cozy"
+    ],
+    "preferred_colors": [
+      "white",
+      "blue",
+      "beige",
+      "red",
+      "burgundy",
+      "black"
+    ],
+    "gender": "unisex",
+    "age_group": "45+"
+  },
+  {
+    "user_id": 375,
+    "preferred_styles": [
+      "streetwear",
+      "formal_classic",
+      "winter_cozy"
+    ],
+    "preferred_colors": [
+      "brown",
+      "red",
+      "grey",
+      "beige",
+      "navy",
+      "white"
+    ],
+    "gender": "unisex",
+    "age_group": "35-44"
+  },
+  {
+    "user_id": 376,
+    "preferred_styles": [
+      "casual_everyday",
+      "sporty_active"
+    ],
+    "preferred_colors": [
+      "beige",
+      "olive",
+      "black",
+      "green"
+    ],
+    "gender": "men",
+    "age_group": "25-34"
+  },
+  {
+    "user_id": 377,
+    "preferred_styles": [
+      "formal_classic",
+      "summer_light",
+      "winter_cozy"
+    ],
+    "preferred_colors": [
+      "red",
+      "beige",
+      "navy",
+      "black"
+    ],
+    "gender": "unisex",
+    "age_group": "25-34"
+  },
+  {
+    "user_id": 378,
+    "preferred_styles": [
+      "formal_classic",
+      "casual_everyday"
+    ],
+    "preferred_colors": [
+      "burgundy",
+      "brown",
+      "grey",
+      "beige",
+      "red"
+    ],
+    "gender": "unisex",
+    "age_group": "25-34"
+  },
+  {
+    "user_id": 379,
+    "preferred_styles": [
+      "winter_cozy",
+      "sporty_active",
+      "summer_light"
+    ],
+    "preferred_colors": [
+      "brown",
+      "white",
+      "olive",
+      "burgundy"
+    ],
+    "gender": "unisex",
+    "age_group": "25-34"
+  },
+  {
+    "user_id": 380,
+    "preferred_styles": [
+      "winter_cozy"
+    ],
+    "preferred_colors": [
+      "burgundy",
+      "brown",
+      "olive",
+      "green",
+      "red",
+      "navy"
+    ],
+    "gender": "women",
+    "age_group": "18-24"
+  },
+  {
+    "user_id": 381,
+    "preferred_styles": [
+      "sporty_active"
+    ],
+    "preferred_colors": [
+      "brown",
+      "navy",
+      "beige",
+      "red",
+      "grey"
+    ],
+    "gender": "women",
+    "age_group": "35-44"
+  },
+  {
+    "user_id": 382,
+    "preferred_styles": [
+      "winter_cozy",
+      "sporty_active"
+    ],
+    "preferred_colors": [
+      "blue",
+      "green",
+      "pink",
+      "white"
+    ],
+    "gender": "women",
+    "age_group": "45+"
+  },
+  {
+    "user_id": 383,
+    "preferred_styles": [
+      "casual_everyday",
+      "formal_classic",
+      "winter_cozy"
+    ],
+    "preferred_colors": [
+      "grey",
+      "navy",
+      "red"
+    ],
+    "gender": "unisex",
+    "age_group": "25-34"
+  },
+  {
+    "user_id": 384,
+    "preferred_styles": [
+      "formal_classic",
+      "winter_cozy",
+      "sporty_active"
+    ],
+    "preferred_colors": [
+      "green",
+      "blue",
+      "white",
+      "red",
+      "grey",
+      "black"
+    ],
+    "gender": "men",
+    "age_group": "35-44"
+  },
+  {
+    "user_id": 385,
+    "preferred_styles": [
+      "streetwear",
+      "casual_everyday"
+    ],
+    "preferred_colors": [
+      "burgundy",
+      "blue",
+      "grey",
+      "green",
+      "brown"
+    ],
+    "gender": "unisex",
+    "age_group": "25-34"
+  },
+  {
+    "user_id": 386,
+    "preferred_styles": [
+      "casual_everyday",
+      "formal_classic"
+    ],
+    "preferred_colors": [
+      "pink",
+      "black",
+      "grey",
+      "olive",
+      "navy",
+      "green"
+    ],
+    "gender": "women",
+    "age_group": "35-44"
+  },
+  {
+    "user_id": 387,
+    "preferred_styles": [
+      "winter_cozy",
+      "casual_everyday",
+      "streetwear"
+    ],
+    "preferred_colors": [
+      "black",
+      "grey",
+      "white"
+    ],
+    "gender": "men",
+    "age_group": "45+"
+  },
+  {
+    "user_id": 388,
+    "preferred_styles": [
+      "winter_cozy",
+      "summer_light",
+      "sporty_active"
+    ],
+    "preferred_colors": [
+      "burgundy",
+      "red",
+      "beige",
+      "black",
+      "brown"
+    ],
+    "gender": "men",
+    "age_group": "35-44"
+  },
+  {
+    "user_id": 389,
+    "preferred_styles": [
+      "streetwear",
+      "summer_light"
+    ],
+    "preferred_colors": [
+      "navy",
+      "grey",
+      "green",
+      "red",
+      "olive"
+    ],
+    "gender": "unisex",
+    "age_group": "45+"
+  },
+  {
+    "user_id": 390,
+    "preferred_styles": [
+      "formal_classic"
+    ],
+    "preferred_colors": [
+      "burgundy",
+      "pink",
+      "green",
+      "red",
+      "grey",
+      "white"
+    ],
+    "gender": "men",
+    "age_group": "35-44"
+  },
+  {
+    "user_id": 391,
+    "preferred_styles": [
+      "winter_cozy",
+      "summer_light"
+    ],
+    "preferred_colors": [
+      "navy",
+      "burgundy",
+      "beige"
+    ],
+    "gender": "women",
+    "age_group": "35-44"
+  },
+  {
+    "user_id": 392,
+    "preferred_styles": [
+      "streetwear"
+    ],
+    "preferred_colors": [
+      "beige",
+      "pink",
+      "navy",
+      "black"
+    ],
+    "gender": "unisex",
+    "age_group": "18-24"
+  },
+  {
+    "user_id": 393,
+    "preferred_styles": [
+      "streetwear"
+    ],
+    "preferred_colors": [
+      "red",
+      "blue",
+      "black",
+      "navy",
+      "grey"
+    ],
+    "gender": "unisex",
+    "age_group": "35-44"
+  },
+  {
+    "user_id": 394,
+    "preferred_styles": [
+      "winter_cozy"
+    ],
+    "preferred_colors": [
+      "black",
+      "beige",
+      "blue",
+      "burgundy",
+      "white",
+      "grey"
+    ],
+    "gender": "men",
+    "age_group": "35-44"
+  },
+  {
+    "user_id": 395,
+    "preferred_styles": [
+      "winter_cozy",
+      "summer_light",
+      "sporty_active"
+    ],
+    "preferred_colors": [
+      "beige",
+      "red",
+      "grey",
+      "burgundy"
+    ],
+    "gender": "women",
+    "age_group": "25-34"
+  },
+  {
+    "user_id": 396,
+    "preferred_styles": [
+      "summer_light",
+      "casual_everyday"
+    ],
+    "preferred_colors": [
+      "green",
+      "pink",
+      "olive"
+    ],
+    "gender": "women",
+    "age_group": "25-34"
+  },
+  {
+    "user_id": 397,
+    "preferred_styles": [
+      "winter_cozy"
+    ],
+    "preferred_colors": [
+      "blue",
+      "olive",
+      "burgundy"
+    ],
+    "gender": "men",
+    "age_group": "35-44"
+  },
+  {
+    "user_id": 398,
+    "preferred_styles": [
+      "streetwear"
+    ],
+    "preferred_colors": [
+      "burgundy",
+      "green",
+      "white"
+    ],
+    "gender": "men",
+    "age_group": "35-44"
+  },
+  {
+    "user_id": 399,
+    "preferred_styles": [
+      "casual_everyday",
+      "summer_light",
+      "sporty_active"
+    ],
+    "preferred_colors": [
+      "green",
+      "beige",
+      "navy",
+      "grey"
+    ],
+    "gender": "unisex",
+    "age_group": "45+"
+  },
+  {
+    "user_id": 400,
+    "preferred_styles": [
+      "casual_everyday"
+    ],
+    "preferred_colors": [
+      "black",
+      "burgundy",
+      "pink",
+      "white",
+      "grey"
+    ],
+    "gender": "unisex",
+    "age_group": "35-44"
+  },
+  {
+    "user_id": 401,
+    "preferred_styles": [
+      "summer_light"
+    ],
+    "preferred_colors": [
+      "brown",
+      "white",
+      "grey",
+      "pink"
+    ],
+    "gender": "women",
+    "age_group": "35-44"
+  },
+  {
+    "user_id": 402,
+    "preferred_styles": [
+      "winter_cozy"
+    ],
+    "preferred_colors": [
+      "grey",
+      "pink",
+      "burgundy",
+      "green",
+      "red"
+    ],
+    "gender": "unisex",
+    "age_group": "18-24"
+  },
+  {
+    "user_id": 403,
+    "preferred_styles": [
+      "sporty_active",
+      "streetwear"
+    ],
+    "preferred_colors": [
+      "burgundy",
+      "white",
+      "beige",
+      "blue",
+      "red"
+    ],
+    "gender": "women",
+    "age_group": "25-34"
+  },
+  {
+    "user_id": 404,
+    "preferred_styles": [
+      "sporty_active",
+      "winter_cozy",
+      "formal_classic"
+    ],
+    "preferred_colors": [
+      "beige",
+      "grey",
+      "black",
+      "pink"
+    ],
+    "gender": "women",
+    "age_group": "45+"
+  },
+  {
+    "user_id": 405,
+    "preferred_styles": [
+      "casual_everyday",
+      "winter_cozy"
+    ],
+    "preferred_colors": [
+      "brown",
+      "navy",
+      "burgundy",
+      "grey",
+      "green",
+      "red"
+    ],
+    "gender": "unisex",
+    "age_group": "45+"
+  },
+  {
+    "user_id": 406,
+    "preferred_styles": [
+      "sporty_active"
+    ],
+    "preferred_colors": [
+      "black",
+      "olive",
+      "grey",
+      "green"
+    ],
+    "gender": "women",
+    "age_group": "35-44"
+  },
+  {
+    "user_id": 407,
+    "preferred_styles": [
+      "winter_cozy",
+      "summer_light"
+    ],
+    "preferred_colors": [
+      "beige",
+      "green",
+      "brown"
+    ],
+    "gender": "men",
+    "age_group": "18-24"
+  },
+  {
+    "user_id": 408,
+    "preferred_styles": [
+      "formal_classic",
+      "casual_everyday",
+      "winter_cozy"
+    ],
+    "preferred_colors": [
+      "navy",
+      "burgundy",
+      "black",
+      "beige"
+    ],
+    "gender": "men",
+    "age_group": "45+"
+  },
+  {
+    "user_id": 409,
+    "preferred_styles": [
+      "casual_everyday"
+    ],
+    "preferred_colors": [
+      "olive",
+      "beige",
+      "grey",
+      "navy",
+      "red",
+      "pink"
+    ],
+    "gender": "unisex",
+    "age_group": "35-44"
+  },
+  {
+    "user_id": 410,
+    "preferred_styles": [
+      "casual_everyday",
+      "sporty_active",
+      "formal_classic"
+    ],
+    "preferred_colors": [
+      "pink",
+      "beige",
+      "red",
+      "brown"
+    ],
+    "gender": "women",
+    "age_group": "18-24"
+  },
+  {
+    "user_id": 411,
+    "preferred_styles": [
+      "summer_light"
+    ],
+    "preferred_colors": [
+      "pink",
+      "olive",
+      "navy",
+      "brown",
+      "black"
+    ],
+    "gender": "unisex",
+    "age_group": "18-24"
+  },
+  {
+    "user_id": 412,
+    "preferred_styles": [
+      "casual_everyday",
+      "formal_classic"
+    ],
+    "preferred_colors": [
+      "burgundy",
+      "beige",
+      "green",
+      "brown"
+    ],
+    "gender": "unisex",
+    "age_group": "45+"
+  },
+  {
+    "user_id": 413,
+    "preferred_styles": [
+      "formal_classic",
+      "winter_cozy"
+    ],
+    "preferred_colors": [
+      "green",
+      "grey",
+      "brown",
+      "red"
+    ],
+    "gender": "men",
+    "age_group": "25-34"
+  },
+  {
+    "user_id": 414,
+    "preferred_styles": [
+      "winter_cozy",
+      "casual_everyday"
+    ],
+    "preferred_colors": [
+      "red",
+      "black",
+      "green",
+      "burgundy"
+    ],
+    "gender": "unisex",
+    "age_group": "35-44"
+  },
+  {
+    "user_id": 415,
+    "preferred_styles": [
+      "summer_light"
+    ],
+    "preferred_colors": [
+      "black",
+      "white",
+      "olive"
+    ],
+    "gender": "women",
+    "age_group": "18-24"
+  },
+  {
+    "user_id": 416,
+    "preferred_styles": [
+      "formal_classic"
+    ],
+    "preferred_colors": [
+      "grey",
+      "red",
+      "brown"
+    ],
+    "gender": "women",
+    "age_group": "18-24"
+  },
+  {
+    "user_id": 417,
+    "preferred_styles": [
+      "sporty_active"
+    ],
+    "preferred_colors": [
+      "navy",
+      "white",
+      "burgundy",
+      "blue"
+    ],
+    "gender": "women",
+    "age_group": "25-34"
+  },
+  {
+    "user_id": 418,
+    "preferred_styles": [
+      "sporty_active",
+      "summer_light",
+      "streetwear"
+    ],
+    "preferred_colors": [
+      "white",
+      "black",
+      "burgundy",
+      "olive"
+    ],
+    "gender": "men",
+    "age_group": "35-44"
+  },
+  {
+    "user_id": 419,
+    "preferred_styles": [
+      "formal_classic",
+      "casual_everyday"
+    ],
+    "preferred_colors": [
+      "burgundy",
+      "black",
+      "olive",
+      "white",
+      "brown"
+    ],
+    "gender": "women",
+    "age_group": "45+"
+  },
+  {
+    "user_id": 420,
+    "preferred_styles": [
+      "streetwear"
+    ],
+    "preferred_colors": [
+      "brown",
+      "green",
+      "white"
+    ],
+    "gender": "unisex",
+    "age_group": "18-24"
+  },
+  {
+    "user_id": 421,
+    "preferred_styles": [
+      "casual_everyday",
+      "streetwear"
+    ],
+    "preferred_colors": [
+      "navy",
+      "burgundy",
+      "green"
+    ],
+    "gender": "unisex",
+    "age_group": "18-24"
+  },
+  {
+    "user_id": 422,
+    "preferred_styles": [
+      "formal_classic"
+    ],
+    "preferred_colors": [
+      "green",
+      "black",
+      "brown",
+      "navy",
+      "beige",
+      "red"
+    ],
+    "gender": "unisex",
+    "age_group": "25-34"
+  },
+  {
+    "user_id": 423,
+    "preferred_styles": [
+      "casual_everyday",
+      "winter_cozy",
+      "summer_light"
+    ],
+    "preferred_colors": [
+      "brown",
+      "black",
+      "grey",
+      "white"
+    ],
+    "gender": "men",
+    "age_group": "25-34"
+  },
+  {
+    "user_id": 424,
+    "preferred_styles": [
+      "casual_everyday",
+      "winter_cozy"
+    ],
+    "preferred_colors": [
+      "black",
+      "blue",
+      "green"
+    ],
+    "gender": "unisex",
+    "age_group": "35-44"
+  },
+  {
+    "user_id": 425,
+    "preferred_styles": [
+      "streetwear"
+    ],
+    "preferred_colors": [
+      "burgundy",
+      "brown",
+      "olive",
+      "white",
+      "grey",
+      "navy"
+    ],
+    "gender": "men",
+    "age_group": "18-24"
+  },
+  {
+    "user_id": 426,
+    "preferred_styles": [
+      "winter_cozy"
+    ],
+    "preferred_colors": [
+      "brown",
+      "red",
+      "blue",
+      "burgundy",
+      "olive"
+    ],
+    "gender": "men",
+    "age_group": "18-24"
+  },
+  {
+    "user_id": 427,
+    "preferred_styles": [
+      "summer_light"
+    ],
+    "preferred_colors": [
+      "red",
+      "beige",
+      "navy",
+      "blue",
+      "grey"
+    ],
+    "gender": "women",
+    "age_group": "18-24"
+  },
+  {
+    "user_id": 428,
+    "preferred_styles": [
+      "formal_classic",
+      "sporty_active"
+    ],
+    "preferred_colors": [
+      "burgundy",
+      "olive",
+      "blue",
+      "grey"
+    ],
+    "gender": "men",
+    "age_group": "18-24"
+  },
+  {
+    "user_id": 429,
+    "preferred_styles": [
+      "casual_everyday",
+      "summer_light",
+      "formal_classic"
+    ],
+    "preferred_colors": [
+      "burgundy",
+      "beige",
+      "red",
+      "olive",
+      "blue"
+    ],
+    "gender": "unisex",
+    "age_group": "35-44"
+  },
+  {
+    "user_id": 430,
+    "preferred_styles": [
+      "streetwear",
+      "winter_cozy",
+      "casual_everyday"
+    ],
+    "preferred_colors": [
+      "brown",
+      "green",
+      "olive"
+    ],
+    "gender": "men",
+    "age_group": "45+"
+  },
+  {
+    "user_id": 431,
+    "preferred_styles": [
+      "summer_light"
+    ],
+    "preferred_colors": [
+      "grey",
+      "burgundy",
+      "green"
+    ],
+    "gender": "men",
+    "age_group": "45+"
+  },
+  {
+    "user_id": 432,
+    "preferred_styles": [
+      "formal_classic",
+      "summer_light"
+    ],
+    "preferred_colors": [
+      "black",
+      "beige",
+      "white"
+    ],
+    "gender": "unisex",
+    "age_group": "35-44"
+  },
+  {
+    "user_id": 433,
+    "preferred_styles": [
+      "casual_everyday"
+    ],
+    "preferred_colors": [
+      "black",
+      "grey",
+      "red",
+      "green"
+    ],
+    "gender": "unisex",
+    "age_group": "45+"
+  },
+  {
+    "user_id": 434,
+    "preferred_styles": [
+      "formal_classic",
+      "winter_cozy",
+      "casual_everyday"
+    ],
+    "preferred_colors": [
+      "pink",
+      "grey",
+      "brown",
+      "black",
+      "burgundy"
+    ],
+    "gender": "women",
+    "age_group": "45+"
+  },
+  {
+    "user_id": 435,
+    "preferred_styles": [
+      "winter_cozy",
+      "summer_light",
+      "casual_everyday"
+    ],
+    "preferred_colors": [
+      "pink",
+      "black",
+      "olive",
+      "brown",
+      "green",
+      "white"
+    ],
+    "gender": "men",
+    "age_group": "45+"
+  },
+  {
+    "user_id": 436,
+    "preferred_styles": [
+      "streetwear",
+      "casual_everyday"
+    ],
+    "preferred_colors": [
+      "blue",
+      "brown",
+      "white",
+      "burgundy",
+      "olive",
+      "navy"
+    ],
+    "gender": "unisex",
+    "age_group": "35-44"
+  },
+  {
+    "user_id": 437,
+    "preferred_styles": [
+      "summer_light",
+      "winter_cozy"
+    ],
+    "preferred_colors": [
+      "beige",
+      "burgundy",
+      "navy",
+      "olive"
+    ],
+    "gender": "unisex",
+    "age_group": "35-44"
+  },
+  {
+    "user_id": 438,
+    "preferred_styles": [
+      "winter_cozy"
+    ],
+    "preferred_colors": [
+      "burgundy",
+      "red",
+      "brown"
+    ],
+    "gender": "unisex",
+    "age_group": "25-34"
+  },
+  {
+    "user_id": 439,
+    "preferred_styles": [
+      "sporty_active",
+      "winter_cozy"
+    ],
+    "preferred_colors": [
+      "white",
+      "green",
+      "olive",
+      "navy",
+      "brown"
+    ],
+    "gender": "men",
+    "age_group": "45+"
+  },
+  {
+    "user_id": 440,
+    "preferred_styles": [
+      "sporty_active",
+      "summer_light"
+    ],
+    "preferred_colors": [
+      "red",
+      "green",
+      "brown"
+    ],
+    "gender": "women",
+    "age_group": "45+"
+  },
+  {
+    "user_id": 441,
+    "preferred_styles": [
+      "summer_light"
+    ],
+    "preferred_colors": [
+      "black",
+      "white",
+      "red"
+    ],
+    "gender": "unisex",
+    "age_group": "18-24"
+  },
+  {
+    "user_id": 442,
+    "preferred_styles": [
+      "sporty_active"
+    ],
+    "preferred_colors": [
+      "brown",
+      "grey",
+      "white",
+      "burgundy",
+      "olive",
+      "green"
+    ],
+    "gender": "women",
+    "age_group": "45+"
+  },
+  {
+    "user_id": 443,
+    "preferred_styles": [
+      "sporty_active",
+      "winter_cozy",
+      "formal_classic"
+    ],
+    "preferred_colors": [
+      "black",
+      "pink",
+      "burgundy",
+      "grey"
+    ],
+    "gender": "men",
+    "age_group": "25-34"
+  },
+  {
+    "user_id": 444,
+    "preferred_styles": [
+      "winter_cozy",
+      "streetwear"
+    ],
+    "preferred_colors": [
+      "black",
+      "pink",
+      "burgundy"
+    ],
+    "gender": "men",
+    "age_group": "25-34"
+  },
+  {
+    "user_id": 445,
+    "preferred_styles": [
+      "streetwear",
+      "casual_everyday",
+      "sporty_active"
+    ],
+    "preferred_colors": [
+      "burgundy",
+      "beige",
+      "olive",
+      "black",
+      "green",
+      "pink"
+    ],
+    "gender": "unisex",
+    "age_group": "45+"
+  },
+  {
+    "user_id": 446,
+    "preferred_styles": [
+      "winter_cozy",
+      "casual_everyday",
+      "formal_classic"
+    ],
+    "preferred_colors": [
+      "burgundy",
+      "green",
+      "navy",
+      "brown",
+      "grey"
+    ],
+    "gender": "unisex",
+    "age_group": "45+"
+  },
+  {
+    "user_id": 447,
+    "preferred_styles": [
+      "winter_cozy",
+      "streetwear",
+      "casual_everyday"
+    ],
+    "preferred_colors": [
+      "olive",
+      "black",
+      "blue",
+      "white",
+      "burgundy",
+      "brown"
+    ],
+    "gender": "men",
+    "age_group": "18-24"
+  },
+  {
+    "user_id": 448,
+    "preferred_styles": [
+      "sporty_active",
+      "casual_everyday"
+    ],
+    "preferred_colors": [
+      "grey",
+      "navy",
+      "red",
+      "burgundy",
+      "brown",
+      "beige"
+    ],
+    "gender": "unisex",
+    "age_group": "18-24"
+  },
+  {
+    "user_id": 449,
+    "preferred_styles": [
+      "casual_everyday",
+      "streetwear",
+      "formal_classic"
+    ],
+    "preferred_colors": [
+      "black",
+      "white",
+      "pink",
+      "navy"
+    ],
+    "gender": "men",
+    "age_group": "18-24"
+  },
+  {
+    "user_id": 450,
+    "preferred_styles": [
+      "summer_light",
+      "streetwear",
+      "sporty_active"
+    ],
+    "preferred_colors": [
+      "blue",
+      "brown",
+      "green"
+    ],
+    "gender": "women",
+    "age_group": "35-44"
+  },
+  {
+    "user_id": 451,
+    "preferred_styles": [
+      "formal_classic"
+    ],
+    "preferred_colors": [
+      "white",
+      "red",
+      "grey",
+      "blue"
+    ],
+    "gender": "women",
+    "age_group": "35-44"
+  },
+  {
+    "user_id": 452,
+    "preferred_styles": [
+      "casual_everyday",
+      "streetwear"
+    ],
+    "preferred_colors": [
+      "green",
+      "black",
+      "red",
+      "grey",
+      "white",
+      "navy"
+    ],
+    "gender": "women",
+    "age_group": "18-24"
+  },
+  {
+    "user_id": 453,
+    "preferred_styles": [
+      "summer_light"
+    ],
+    "preferred_colors": [
+      "brown",
+      "burgundy",
+      "red",
+      "olive",
+      "navy"
+    ],
+    "gender": "men",
+    "age_group": "25-34"
+  },
+  {
+    "user_id": 454,
+    "preferred_styles": [
+      "casual_everyday"
+    ],
+    "preferred_colors": [
+      "black",
+      "navy",
+      "white",
+      "green"
+    ],
+    "gender": "unisex",
+    "age_group": "45+"
+  },
+  {
+    "user_id": 455,
+    "preferred_styles": [
+      "casual_everyday"
+    ],
+    "preferred_colors": [
+      "olive",
+      "burgundy",
+      "beige",
+      "grey",
+      "green",
+      "brown"
+    ],
+    "gender": "men",
+    "age_group": "35-44"
+  },
+  {
+    "user_id": 456,
+    "preferred_styles": [
+      "summer_light",
+      "casual_everyday",
+      "sporty_active"
+    ],
+    "preferred_colors": [
+      "navy",
+      "green",
+      "black",
+      "pink",
+      "beige",
+      "grey"
+    ],
+    "gender": "women",
+    "age_group": "45+"
+  },
+  {
+    "user_id": 457,
+    "preferred_styles": [
+      "summer_light"
+    ],
+    "preferred_colors": [
+      "brown",
+      "grey",
+      "pink",
+      "blue",
+      "navy"
+    ],
+    "gender": "women",
+    "age_group": "25-34"
+  },
+  {
+    "user_id": 458,
+    "preferred_styles": [
+      "sporty_active"
+    ],
+    "preferred_colors": [
+      "white",
+      "burgundy",
+      "black",
+      "brown",
+      "olive"
+    ],
+    "gender": "men",
+    "age_group": "25-34"
+  },
+  {
+    "user_id": 459,
+    "preferred_styles": [
+      "formal_classic"
+    ],
+    "preferred_colors": [
+      "grey",
+      "white",
+      "pink",
+      "black",
+      "red"
+    ],
+    "gender": "women",
+    "age_group": "45+"
+  },
+  {
+    "user_id": 460,
+    "preferred_styles": [
+      "sporty_active",
+      "casual_everyday"
+    ],
+    "preferred_colors": [
+      "beige",
+      "green",
+      "brown",
+      "pink",
+      "white",
+      "blue"
+    ],
+    "gender": "women",
+    "age_group": "25-34"
+  },
+  {
+    "user_id": 461,
+    "preferred_styles": [
+      "summer_light",
+      "casual_everyday"
+    ],
+    "preferred_colors": [
+      "white",
+      "olive",
+      "grey",
+      "burgundy",
+      "navy",
+      "pink"
+    ],
+    "gender": "men",
+    "age_group": "18-24"
+  },
+  {
+    "user_id": 462,
+    "preferred_styles": [
+      "streetwear",
+      "winter_cozy"
+    ],
+    "preferred_colors": [
+      "pink",
+      "red",
+      "burgundy",
+      "white",
+      "grey"
+    ],
+    "gender": "women",
+    "age_group": "25-34"
+  },
+  {
+    "user_id": 463,
+    "preferred_styles": [
+      "streetwear",
+      "casual_everyday"
+    ],
+    "preferred_colors": [
+      "blue",
+      "olive",
+      "burgundy",
+      "pink"
+    ],
+    "gender": "unisex",
+    "age_group": "35-44"
+  },
+  {
+    "user_id": 464,
+    "preferred_styles": [
+      "formal_classic"
+    ],
+    "preferred_colors": [
+      "burgundy",
+      "green",
+      "pink",
+      "white",
+      "black"
+    ],
+    "gender": "women",
+    "age_group": "45+"
+  },
+  {
+    "user_id": 465,
+    "preferred_styles": [
+      "casual_everyday",
+      "summer_light"
+    ],
+    "preferred_colors": [
+      "beige",
+      "burgundy",
+      "red",
+      "green",
+      "grey"
+    ],
+    "gender": "women",
+    "age_group": "18-24"
+  },
+  {
+    "user_id": 466,
+    "preferred_styles": [
+      "sporty_active"
+    ],
+    "preferred_colors": [
+      "brown",
+      "beige",
+      "burgundy"
+    ],
+    "gender": "unisex",
+    "age_group": "25-34"
+  },
+  {
+    "user_id": 467,
+    "preferred_styles": [
+      "casual_everyday"
+    ],
+    "preferred_colors": [
+      "burgundy",
+      "red",
+      "brown",
+      "beige",
+      "green",
+      "navy"
+    ],
+    "gender": "unisex",
+    "age_group": "45+"
+  },
+  {
+    "user_id": 468,
+    "preferred_styles": [
+      "casual_everyday"
+    ],
+    "preferred_colors": [
+      "navy",
+      "beige",
+      "pink"
+    ],
+    "gender": "women",
+    "age_group": "25-34"
+  },
+  {
+    "user_id": 469,
+    "preferred_styles": [
+      "winter_cozy",
+      "summer_light",
+      "formal_classic"
+    ],
+    "preferred_colors": [
+      "blue",
+      "pink",
+      "grey",
+      "beige"
+    ],
+    "gender": "unisex",
+    "age_group": "25-34"
+  },
+  {
+    "user_id": 470,
+    "preferred_styles": [
+      "winter_cozy",
+      "summer_light"
+    ],
+    "preferred_colors": [
+      "olive",
+      "burgundy",
+      "beige",
+      "black",
+      "white",
+      "grey"
+    ],
+    "gender": "unisex",
+    "age_group": "18-24"
+  },
+  {
+    "user_id": 471,
+    "preferred_styles": [
+      "winter_cozy",
+      "sporty_active",
+      "summer_light"
+    ],
+    "preferred_colors": [
+      "blue",
+      "green",
+      "red",
+      "white"
+    ],
+    "gender": "unisex",
+    "age_group": "35-44"
+  },
+  {
+    "user_id": 472,
+    "preferred_styles": [
+      "casual_everyday",
+      "winter_cozy"
+    ],
+    "preferred_colors": [
+      "beige",
+      "green",
+      "navy",
+      "pink"
+    ],
+    "gender": "men",
+    "age_group": "18-24"
+  },
+  {
+    "user_id": 473,
+    "preferred_styles": [
+      "casual_everyday",
+      "summer_light",
+      "streetwear"
+    ],
+    "preferred_colors": [
+      "beige",
+      "burgundy",
+      "green",
+      "olive",
+      "pink",
+      "blue"
+    ],
+    "gender": "men",
+    "age_group": "18-24"
+  },
+  {
+    "user_id": 474,
+    "preferred_styles": [
+      "formal_classic",
+      "winter_cozy"
+    ],
+    "preferred_colors": [
+      "olive",
+      "black",
+      "red"
+    ],
+    "gender": "men",
+    "age_group": "35-44"
+  },
+  {
+    "user_id": 475,
+    "preferred_styles": [
+      "summer_light",
+      "formal_classic",
+      "sporty_active"
+    ],
+    "preferred_colors": [
+      "green",
+      "beige",
+      "grey",
+      "white",
+      "navy"
+    ],
+    "gender": "unisex",
+    "age_group": "25-34"
+  },
+  {
+    "user_id": 476,
+    "preferred_styles": [
+      "winter_cozy",
+      "sporty_active"
+    ],
+    "preferred_colors": [
+      "beige",
+      "olive",
+      "blue",
+      "white",
+      "green",
+      "navy"
+    ],
+    "gender": "men",
+    "age_group": "25-34"
+  },
+  {
+    "user_id": 477,
+    "preferred_styles": [
+      "sporty_active"
+    ],
+    "preferred_colors": [
+      "white",
+      "pink",
+      "burgundy",
+      "red"
+    ],
+    "gender": "women",
+    "age_group": "45+"
+  },
+  {
+    "user_id": 478,
+    "preferred_styles": [
+      "formal_classic",
+      "winter_cozy",
+      "casual_everyday"
+    ],
+    "preferred_colors": [
+      "brown",
+      "navy",
+      "pink",
+      "grey"
+    ],
+    "gender": "men",
+    "age_group": "45+"
+  },
+  {
+    "user_id": 479,
+    "preferred_styles": [
+      "formal_classic",
+      "sporty_active",
+      "casual_everyday"
+    ],
+    "preferred_colors": [
+      "white",
+      "olive",
+      "burgundy",
+      "red",
+      "green",
+      "black"
+    ],
+    "gender": "women",
+    "age_group": "25-34"
+  },
+  {
+    "user_id": 480,
+    "preferred_styles": [
+      "summer_light"
+    ],
+    "preferred_colors": [
+      "brown",
+      "pink",
+      "blue",
+      "olive",
+      "navy",
+      "red"
+    ],
+    "gender": "women",
+    "age_group": "25-34"
+  },
+  {
+    "user_id": 481,
+    "preferred_styles": [
+      "summer_light",
+      "sporty_active"
+    ],
+    "preferred_colors": [
+      "blue",
+      "grey",
+      "red",
+      "navy",
+      "burgundy"
+    ],
+    "gender": "men",
+    "age_group": "45+"
+  },
+  {
+    "user_id": 482,
+    "preferred_styles": [
+      "winter_cozy"
+    ],
+    "preferred_colors": [
+      "green",
+      "blue",
+      "pink",
+      "beige",
+      "olive"
+    ],
+    "gender": "men",
+    "age_group": "25-34"
+  },
+  {
+    "user_id": 483,
+    "preferred_styles": [
+      "sporty_active",
+      "summer_light"
+    ],
+    "preferred_colors": [
+      "blue",
+      "white",
+      "navy"
+    ],
+    "gender": "women",
+    "age_group": "18-24"
+  },
+  {
+    "user_id": 484,
+    "preferred_styles": [
+      "summer_light",
+      "casual_everyday"
+    ],
+    "preferred_colors": [
+      "white",
+      "beige",
+      "pink",
+      "blue",
+      "brown",
+      "navy"
+    ],
+    "gender": "unisex",
+    "age_group": "25-34"
+  },
+  {
+    "user_id": 485,
+    "preferred_styles": [
+      "summer_light",
+      "formal_classic",
+      "winter_cozy"
+    ],
+    "preferred_colors": [
+      "grey",
+      "black",
+      "olive",
+      "blue",
+      "navy"
+    ],
+    "gender": "women",
+    "age_group": "35-44"
+  },
+  {
+    "user_id": 486,
+    "preferred_styles": [
+      "sporty_active",
+      "streetwear"
+    ],
+    "preferred_colors": [
+      "white",
+      "navy",
+      "black",
+      "pink",
+      "grey",
+      "burgundy"
+    ],
+    "gender": "unisex",
+    "age_group": "45+"
+  },
+  {
+    "user_id": 487,
+    "preferred_styles": [
+      "casual_everyday",
+      "winter_cozy",
+      "sporty_active"
+    ],
+    "preferred_colors": [
+      "brown",
+      "navy",
+      "blue",
+      "olive",
+      "red",
+      "pink"
+    ],
+    "gender": "women",
+    "age_group": "45+"
+  },
+  {
+    "user_id": 488,
+    "preferred_styles": [
+      "summer_light",
+      "sporty_active",
+      "winter_cozy"
+    ],
+    "preferred_colors": [
+      "red",
+      "navy",
+      "pink",
+      "brown",
+      "burgundy"
+    ],
+    "gender": "women",
+    "age_group": "18-24"
+  },
+  {
+    "user_id": 489,
+    "preferred_styles": [
+      "summer_light",
+      "streetwear",
+      "casual_everyday"
+    ],
+    "preferred_colors": [
+      "brown",
+      "burgundy",
+      "blue",
+      "white",
+      "pink"
+    ],
+    "gender": "women",
+    "age_group": "25-34"
+  },
+  {
+    "user_id": 490,
+    "preferred_styles": [
+      "summer_light",
+      "streetwear"
+    ],
+    "preferred_colors": [
+      "white",
+      "brown",
+      "olive"
+    ],
+    "gender": "unisex",
+    "age_group": "25-34"
+  },
+  {
+    "user_id": 491,
+    "preferred_styles": [
+      "streetwear",
+      "summer_light",
+      "winter_cozy"
+    ],
+    "preferred_colors": [
+      "burgundy",
+      "black",
+      "beige"
+    ],
+    "gender": "unisex",
+    "age_group": "45+"
+  },
+  {
+    "user_id": 492,
+    "preferred_styles": [
+      "formal_classic",
+      "winter_cozy",
+      "streetwear"
+    ],
+    "preferred_colors": [
+      "red",
+      "brown",
+      "white",
+      "black",
+      "beige",
+      "pink"
+    ],
+    "gender": "men",
+    "age_group": "18-24"
+  },
+  {
+    "user_id": 493,
+    "preferred_styles": [
+      "summer_light",
+      "formal_classic",
+      "casual_everyday"
+    ],
+    "preferred_colors": [
+      "black",
+      "brown",
+      "navy",
+      "pink",
+      "beige"
+    ],
+    "gender": "unisex",
+    "age_group": "45+"
+  },
+  {
+    "user_id": 494,
+    "preferred_styles": [
+      "streetwear"
+    ],
+    "preferred_colors": [
+      "green",
+      "blue",
+      "beige"
+    ],
+    "gender": "men",
+    "age_group": "35-44"
+  },
+  {
+    "user_id": 495,
+    "preferred_styles": [
+      "casual_everyday",
+      "sporty_active",
+      "summer_light"
+    ],
+    "preferred_colors": [
+      "navy",
+      "blue",
+      "black",
+      "pink",
+      "white"
+    ],
+    "gender": "men",
+    "age_group": "35-44"
+  },
+  {
+    "user_id": 496,
+    "preferred_styles": [
+      "casual_everyday",
+      "streetwear"
+    ],
+    "preferred_colors": [
+      "green",
+      "grey",
+      "brown",
+      "white"
+    ],
+    "gender": "men",
+    "age_group": "18-24"
+  },
+  {
+    "user_id": 497,
+    "preferred_styles": [
+      "summer_light"
+    ],
+    "preferred_colors": [
+      "black",
+      "white",
+      "green",
+      "red",
+      "brown",
+      "blue"
+    ],
+    "gender": "men",
+    "age_group": "25-34"
+  },
+  {
+    "user_id": 498,
+    "preferred_styles": [
+      "winter_cozy",
+      "formal_classic",
+      "sporty_active"
+    ],
+    "preferred_colors": [
+      "navy",
+      "red",
+      "brown"
+    ],
+    "gender": "women",
+    "age_group": "18-24"
+  },
+  {
+    "user_id": 499,
+    "preferred_styles": [
+      "casual_everyday",
+      "winter_cozy",
+      "summer_light"
+    ],
+    "preferred_colors": [
+      "olive",
+      "black",
+      "burgundy",
+      "grey",
+      "blue"
+    ],
+    "gender": "unisex",
+    "age_group": "25-34"
+  }
+]

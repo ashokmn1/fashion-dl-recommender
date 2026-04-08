@@ -1,0 +1,51 @@
+# Model Configuration
+visual_encoder:
+  backbone: "resnet50"
+  pretrained: true
+  embedding_dim: 2048
+  fine_tune_layers: 2
+
+text_encoder:
+  model_name: "all-MiniLM-L6-v2"
+  embedding_dim: 384
+
+attribute_encoder:
+  embedding_dim: 64
+  num_categories: 4       # top, bottom, shoes, accessory
+  num_colors: 12
+  num_materials: 8
+  num_patterns: 6
+  num_seasons: 4
+
+fusion:
+  input_dim: 2496          # 2048 + 384 + 64
+  hidden_dim: 1024
+  output_dim: 512
+  dropout: 0.3
+
+compatibility:
+  embedding_dim: 512
+  num_category_pairs: 6    # C(4,2) pairs
+  margin: 0.3
+  num_negatives: 4
+
+training:
+  batch_size: 64
+  learning_rate: 0.0005
+  weight_decay: 0.0001
+  num_epochs: 50
+  early_stopping_patience: 5
+  mixed_precision: true
+
+retrieval:
+  faiss_index_type: "IVF256,PQ32"
+  top_k_candidates: 100
+  beam_width: 5
+  diversity_lambda: 0.3
+
+personalization:
+  user_embedding_dim: 128
+  temporal_decay_halflife: 30  # days
+  num_style_clusters: 20
+  als_factors: 128
+  als_iterations: 15

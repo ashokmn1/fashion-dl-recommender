@@ -1,0 +1,1359 @@
+[
+  {
+    "outfit_id": 1000,
+    "item_ids": [
+      110,
+      2545,
+      3999,
+      4609
+    ],
+    "style": "sporty_active",
+    "season": "fall"
+  },
+  {
+    "outfit_id": 741,
+    "item_ids": [
+      1051,
+      2011,
+      3237,
+      4506,
+      4244
+    ],
+    "style": "winter_cozy",
+    "season": "fall"
+  },
+  {
+    "outfit_id": 127,
+    "item_ids": [
+      268,
+      2591,
+      3913,
+      4620,
+      4426
+    ],
+    "style": "casual_everyday",
+    "season": "summer"
+  },
+  {
+    "outfit_id": 1072,
+    "item_ids": [
+      758,
+      1508,
+      3272,
+      4580
+    ],
+    "style": "streetwear",
+    "season": "summer"
+  },
+  {
+    "outfit_id": 1007,
+    "item_ids": [
+      285,
+      1505,
+      3586,
+      4861
+    ],
+    "style": "summer_light",
+    "season": "spring"
+  },
+  {
+    "outfit_id": 38,
+    "item_ids": [
+      1197,
+      2489,
+      3312,
+      4294,
+      4079
+    ],
+    "style": "casual_everyday",
+    "season": "spring"
+  },
+  {
+    "outfit_id": 1050,
+    "item_ids": [
+      711,
+      1682,
+      2791,
+      4447
+    ],
+    "style": "formal_classic",
+    "season": "spring"
+  },
+  {
+    "outfit_id": 13,
+    "item_ids": [
+      1491,
+      1636,
+      3964,
+      4237
+    ],
+    "style": "sporty_active",
+    "season": "fall"
+  },
+  {
+    "outfit_id": 1101,
+    "item_ids": [
+      89,
+      2117,
+      3359,
+      4409
+    ],
+    "style": "casual_everyday",
+    "season": "fall"
+  },
+  {
+    "outfit_id": 1026,
+    "item_ids": [
+      372,
+      1842,
+      3388,
+      4537
+    ],
+    "style": "formal_classic",
+    "season": "winter"
+  },
+  {
+    "outfit_id": 743,
+    "item_ids": [
+      766,
+      1660,
+      3162,
+      4713,
+      4512
+    ],
+    "style": "winter_cozy",
+    "season": "winter"
+  },
+  {
+    "outfit_id": 1164,
+    "item_ids": [
+      1080,
+      2498,
+      2903,
+      4711,
+      4571
+    ],
+    "style": "streetwear",
+    "season": "summer"
+  },
+  {
+    "outfit_id": 1108,
+    "item_ids": [
+      439,
+      1649,
+      2826,
+      4778,
+      4698
+    ],
+    "style": "casual_everyday",
+    "season": "spring"
+  },
+  {
+    "outfit_id": 604,
+    "item_ids": [
+      679,
+      2291,
+      3223,
+      4908
+    ],
+    "style": "formal_classic",
+    "season": "winter"
+  },
+  {
+    "outfit_id": 563,
+    "item_ids": [
+      1125,
+      2487,
+      3813,
+      4306
+    ],
+    "style": "streetwear",
+    "season": "spring"
+  },
+  {
+    "outfit_id": 953,
+    "item_ids": [
+      696,
+      2168,
+      3800,
+      4253
+    ],
+    "style": "winter_cozy",
+    "season": "winter"
+  },
+  {
+    "outfit_id": 46,
+    "item_ids": [
+      1169,
+      1903,
+      3093,
+      4051
+    ],
+    "style": "casual_everyday",
+    "season": "fall"
+  },
+  {
+    "outfit_id": 980,
+    "item_ids": [
+      1180,
+      1660,
+      3646,
+      4717,
+      4506
+    ],
+    "style": "winter_cozy",
+    "season": "winter"
+  },
+  {
+    "outfit_id": 134,
+    "item_ids": [
+      805,
+      2644,
+      3560,
+      4323
+    ],
+    "style": "summer_light",
+    "season": "spring"
+  },
+  {
+    "outfit_id": 788,
+    "item_ids": [
+      291,
+      1782,
+      2779,
+      4042
+    ],
+    "style": "formal_classic",
+    "season": "spring"
+  },
+  {
+    "outfit_id": 887,
+    "item_ids": [
+      527,
+      1868,
+      3564,
+      4083,
+      4019
+    ],
+    "style": "streetwear",
+    "season": "summer"
+  },
+  {
+    "outfit_id": 545,
+    "item_ids": [
+      455,
+      2560,
+      2850,
+      4385
+    ],
+    "style": "sporty_active",
+    "season": "summer"
+  },
+  {
+    "outfit_id": 568,
+    "item_ids": [
+      1000,
+      2745,
+      3916,
+      4451
+    ],
+    "style": "streetwear",
+    "season": "fall"
+  },
+  {
+    "outfit_id": 710,
+    "item_ids": [
+      577,
+      1554,
+      3838,
+      4557
+    ],
+    "style": "formal_classic",
+    "season": "fall"
+  },
+  {
+    "outfit_id": 251,
+    "item_ids": [
+      339,
+      2695,
+      3462,
+      4816
+    ],
+    "style": "sporty_active",
+    "season": "spring"
+  },
+  {
+    "outfit_id": 987,
+    "item_ids": [
+      1190,
+      1822,
+      2920,
+      4875
+    ],
+    "style": "casual_everyday",
+    "season": "summer"
+  },
+  {
+    "outfit_id": 221,
+    "item_ids": [
+      991,
+      2113,
+      3074,
+      4401
+    ],
+    "style": "casual_everyday",
+    "season": "summer"
+  },
+  {
+    "outfit_id": 63,
+    "item_ids": [
+      1043,
+      2554,
+      3846,
+      4192
+    ],
+    "style": "winter_cozy",
+    "season": "winter"
+  },
+  {
+    "outfit_id": 1167,
+    "item_ids": [
+      787,
+      1942,
+      3171,
+      4114
+    ],
+    "style": "winter_cozy",
+    "season": "fall"
+  },
+  {
+    "outfit_id": 626,
+    "item_ids": [
+      306,
+      2615,
+      3907,
+      4564
+    ],
+    "style": "streetwear",
+    "season": "fall"
+  },
+  {
+    "outfit_id": 280,
+    "item_ids": [
+      233,
+      1624,
+      2878,
+      4512
+    ],
+    "style": "formal_classic",
+    "season": "spring"
+  },
+  {
+    "outfit_id": 552,
+    "item_ids": [
+      1353,
+      2588,
+      2897,
+      4663
+    ],
+    "style": "summer_light",
+    "season": "spring"
+  },
+  {
+    "outfit_id": 210,
+    "item_ids": [
+      792,
+      2092,
+      2776,
+      4454
+    ],
+    "style": "summer_light",
+    "season": "summer"
+  },
+  {
+    "outfit_id": 898,
+    "item_ids": [
+      1152,
+      2600,
+      3131,
+      4580
+    ],
+    "style": "streetwear",
+    "season": "fall"
+  },
+  {
+    "outfit_id": 101,
+    "item_ids": [
+      1263,
+      2025,
+      3539,
+      4363
+    ],
+    "style": "sporty_active",
+    "season": "fall"
+  },
+  {
+    "outfit_id": 197,
+    "item_ids": [
+      1325,
+      2492,
+      3487,
+      4819
+    ],
+    "style": "casual_everyday",
+    "season": "fall"
+  },
+  {
+    "outfit_id": 392,
+    "item_ids": [
+      950,
+      2054,
+      2832,
+      4083
+    ],
+    "style": "sporty_active",
+    "season": "fall"
+  },
+  {
+    "outfit_id": 193,
+    "item_ids": [
+      1371,
+      2675,
+      3301,
+      4779,
+      4080
+    ],
+    "style": "casual_everyday",
+    "season": "spring"
+  },
+  {
+    "outfit_id": 798,
+    "item_ids": [
+      1204,
+      1869,
+      3655,
+      4289,
+      4400
+    ],
+    "style": "casual_everyday",
+    "season": "fall"
+  },
+  {
+    "outfit_id": 1033,
+    "item_ids": [
+      1053,
+      1927,
+      3959,
+      4469
+    ],
+    "style": "summer_light",
+    "season": "spring"
+  },
+  {
+    "outfit_id": 159,
+    "item_ids": [
+      686,
+      2190,
+      2785,
+      4071
+    ],
+    "style": "sporty_active",
+    "season": "summer"
+  },
+  {
+    "outfit_id": 1035,
+    "item_ids": [
+      531,
+      1883,
+      3141,
+      4652,
+      4595
+    ],
+    "style": "formal_classic",
+    "season": "fall"
+  },
+  {
+    "outfit_id": 607,
+    "item_ids": [
+      245,
+      1537,
+      3477,
+      4928
+    ],
+    "style": "casual_everyday",
+    "season": "fall"
+  },
+  {
+    "outfit_id": 1145,
+    "item_ids": [
+      1245,
+      2042,
+      3169,
+      4283
+    ],
+    "style": "casual_everyday",
+    "season": "fall"
+  },
+  {
+    "outfit_id": 749,
+    "item_ids": [
+      67,
+      1693,
+      3102,
+      4217
+    ],
+    "style": "winter_cozy",
+    "season": "fall"
+  },
+  {
+    "outfit_id": 32,
+    "item_ids": [
+      824,
+      2256,
+      3402,
+      4835
+    ],
+    "style": "formal_classic",
+    "season": "spring"
+  },
+  {
+    "outfit_id": 1099,
+    "item_ids": [
+      787,
+      1913,
+      3845,
+      4454,
+      4644
+    ],
+    "style": "casual_everyday",
+    "season": "spring"
+  },
+  {
+    "outfit_id": 951,
+    "item_ids": [
+      1414,
+      2340,
+      2872,
+      4912,
+      4102
+    ],
+    "style": "casual_everyday",
+    "season": "spring"
+  },
+  {
+    "outfit_id": 634,
+    "item_ids": [
+      868,
+      2611,
+      2842,
+      4624
+    ],
+    "style": "sporty_active",
+    "season": "spring"
+  },
+  {
+    "outfit_id": 518,
+    "item_ids": [
+      868,
+      1750,
+      2921,
+      4252
+    ],
+    "style": "sporty_active",
+    "season": "summer"
+  },
+  {
+    "outfit_id": 896,
+    "item_ids": [
+      249,
+      1874,
+      3916,
+      4710
+    ],
+    "style": "winter_cozy",
+    "season": "fall"
+  },
+  {
+    "outfit_id": 151,
+    "item_ids": [
+      309,
+      1678,
+      3211,
+      4723,
+      4394
+    ],
+    "style": "streetwear",
+    "season": "summer"
+  },
+  {
+    "outfit_id": 614,
+    "item_ids": [
+      871,
+      1883,
+      2990,
+      4007
+    ],
+    "style": "winter_cozy",
+    "season": "winter"
+  },
+  {
+    "outfit_id": 152,
+    "item_ids": [
+      310,
+      2652,
+      3207,
+      4948
+    ],
+    "style": "formal_classic",
+    "season": "spring"
+  },
+  {
+    "outfit_id": 826,
+    "item_ids": [
+      1199,
+      1596,
+      3251,
+      4234
+    ],
+    "style": "summer_light",
+    "season": "summer"
+  },
+  {
+    "outfit_id": 631,
+    "item_ids": [
+      1493,
+      2376,
+      3922,
+      4034
+    ],
+    "style": "formal_classic",
+    "season": "winter"
+  },
+  {
+    "outfit_id": 843,
+    "item_ids": [
+      1439,
+      2194,
+      3410,
+      4591
+    ],
+    "style": "summer_light",
+    "season": "spring"
+  },
+  {
+    "outfit_id": 1010,
+    "item_ids": [
+      894,
+      2267,
+      3913,
+      4522,
+      4523
+    ],
+    "style": "streetwear",
+    "season": "fall"
+  },
+  {
+    "outfit_id": 535,
+    "item_ids": [
+      1039,
+      2043,
+      2914,
+      4304
+    ],
+    "style": "summer_light",
+    "season": "spring"
+  },
+  {
+    "outfit_id": 889,
+    "item_ids": [
+      1037,
+      1686,
+      3344,
+      4067
+    ],
+    "style": "winter_cozy",
+    "season": "winter"
+  },
+  {
+    "outfit_id": 100,
+    "item_ids": [
+      428,
+      2563,
+      2763,
+      4763
+    ],
+    "style": "winter_cozy",
+    "season": "winter"
+  },
+  {
+    "outfit_id": 1177,
+    "item_ids": [
+      1346,
+      2387,
+      3601,
+      4429,
+      4435
+    ],
+    "style": "summer_light",
+    "season": "summer"
+  },
+  {
+    "outfit_id": 163,
+    "item_ids": [
+      624,
+      2560,
+      3842,
+      4223
+    ],
+    "style": "winter_cozy",
+    "season": "winter"
+  },
+  {
+    "outfit_id": 1021,
+    "item_ids": [
+      617,
+      1640,
+      3438,
+      4948
+    ],
+    "style": "casual_everyday",
+    "season": "fall"
+  },
+  {
+    "outfit_id": 724,
+    "item_ids": [
+      281,
+      2456,
+      3449,
+      4608,
+      4811
+    ],
+    "style": "casual_everyday",
+    "season": "spring"
+  },
+  {
+    "outfit_id": 91,
+    "item_ids": [
+      116,
+      2656,
+      3954,
+      4278,
+      4616
+    ],
+    "style": "winter_cozy",
+    "season": "fall"
+  },
+  {
+    "outfit_id": 595,
+    "item_ids": [
+      601,
+      2686,
+      3532,
+      4824
+    ],
+    "style": "summer_light",
+    "season": "spring"
+  },
+  {
+    "outfit_id": 302,
+    "item_ids": [
+      174,
+      1930,
+      3733,
+      4948,
+      4154
+    ],
+    "style": "formal_classic",
+    "season": "spring"
+  },
+  {
+    "outfit_id": 370,
+    "item_ids": [
+      1013,
+      1867,
+      3601,
+      4013,
+      4070
+    ],
+    "style": "summer_light",
+    "season": "spring"
+  },
+  {
+    "outfit_id": 516,
+    "item_ids": [
+      350,
+      2390,
+      3328,
+      4637
+    ],
+    "style": "formal_classic",
+    "season": "fall"
+  },
+  {
+    "outfit_id": 686,
+    "item_ids": [
+      231,
+      1812,
+      3485,
+      4853,
+      4905
+    ],
+    "style": "summer_light",
+    "season": "spring"
+  },
+  {
+    "outfit_id": 284,
+    "item_ids": [
+      638,
+      1806,
+      3087,
+      4430
+    ],
+    "style": "summer_light",
+    "season": "summer"
+  },
+  {
+    "outfit_id": 446,
+    "item_ids": [
+      808,
+      1885,
+      3512,
+      4327,
+      4838
+    ],
+    "style": "sporty_active",
+    "season": "winter"
+  },
+  {
+    "outfit_id": 1038,
+    "item_ids": [
+      38,
+      1806,
+      2785,
+      4861,
+      4362
+    ],
+    "style": "sporty_active",
+    "season": "winter"
+  },
+  {
+    "outfit_id": 581,
+    "item_ids": [
+      1264,
+      2495,
+      3404,
+      4284
+    ],
+    "style": "winter_cozy",
+    "season": "winter"
+  },
+  {
+    "outfit_id": 605,
+    "item_ids": [
+      170,
+      1997,
+      3417,
+      4844
+    ],
+    "style": "sporty_active",
+    "season": "fall"
+  },
+  {
+    "outfit_id": 912,
+    "item_ids": [
+      1293,
+      2452,
+      3691,
+      4732,
+      4310
+    ],
+    "style": "formal_classic",
+    "season": "fall"
+  },
+  {
+    "outfit_id": 273,
+    "item_ids": [
+      1139,
+      1769,
+      3040,
+      4127,
+      4232
+    ],
+    "style": "winter_cozy",
+    "season": "fall"
+  },
+  {
+    "outfit_id": 217,
+    "item_ids": [
+      455,
+      2313,
+      3130,
+      4900,
+      4029
+    ],
+    "style": "summer_light",
+    "season": "summer"
+  },
+  {
+    "outfit_id": 116,
+    "item_ids": [
+      533,
+      2471,
+      3367,
+      4496
+    ],
+    "style": "streetwear",
+    "season": "summer"
+  },
+  {
+    "outfit_id": 919,
+    "item_ids": [
+      792,
+      2740,
+      3720,
+      4655,
+      4789
+    ],
+    "style": "summer_light",
+    "season": "spring"
+  },
+  {
+    "outfit_id": 1055,
+    "item_ids": [
+      555,
+      2286,
+      3081,
+      4952
+    ],
+    "style": "streetwear",
+    "season": "summer"
+  },
+  {
+    "outfit_id": 937,
+    "item_ids": [
+      104,
+      2097,
+      3341,
+      4531
+    ],
+    "style": "casual_everyday",
+    "season": "fall"
+  },
+  {
+    "outfit_id": 952,
+    "item_ids": [
+      999,
+      1556,
+      3794,
+      4552
+    ],
+    "style": "casual_everyday",
+    "season": "fall"
+  },
+  {
+    "outfit_id": 659,
+    "item_ids": [
+      757,
+      1592,
+      3567,
+      4816
+    ],
+    "style": "casual_everyday",
+    "season": "spring"
+  },
+  {
+    "outfit_id": 1114,
+    "item_ids": [
+      177,
+      2363,
+      3119,
+      4691,
+      4300
+    ],
+    "style": "winter_cozy",
+    "season": "winter"
+  },
+  {
+    "outfit_id": 644,
+    "item_ids": [
+      402,
+      2064,
+      3305,
+      4374
+    ],
+    "style": "streetwear",
+    "season": "summer"
+  },
+  {
+    "outfit_id": 147,
+    "item_ids": [
+      645,
+      2289,
+      3016,
+      4127
+    ],
+    "style": "formal_classic",
+    "season": "spring"
+  },
+  {
+    "outfit_id": 547,
+    "item_ids": [
+      129,
+      2197,
+      3236,
+      4094
+    ],
+    "style": "winter_cozy",
+    "season": "winter"
+  },
+  {
+    "outfit_id": 424,
+    "item_ids": [
+      1476,
+      2145,
+      3577,
+      4450
+    ],
+    "style": "formal_classic",
+    "season": "fall"
+  },
+  {
+    "outfit_id": 233,
+    "item_ids": [
+      1133,
+      2276,
+      3015,
+      4481,
+      4406
+    ],
+    "style": "formal_classic",
+    "season": "fall"
+  },
+  {
+    "outfit_id": 321,
+    "item_ids": [
+      749,
+      2274,
+      3795,
+      4138
+    ],
+    "style": "formal_classic",
+    "season": "spring"
+  },
+  {
+    "outfit_id": 594,
+    "item_ids": [
+      583,
+      2184,
+      2819,
+      4102,
+      4205
+    ],
+    "style": "winter_cozy",
+    "season": "fall"
+  },
+  {
+    "outfit_id": 507,
+    "item_ids": [
+      736,
+      1937,
+      3106,
+      4482
+    ],
+    "style": "sporty_active",
+    "season": "spring"
+  },
+  {
+    "outfit_id": 751,
+    "item_ids": [
+      927,
+      2491,
+      3327,
+      4544
+    ],
+    "style": "sporty_active",
+    "season": "summer"
+  },
+  {
+    "outfit_id": 1120,
+    "item_ids": [
+      108,
+      1979,
+      3091,
+      4318,
+      4011
+    ],
+    "style": "casual_everyday",
+    "season": "spring"
+  },
+  {
+    "outfit_id": 1093,
+    "item_ids": [
+      898,
+      2088,
+      3949,
+      4343
+    ],
+    "style": "formal_classic",
+    "season": "winter"
+  },
+  {
+    "outfit_id": 317,
+    "item_ids": [
+      775,
+      2688,
+      3586,
+      4213,
+      4352
+    ],
+    "style": "formal_classic",
+    "season": "fall"
+  },
+  {
+    "outfit_id": 680,
+    "item_ids": [
+      155,
+      2748,
+      2954,
+      4912
+    ],
+    "style": "casual_everyday",
+    "season": "spring"
+  },
+  {
+    "outfit_id": 1119,
+    "item_ids": [
+      1085,
+      2170,
+      3949,
+      4341
+    ],
+    "style": "formal_classic",
+    "season": "fall"
+  },
+  {
+    "outfit_id": 60,
+    "item_ids": [
+      1430,
+      1524,
+      3949,
+      4659
+    ],
+    "style": "casual_everyday",
+    "season": "spring"
+  },
+  {
+    "outfit_id": 153,
+    "item_ids": [
+      119,
+      2673,
+      3790,
+      4974
+    ],
+    "style": "streetwear",
+    "season": "spring"
+  },
+  {
+    "outfit_id": 125,
+    "item_ids": [
+      386,
+      1693,
+      3656,
+      4148
+    ],
+    "style": "winter_cozy",
+    "season": "fall"
+  },
+  {
+    "outfit_id": 793,
+    "item_ids": [
+      663,
+      1641,
+      3191,
+      4577,
+      4951
+    ],
+    "style": "sporty_active",
+    "season": "summer"
+  },
+  {
+    "outfit_id": 1165,
+    "item_ids": [
+      278,
+      1603,
+      3172,
+      4707,
+      4116
+    ],
+    "style": "streetwear",
+    "season": "summer"
+  },
+  {
+    "outfit_id": 1112,
+    "item_ids": [
+      1379,
+      2572,
+      3560,
+      4409
+    ],
+    "style": "summer_light",
+    "season": "summer"
+  },
+  {
+    "outfit_id": 689,
+    "item_ids": [
+      841,
+      2006,
+      3718,
+      4661
+    ],
+    "style": "formal_classic",
+    "season": "fall"
+  },
+  {
+    "outfit_id": 462,
+    "item_ids": [
+      1154,
+      2376,
+      2857,
+      4836
+    ],
+    "style": "casual_everyday",
+    "season": "summer"
+  },
+  {
+    "outfit_id": 696,
+    "item_ids": [
+      1359,
+      2701,
+      2783,
+      4452
+    ],
+    "style": "sporty_active",
+    "season": "spring"
+  },
+  {
+    "outfit_id": 111,
+    "item_ids": [
+      717,
+      1812,
+      3359,
+      4832
+    ],
+    "style": "casual_everyday",
+    "season": "summer"
+  },
+  {
+    "outfit_id": 1171,
+    "item_ids": [
+      1039,
+      2639,
+      2923,
+      4894
+    ],
+    "style": "summer_light",
+    "season": "summer"
+  },
+  {
+    "outfit_id": 731,
+    "item_ids": [
+      1158,
+      1883,
+      2947,
+      4620
+    ],
+    "style": "formal_classic",
+    "season": "fall"
+  },
+  {
+    "outfit_id": 588,
+    "item_ids": [
+      700,
+      2456,
+      3349,
+      4412
+    ],
+    "style": "casual_everyday",
+    "season": "summer"
+  },
+  {
+    "outfit_id": 261,
+    "item_ids": [
+      1402,
+      1798,
+      3218,
+      4905
+    ],
+    "style": "casual_everyday",
+    "season": "spring"
+  },
+  {
+    "outfit_id": 109,
+    "item_ids": [
+      1420,
+      1574,
+      3560,
+      4712
+    ],
+    "style": "casual_everyday",
+    "season": "summer"
+  },
+  {
+    "outfit_id": 33,
+    "item_ids": [
+      1105,
+      1891,
+      2916,
+      4889,
+      4927
+    ],
+    "style": "sporty_active",
+    "season": "summer"
+  },
+  {
+    "outfit_id": 651,
+    "item_ids": [
+      101,
+      2456,
+      3880,
+      4835,
+      4064
+    ],
+    "style": "winter_cozy",
+    "season": "fall"
+  },
+  {
+    "outfit_id": 34,
+    "item_ids": [
+      385,
+      1815,
+      3717,
+      4250
+    ],
+    "style": "formal_classic",
+    "season": "spring"
+  },
+  {
+    "outfit_id": 398,
+    "item_ids": [
+      809,
+      2492,
+      3821,
+      4284
+    ],
+    "style": "sporty_active",
+    "season": "summer"
+  },
+  {
+    "outfit_id": 652,
+    "item_ids": [
+      689,
+      1861,
+      3303,
+      4259,
+      4833
+    ],
+    "style": "formal_classic",
+    "season": "spring"
+  }
+]
