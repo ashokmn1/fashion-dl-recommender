@@ -64,6 +64,24 @@ async def startup_event():
 
 # ─── Endpoints ────────────────────────────────────────────────────
 
+@app.get("/")
+async def root():
+    """Root endpoint with API overview."""
+    return {
+        "name": "Fashion Styling Recommendations API",
+        "version": "1.0.0",
+        "docs": "/docs",
+        "endpoints": {
+            "POST /recommend/complete-look": "Generate outfit recommendations",
+            "GET /items/{item_id}": "Get item details",
+            "GET /items": "Search items by category/color",
+            "GET /items/{item_id}/image": "Get product image",
+            "GET /categories": "List categories with counts",
+            "GET /health": "Health check",
+        },
+    }
+
+
 @app.get("/health", response_model=HealthResponse)
 async def health_check():
     """Health check endpoint."""
