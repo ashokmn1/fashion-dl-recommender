@@ -535,6 +535,191 @@ Expected: `422` validation error (num_outfits max is 10)
 
 ---
 
+## Frontend Testing
+
+### Prerequisites
+
+Start both the backend and frontend dev servers:
+
+```bash
+# Terminal 1 — Backend
+python scripts/generate_dataset.py   # skip if already generated
+uvicorn src.api.main:app --host 0.0.0.0 --port 8000
+
+# Terminal 2 — Frontend
+cd frontend
+npm install
+npm run dev
+```
+
+Wait for both servers to be ready:
+- Backend: `Pipeline ready!` in terminal 1
+- Frontend: `Local: http://localhost:3000/` in terminal 2
+
+Open **http://localhost:3000** in the browser.
+
+---
+
+### Step 1: Home Page (`/`)
+
+| # | Action | Expected Result |
+|---|--------|-----------------|
+| 1 | Open `http://localhost:3000` | Page loads with "Complete the Look" title and search bar |
+| 2 | Wait for categories to load | 4 category cards appear (Tops, Bottoms, Shoes, Accessories) with item counts |
+| 3 | Verify category counts | All 4 cards visible, counts add up to 5000 |
+| 4 | Type `42` in the search field and press Enter | Navigates to `/items/42` (Item Detail page) |
+| 5 | Go back, type `42` and click **Go** button | Same navigation to `/items/42` |
+| 6 | Click the **Tops** category card | Navigates to `/catalog?category=top` |
+| 7 | Click the **Shoes** category card | Navigates to `/catalog?category=shoes` |
+
+**Error case:** Stop the backend and refresh the home page. A warning alert should appear: "Could not connect to API. Is the backend running?"
+
+---
+
+### Step 2: Catalog Page (`/catalog`)
+
+| # | Action | Expected Result |
+|---|--------|-----------------|
+| 1 | Navigate to `/catalog` | Item grid loads with "Showing X of Y items" text |
+| 2 | Verify item cards | Each card shows: image, subcategory name, description, price, color/category/season chips |
+| 3 | Select **top** from Category dropdown | Grid refreshes, only tops shown, URL updates to `?category=top` |
+| 4 | Select **black** from Color dropdown | Grid refreshes, only black tops shown, URL updates to `?category=top&color=black` |
+| 5 | Select **All** from Category dropdown | Color filter stays, URL updates to `?color=black` |
+| 6 | Select **All** from Color dropdown | All items shown, URL is clean `/catalog` |
+| 7 | Verify pagination | If more than 20 items, pagination bar appears at the bottom |
+| 8 | Click page 2 | Grid updates with next set of items |
+| 9 | Click any item card | Navigates to `/items/{id}` (Item Detail page) |
+
+**Shareable filters:** Copy the URL `http://localhost:3000/catalog?category=shoes&color=white` and open in a new tab. The page should load with both filters pre-selected.
+
+**Empty state:** Select a category/color combination with no results (e.g., a rare combination). An info alert should appear: "No items found. Try adjusting filters."
+
+---
+
+### Step 3: Item Detail Page (`/items/:id`)
+
+| # | Action | Expected Result |
+|---|--------|-----------------|
+| 1 | Navigate to `/items/42` | Item image loads on the left, details on the right |
+| 2 | Verify item metadata | Subcategory title, price (`$XX.XX`), description text visible |
+| 3 | Verify attribute chips | 7 chips displayed: category, color, material, pattern, season, occasion, gender |
+| 4 | Verify item ID | "Item ID: 42" shown below the chips |
+| 5 | Click **Back** button | Returns to previous page |
+
+**Error case:** Navigate to `/items/99999`. An error alert should appear: "Item not found." with a Back button.
+
+**Error case:** Navigate to `/items/abc`. An error alert should appear: "Invalid item ID".
+
+---
+
+### Step 4: Complete the Look (Recommendations)
+
+| # | Action | Expected Result |
+|---|--------|-----------------|
+| 1 | On `/items/42`, find the "Complete the Look" panel | Panel shows User ID field, Outfits slider (default 3), and Generate button |
+| 2 | Click **Generate Outfits** (no user ID) | Loading spinner with "Finding the best outfit combinations..." appears |
+| 3 | Wait for results | Outfit cards appear below with "3 Outfits Found" header |
+| 4 | Verify `personalized` badge is absent | No "Personalized" chip in the results header |
+| 5 | Verify latency badge | A chip showing response time (e.g., "145ms") is visible |
+| 6 | Verify outfit card content | Each outfit card has: title ("Outfit 1"), style tag chips, 4 item images in a row |
+| 7 | Verify compatibility bar | Each outfit shows "Match: XX%" with a colored progress bar |
+| 8 | Verify score colors | Green bar for >= 70%, yellow for >= 50%, red for < 50% |
+| 9 | Verify total price | Each outfit card shows "Total: $XXX.XX" |
+| 10 | Verify outfit items | Each outfit contains exactly 4 items (one per category: top, bottom, shoes, accessory) |
+
+---
+
+### Step 5: Personalized Recommendations
+
+| # | Action | Expected Result |
+|---|--------|-----------------|
+| 1 | On `/items/42`, enter `1` in the User ID field | Field shows "1" |
+| 2 | Move the Outfits slider to 5 | Slider label shows "Outfits: 5" |
+| 3 | Click **Generate Outfits** | Loading state, then results appear |
+| 4 | Verify "Personalized" chip | A "Personalized" chip appears in the results header |
+| 5 | Verify outfit count | "5 Outfits Found" header, 5 outfit cards displayed |
+| 6 | Compare with non-personalized | Results may differ from step 4 above (different item selections or ordering) |
+
+---
+
+### Step 6: Navigation Within Outfits
+
+| # | Action | Expected Result |
+|---|--------|-----------------|
+| 1 | Generate outfits on `/items/42` | Outfit cards appear |
+| 2 | Click on a bottom item image in Outfit 1 | Navigates to that item's detail page (e.g., `/items/156`) |
+| 3 | Verify the new item page | Shows the bottom item's full details and image |
+| 4 | Click **Generate Outfits** on this new item | New recommendations generated around this bottom item |
+| 5 | Verify new outfits | Outfits now include the bottom as the query item, with top/shoes/accessory as complementary items |
+
+---
+
+### Step 7: Responsive Layout
+
+| # | Action | Expected Result |
+|---|--------|-----------------|
+| 1 | Open browser DevTools, toggle device toolbar | Mobile view activates |
+| 2 | Set viewport to 375px width (mobile) | Header shows hamburger menu icon instead of nav buttons |
+| 3 | Click hamburger icon | Side drawer opens with Home and Catalog links |
+| 4 | Click **Catalog** in drawer | Drawer closes, navigates to Catalog page |
+| 5 | Verify catalog grid | Items display in 2-column grid on mobile |
+| 6 | Navigate to an item detail page | Image stacks above details (single column layout) |
+| 7 | Set viewport to 1024px+ (desktop) | Header shows inline nav buttons, catalog grid shows 4 columns |
+
+---
+
+### Step 8: Build Verification
+
+```bash
+cd frontend
+npm run build
+```
+
+| Check | Expected |
+|-------|----------|
+| TypeScript compilation | No type errors (`tsc -b` passes) |
+| Vite build | `dist/` directory created with `index.html` and `assets/` |
+| Bundle size | JS bundle under ~600 kB (gzipped ~180 kB) |
+
+Preview the production build:
+
+```bash
+npm run preview
+```
+
+Open the preview URL and repeat key tests (home page loads, catalog filters work, recommendations generate).
+
+---
+
+### Frontend Test Summary
+
+| Page | Test Area | Tests |
+|------|-----------|-------|
+| Home | Category cards load | Counts visible, cards clickable |
+| Home | Quick search | Enter ID navigates to item detail |
+| Home | API error | Warning alert when backend is down |
+| Catalog | Default load | Item grid with cards |
+| Catalog | Category filter | Filters items, updates URL |
+| Catalog | Color filter | Filters items, updates URL |
+| Catalog | Combined filters | Both filters applied together |
+| Catalog | Pagination | Page navigation works |
+| Catalog | Empty state | Alert when no items match |
+| Catalog | Shareable URL | Filters persist via query params |
+| Item Detail | Item loads | Image, metadata, chips displayed |
+| Item Detail | Invalid ID | Error alert with back button |
+| Item Detail | Generate outfits | Outfit cards with scores appear |
+| Item Detail | Personalization | User ID enables personalized badge |
+| Item Detail | Outfit slider | Controls number of outfits (1-10) |
+| Item Detail | Outfit navigation | Clicking outfit items navigates to detail |
+| Item Detail | Score colors | Green/yellow/red based on threshold |
+| Layout | Desktop nav | Inline buttons with active underline |
+| Layout | Mobile nav | Hamburger menu with drawer |
+| Layout | Responsive grid | 2 cols mobile, 4 cols desktop |
+| Build | TypeScript | No compilation errors |
+| Build | Production build | dist/ output, bundle size reasonable |
+
+---
+
 ## Adding New Tests
 
 When adding tests, follow these conventions:
