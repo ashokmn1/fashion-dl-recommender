@@ -221,26 +221,65 @@ This project includes a synthetic dataset generator (`scripts/generate_dataset.p
 
 The generator uses real fashion taxonomy (colors, materials, patterns) and compatibility rules to ensure realistic outfit compositions.
 
+## Frontend (React + MUI)
+
+The project includes a React + TypeScript + Material UI frontend for interacting with the recommendation API.
+
+### Pages
+
+| Page | Route | Description |
+|------|-------|-------------|
+| Home | `/` | Hero section, category cards, quick item lookup |
+| Catalog | `/catalog` | Browse items with category/color filters and pagination |
+| Item Detail | `/items/:id` | Item metadata, image, and "Complete the Look" generator |
+
+### Running the Frontend
+
+```bash
+cd frontend
+npm install
+npm run dev
+```
+
+The frontend runs on **http://localhost:3000** and expects the backend API on **http://localhost:8000** (configurable via `VITE_API_URL` env variable).
+
+### Frontend Tech
+
+- **React 19** with TypeScript
+- **Material UI (MUI)** for components and theming
+- **React Router** for client-side routing
+- **Axios** for API calls
+- **Vite** for build tooling
+
 ## Project Structure
 
 ```
 fashion-dl-recommender/
-├── src/
-│   ├── data/           # Dataset classes, transforms, data loaders
-│   ├── models/         # Visual encoder, text encoder, attribute encoder,
-│   │                   # multimodal fusion, compatibility model
-│   ├── personalization/# User profiles, style clustering, re-ranking
-│   ├── recommendation/ # Outfit generator, end-to-end pipeline
-│   ├── retrieval/      # FAISS index management
-│   ├── training/       # Training loop, loss functions
-│   ├── evaluation/     # FITB accuracy, AUC, NDCG, coherence metrics
-│   └── api/            # FastAPI endpoints and Pydantic models
+├── src/                        # Backend (Python)
+│   ├── data/                   # Dataset classes, transforms, data loaders
+│   ├── models/                 # Visual, text, attribute encoders, fusion, compatibility
+│   ├── personalization/        # User profiles, style clustering, re-ranking
+│   ├── recommendation/         # Outfit generator, end-to-end pipeline
+│   ├── retrieval/              # FAISS index management
+│   ├── training/               # Training loop, loss functions
+│   ├── evaluation/             # FITB accuracy, AUC, NDCG, coherence metrics
+│   └── api/                    # FastAPI endpoints and Pydantic models
+├── frontend/                   # Frontend (React + TypeScript + MUI)
+│   ├── src/
+│   │   ├── types/              # TypeScript types matching backend API models
+│   │   ├── services/           # API client (Axios)
+│   │   ├── components/         # Reusable components (Layout, ItemCard, OutfitCard)
+│   │   └── pages/              # Home, Catalog, ItemDetail pages
+│   ├── vite.config.ts
+│   └── package.json
 ├── scripts/
-│   ├── generate_dataset.py  # Synthetic dataset generator
-│   ├── train.py             # Training script
-│   └── evaluate.py          # Evaluation script
-├── tests/              # Unit tests
-├── configs/            # YAML configuration files
+│   ├── generate_dataset.py     # Synthetic dataset generator
+│   ├── train.py                # Training script
+│   └── evaluate.py             # Evaluation script
+├── tests/                      # Unit tests
+├── configs/                    # YAML configuration files
+├── docs/                       # Technical design and testing docs
+├── .devcontainer/              # GitHub Codespaces config
 ├── Dockerfile
 ├── docker-compose.yml
 └── pyproject.toml
@@ -262,6 +301,7 @@ fashion-dl-recommender/
 - **Deep Learning:** PyTorch, torchvision, Sentence-Transformers
 - **Retrieval:** FAISS (Facebook AI Similarity Search)
 - **API:** FastAPI, Uvicorn, Pydantic
+- **Frontend:** React 19, TypeScript, Material UI, Vite
 - **Data:** NumPy, Pandas, scikit-learn
 - **Deployment:** Docker, docker-compose
 - **Tracking:** MLflow
