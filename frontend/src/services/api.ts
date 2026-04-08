@@ -8,8 +8,10 @@ import type {
   RecommendationResponse,
 } from "../types/api";
 
+const API_BASE = import.meta.env.VITE_API_URL ?? "/api";
+
 const client = axios.create({
-  baseURL: import.meta.env.VITE_API_URL ?? "http://localhost:8000",
+  baseURL: API_BASE,
 });
 
 // ─── Items ───────────────────────────────────────────────────────
@@ -29,8 +31,7 @@ export async function searchItems(params: {
 }
 
 export function getItemImageUrl(itemId: number): string {
-  const base = import.meta.env.VITE_API_URL ?? "http://localhost:8000";
-  return `${base}/items/${itemId}/image`;
+  return `${API_BASE}/items/${itemId}/image`;
 }
 
 // ─── Recommendations ─────────────────────────────────────────────
