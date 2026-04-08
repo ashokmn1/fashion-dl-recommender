@@ -8,8 +8,8 @@ Generates a realistic fashion dataset with:
 - Rich text descriptions
 - Simulated user interactions (50K events from 500 users)
 
-This replaces the discontinued Polyvore dataset with a fully
-open-source alternative suitable for training compatibility models.
+This is a fully open-source synthetic dataset suitable for training
+compatibility models.
 """
 
 import json

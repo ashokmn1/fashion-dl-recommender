@@ -85,7 +85,7 @@ curl -X POST http://localhost:8000/recommend/complete-look \
 
 ## Dataset
 
-Since the Polyvore dataset has been discontinued, this project includes a synthetic dataset generator (`scripts/generate_dataset.py`) that produces:
+This project includes a synthetic dataset generator (`scripts/generate_dataset.py`) that produces:
 
 - **5,000 items** across 4 categories (tops, bottoms, shoes, accessories)
 - **1,200 outfits** composed using 6 style profiles (casual, formal, streetwear, summer, winter, sporty)
