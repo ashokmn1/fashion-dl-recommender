@@ -114,6 +114,76 @@ Then open http://localhost:8000/docs for the interactive API documentation.
 docker-compose up --build
 ```
 
+## Running in GitHub Codespaces
+
+### 1. Create a Codespace
+
+- Go to your GitHub repository
+- Click the green **Code** button → **Codespaces** tab → **Create codespace on main**
+- Wait for the Codespace to build and open in the browser-based VS Code editor
+
+### 2. Install dependencies
+
+```bash
+python -m venv venv
+source venv/bin/activate
+pip install -e ".[dev]"
+```
+
+### 3. Generate the dataset
+
+```bash
+python scripts/generate_dataset.py
+```
+
+### 4. Train the model
+
+```bash
+python scripts/train.py --epochs 30 --batch_size 64
+```
+
+### 5. Run evaluation
+
+```bash
+python scripts/evaluate.py
+```
+
+### 6. Start the API server
+
+```bash
+uvicorn src.api.main:app --host 0.0.0.0 --port 8000
+```
+
+Codespaces will show a notification to **Open in Browser** when port 8000 becomes available. Click it to access the interactive API docs at the `/docs` endpoint.
+
+> You can also go to the **Ports** tab in the Codespaces terminal panel, find port 8000, and click the globe icon to open it.
+
+### 7. Test the API
+
+```bash
+curl -X POST http://localhost:8000/recommend/complete-look \
+  -H "Content-Type: application/json" \
+  -d '{"item_id": 42, "user_id": 1, "num_outfits": 3}'
+```
+
+### 8. Run tests
+
+```bash
+pytest tests/ -v
+```
+
+### Alternative: Run with Docker in Codespaces
+
+Docker is pre-installed in Codespaces, so you can also run:
+
+```bash
+docker-compose up --build
+```
+
+This starts both the API server (port 8000) and Redis (port 6379). Codespaces will automatically forward both ports.
+
+> **Note:** Codespaces provides a minimum 2-core / 8 GB machine. This project runs on CPU and fits comfortably within those resources. For faster training, select a 4-core machine type from the Codespace creation options.
+
 ## API Endpoints
 
 | Method | Endpoint | Description |
